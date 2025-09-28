@@ -1,0 +1,11 @@
+membershiptypeid,typename,description,monthlyfee,registrationfee,duration,maxfamilymembers,isactive,createddate
+MT001,Basic Monthly,Access to cardio and strength equipment during regular hours,39.99,49.99,1,1,True,2023-10-18 23:32:05.283960
+MT002,Premium Monthly,Full gym access plus group classes and extended hours,69.99,49.99,1,1,True,2024-04-11 04:13:41.829736
+MT003,Family Monthly,Premium access for up to 4 family members,129.99,99.99,1,4,True,2021-02-11 10:38:36.033845
+MT004,Student Monthly,Discounted membership for students with valid ID,29.99,25.0,1,1,True,2023-10-10 00:54:11.403116
+MT005,Senior Monthly,Special pricing for members 65+ with off-peak access,34.99,25.0,1,2,True,2023-05-21 00:30:05.741300
+MT006,Corporate Monthly,Corporate membership with group discounts,54.99,0.0,1,1,True,2022-10-22 14:01:26.005592
+MT007,Annual Premium,Annual premium membership with 2 months free,58.33,0.0,12,1,True,2022-06-30 06:42:44.476725
+MT008,VIP Annual,Premium annual with personal training sessions included,99.99,0.0,12,1,True,2020-11-13 15:50:51.309311
+MT009,Day Pass,Single day access to basic facilities,25.0,0.0,0,1,True,2024-01-26 06:19:23.182779
+MT010,Legacy Plan (Discontinued),Old membership plan no longer offered,45.0,35.0,1,1,False,2022-10-10 15:24:38.932506

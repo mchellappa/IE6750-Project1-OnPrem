@@ -1,0 +1,1206 @@
+equipmentid,facilityid,areaid,equipmentname,equipmenttype,brand,model,serialnumber,purchasedate,purchaseprice,warrantyexpiry,status
+EQ0001,FAC001,AR001,Dumbbells #1,Free Weights,StairMaster,Dumbbells-292,BA482396-ABD,2022-08-25,58,2024-08-24,Active
+EQ0002,FAC001,AR001,Dumbbells #2,Free Weights,Technogym,Dumbbells-146,16FBBB99-8BE,2021-02-24,195,2022-02-24,Active
+EQ0003,FAC001,AR001,Dumbbells #3,Free Weights,Life Fitness,Dumbbells-600,35D0CC81-AA9,2022-10-22,117,2025-10-21,Maintenance
+EQ0004,FAC001,AR001,Dumbbells #4,Free Weights,NordicTrack,Dumbbells-660,AD748567-953,2025-07-22,166,2027-07-22,Maintenance
+EQ0005,FAC001,AR001,Dumbbells #5,Free Weights,NordicTrack,Dumbbells-706,5311EA56-E21,2023-04-27,66,2024-04-26,Active
+EQ0006,FAC001,AR001,Dumbbells #6,Free Weights,TRX,Dumbbells-411,7075A9C7-A1F,2024-03-31,142,2026-03-31,Active
+EQ0007,FAC001,AR001,Dumbbells #7,Free Weights,Cybex,Dumbbells-391,8BCE2C3C-7D3,2022-03-26,184,2024-03-25,Maintenance
+EQ0008,FAC001,AR001,Dumbbells #8,Free Weights,NordicTrack,Dumbbells-737,A060176D-8C2,2022-10-05,166,2024-10-04,Active
+EQ0009,FAC001,AR001,Dumbbells #9,Free Weights,Cybex,Dumbbells-907,E2AB90E6-DF6,2022-05-19,125,2023-05-19,Active
+EQ0010,FAC001,AR001,Dumbbells #10,Free Weights,Life Fitness,Dumbbells-815,2B539A62-DE2,2022-09-10,141,2023-09-10,Active
+EQ0011,FAC001,AR001,Dumbbells #11,Free Weights,TRX,Dumbbells-130,795F849D-3BD,2024-01-26,158,2025-01-25,Active
+EQ0012,FAC001,AR001,Dumbbells #12,Free Weights,Bowflex,Dumbbells-667,6F719662-038,2023-10-06,71,2025-10-05,Out of Service
+EQ0013,FAC001,AR001,Dumbbells #13,Free Weights,Cybex,Dumbbells-544,8668A834-39B,2024-11-05,167,2025-11-05,Active
+EQ0014,FAC001,AR001,Dumbbells #14,Free Weights,TRX,Dumbbells-616,E5141ED1-2F1,2024-01-07,185,2027-01-06,Active
+EQ0015,FAC001,AR001,Dumbbells #15,Free Weights,Technogym,Dumbbells-821,19FD3AC4-155,2024-10-01,156,2027-10-01,Active
+EQ0016,FAC001,AR001,Dumbbells #16,Free Weights,StairMaster,Dumbbells-346,736F8319-C38,2024-05-06,169,2027-05-06,Active
+EQ0017,FAC001,AR001,Dumbbells #17,Free Weights,NordicTrack,Dumbbells-596,6B5EA4FC-4A6,2022-05-21,146,2024-05-20,Active
+EQ0018,FAC001,AR001,Dumbbells #18,Free Weights,Cybex,Dumbbells-131,CC8125AE-5CE,2023-04-20,75,2026-04-19,Active
+EQ0019,FAC001,AR001,Dumbbells #19,Free Weights,Bowflex,Dumbbells-600,266EE178-70D,2020-10-14,56,2021-10-14,Active
+EQ0020,FAC001,AR001,Dumbbells #20,Free Weights,TRX,Dumbbells-344,BB4F6BAB-65A,2022-07-29,76,2025-07-28,Out of Service
+EQ0021,FAC001,AR001,Dumbbells #21,Free Weights,Technogym,Dumbbells-152,056CBCF9-271,2021-11-03,93,2022-11-03,Active
+EQ0022,FAC001,AR001,Dumbbells #22,Free Weights,Cybex,Dumbbells-721,4358E25B-954,2022-11-01,195,2024-10-31,Maintenance
+EQ0023,FAC001,AR001,Dumbbells #23,Free Weights,Technogym,Dumbbells-699,6CE87127-177,2024-12-20,77,2026-12-20,Active
+EQ0024,FAC001,AR001,Dumbbells #24,Free Weights,Bowflex,Dumbbells-619,610A7438-666,2022-03-30,135,2025-03-29,Active
+EQ0025,FAC001,AR001,Dumbbells #25,Free Weights,TRX,Dumbbells-268,AE90FCB9-3DB,2022-05-16,181,2025-05-15,Active
+EQ0026,FAC001,AR001,Dumbbells #26,Free Weights,TRX,Dumbbells-232,22493AA4-85F,2024-09-01,133,2026-09-01,Active
+EQ0027,FAC001,AR001,Dumbbells #27,Free Weights,Cybex,Dumbbells-143,EF5C1ED0-ADC,2022-06-15,117,2023-06-15,Maintenance
+EQ0028,FAC001,AR001,Dumbbells #28,Free Weights,StairMaster,Dumbbells-155,1BB80B5F-8C7,2022-11-01,132,2023-11-01,Out of Service
+EQ0029,FAC001,AR001,Dumbbells #29,Free Weights,Schwinn,Dumbbells-461,3EDA88A2-D31,2024-03-26,68,2025-03-26,Active
+EQ0030,FAC001,AR001,Dumbbells #30,Free Weights,Technogym,Dumbbells-868,2E30FC42-BC3,2020-10-28,62,2021-10-28,Active
+EQ0031,FAC001,AR001,Dumbbells #31,Free Weights,Precor,Dumbbells-232,454481F0-4DC,2023-07-13,115,2024-07-12,Active
+EQ0032,FAC001,AR001,Dumbbells #32,Free Weights,Bowflex,Dumbbells-270,E3950D1E-0EA,2023-06-07,93,2024-06-06,Active
+EQ0033,FAC001,AR001,Dumbbells #33,Free Weights,NordicTrack,Dumbbells-618,EB39B7D9-1BA,2023-08-23,164,2026-08-22,Active
+EQ0034,FAC001,AR001,Dumbbells #34,Free Weights,Bowflex,Dumbbells-640,C90E43E8-568,2024-05-25,189,2027-05-25,Active
+EQ0035,FAC001,AR001,Dumbbells #35,Free Weights,Technogym,Dumbbells-760,9C0C4EAF-2BD,2022-03-05,120,2023-03-05,Maintenance
+EQ0036,FAC001,AR001,Dumbbells #36,Free Weights,Technogym,Dumbbells-629,A87F669D-F6D,2020-10-28,76,2023-10-28,Maintenance
+EQ0037,FAC001,AR001,Dumbbells #37,Free Weights,Bowflex,Dumbbells-661,D7DB5403-1B4,2025-05-06,62,2027-05-06,Active
+EQ0038,FAC001,AR001,Dumbbells #38,Free Weights,Matrix,Dumbbells-298,C1EDD435-882,2021-07-01,164,2024-06-30,Active
+EQ0039,FAC001,AR001,Kettlebells #1,Free Weights,Technogym,Kettlebells-628,D6CEBB56-F97,2021-01-16,125,2023-01-16,Active
+EQ0040,FAC001,AR001,Kettlebells #2,Free Weights,Cybex,Kettlebells-702,97ED85D7-1DE,2025-08-28,65,2026-08-28,Active
+EQ0041,FAC001,AR001,Kettlebells #3,Free Weights,StairMaster,Kettlebells-261,EF30DBEA-324,2021-01-22,80,2024-01-22,Active
+EQ0042,FAC001,AR001,Kettlebells #4,Free Weights,Cybex,Kettlebells-733,81E93AFD-386,2025-05-19,119,2027-05-19,Active
+EQ0043,FAC001,AR001,Kettlebells #5,Free Weights,StairMaster,Kettlebells-576,FEBE6EB7-8E4,2024-02-26,115,2027-02-25,Active
+EQ0044,FAC001,AR001,Kettlebells #6,Free Weights,Bowflex,Kettlebells-735,BE64B517-0DD,2023-02-04,149,2026-02-03,Active
+EQ0045,FAC001,AR001,Kettlebells #7,Free Weights,Cybex,Kettlebells-602,68133B95-E4E,2025-01-21,81,2028-01-21,Active
+EQ0046,FAC001,AR001,Kettlebells #8,Free Weights,TRX,Kettlebells-310,031A0D10-A25,2021-08-04,129,2023-08-04,Active
+EQ0047,FAC001,AR001,Kettlebells #9,Free Weights,Cybex,Kettlebells-451,A7551AC9-20C,2021-09-29,145,2024-09-28,Active
+EQ0048,FAC001,AR001,Kettlebells #10,Free Weights,NordicTrack,Kettlebells-911,90B00ACA-2E7,2021-03-11,125,2022-03-11,Active
+EQ0049,FAC001,AR001,Kettlebells #11,Free Weights,Cybex,Kettlebells-567,0AC92E63-F1D,2023-06-17,113,2025-06-16,Active
+EQ0050,FAC001,AR001,Kettlebells #12,Free Weights,Cybex,Kettlebells-626,0B0103B1-FDD,2022-03-28,72,2024-03-27,Active
+EQ0051,FAC001,AR001,Kettlebells #13,Free Weights,Precor,Kettlebells-819,BCA68D75-662,2024-03-08,119,2026-03-08,Active
+EQ0052,FAC001,AR001,Kettlebells #14,Free Weights,Precor,Kettlebells-799,459E650D-FD2,2022-07-09,88,2023-07-09,Active
+EQ0053,FAC001,AR001,Kettlebells #15,Free Weights,Technogym,Kettlebells-228,0FB4AFC5-E13,2021-01-16,56,2024-01-16,Maintenance
+EQ0054,FAC001,AR001,Kettlebells #16,Free Weights,TRX,Kettlebells-138,06321DEB-D91,2021-07-02,43,2022-07-02,Active
+EQ0055,FAC001,AR001,Kettlebells #17,Free Weights,Bowflex,Kettlebells-504,A6B4A6B1-801,2024-05-29,142,2027-05-29,Active
+EQ0056,FAC001,AR001,Kettlebells #18,Free Weights,Schwinn,Kettlebells-375,EACB513C-C6A,2024-10-16,61,2025-10-16,Active
+EQ0057,FAC001,AR001,Kettlebells #19,Free Weights,Precor,Kettlebells-583,025EE7AE-8AA,2023-04-09,128,2025-04-08,Active
+EQ0058,FAC001,AR001,Kettlebells #20,Free Weights,Life Fitness,Kettlebells-590,6A151CE9-B1C,2023-01-05,95,2024-01-05,Active
+EQ0059,FAC001,AR001,Kettlebells #21,Free Weights,TRX,Kettlebells-145,E97CF8F2-469,2024-01-17,123,2027-01-16,Active
+EQ0060,FAC001,AR001,Kettlebells #22,Free Weights,Technogym,Kettlebells-453,F715C878-49C,2024-02-13,46,2027-02-12,Active
+EQ0061,FAC001,AR001,Kettlebells #23,Free Weights,Schwinn,Kettlebells-314,270EB22A-9B9,2024-01-26,59,2027-01-25,Active
+EQ0062,FAC001,AR001,Kettlebells #24,Free Weights,TRX,Kettlebells-904,83ED82AF-9BA,2021-10-23,114,2023-10-23,Active
+EQ0063,FAC001,AR001,Medicine Balls #1,Free Weights,Life Fitness,MedicineBalls-679,A2B6E76B-FC5,2022-10-19,34,2023-10-19,Maintenance
+EQ0064,FAC001,AR001,Medicine Balls #2,Free Weights,Bowflex,MedicineBalls-202,067945B4-32C,2022-06-05,56,2024-06-04,Active
+EQ0065,FAC001,AR001,Medicine Balls #3,Free Weights,Cybex,MedicineBalls-982,1AA2FC01-28C,2023-05-17,37,2025-05-16,Active
+EQ0066,FAC001,AR001,Medicine Balls #4,Free Weights,Cybex,MedicineBalls-168,439C519D-9C9,2022-05-09,100,2025-05-08,Active
+EQ0067,FAC001,AR001,Medicine Balls #5,Free Weights,TRX,MedicineBalls-467,4AD602FD-A87,2020-12-19,47,2023-12-19,Maintenance
+EQ0068,FAC001,AR001,Medicine Balls #6,Free Weights,StairMaster,MedicineBalls-796,355487AA-1EC,2025-01-04,55,2027-01-04,Active
+EQ0069,FAC001,AR001,Medicine Balls #7,Free Weights,Bowflex,MedicineBalls-217,12D71861-C30,2024-08-11,100,2025-08-11,Active
+EQ0070,FAC001,AR001,Medicine Balls #8,Free Weights,Bowflex,MedicineBalls-135,06630671-E6A,2025-09-20,67,2027-09-20,Maintenance
+EQ0071,FAC001,AR001,Medicine Balls #9,Free Weights,TRX,MedicineBalls-662,C1075D57-EB3,2023-04-11,25,2024-04-10,Maintenance
+EQ0072,FAC001,AR001,Medicine Balls #10,Free Weights,Schwinn,MedicineBalls-733,02354F25-D7B,2021-01-09,54,2024-01-09,Active
+EQ0073,FAC001,AR001,Resistance Bands #1,Free Weights,Schwinn,ResistanceBands-518,C20C52CE-2C9,2020-12-24,27,2022-12-24,Active
+EQ0074,FAC001,AR001,Resistance Bands #2,Free Weights,Matrix,ResistanceBands-850,0A7E0A4A-FFE,2023-10-21,34,2026-10-20,Maintenance
+EQ0075,FAC001,AR001,Resistance Bands #3,Free Weights,Precor,ResistanceBands-917,DD53730C-6B2,2022-04-29,21,2024-04-28,Active
+EQ0076,FAC001,AR001,Resistance Bands #4,Free Weights,Precor,ResistanceBands-842,BCE99907-4FF,2025-06-01,33,2026-06-01,Out of Service
+EQ0077,FAC001,AR001,Resistance Bands #5,Free Weights,Technogym,ResistanceBands-516,51882B02-D8D,2020-11-30,43,2021-11-30,Active
+EQ0078,FAC001,AR001,Resistance Bands #6,Free Weights,Schwinn,ResistanceBands-556,96E27BA5-6C7,2024-01-29,50,2026-01-28,Active
+EQ0079,FAC001,AR001,Resistance Bands #7,Free Weights,Precor,ResistanceBands-985,97936340-B4F,2025-01-07,19,2028-01-07,Maintenance
+EQ0080,FAC001,AR001,Resistance Bands #8,Free Weights,Bowflex,ResistanceBands-814,80C2665A-29A,2024-09-12,27,2027-09-12,Active
+EQ0081,FAC001,AR001,Resistance Bands #9,Free Weights,Schwinn,ResistanceBands-795,6D91E5E4-350,2023-09-25,21,2025-09-24,Active
+EQ0082,FAC001,AR001,Resistance Bands #10,Free Weights,Matrix,ResistanceBands-571,205F6345-F4F,2024-09-16,13,2026-09-16,Active
+EQ0083,FAC001,AR001,Resistance Bands #11,Free Weights,Life Fitness,ResistanceBands-721,6CB9E790-218,2023-10-26,26,2025-10-25,Maintenance
+EQ0084,FAC001,AR001,Resistance Bands #12,Free Weights,Schwinn,ResistanceBands-902,55295F75-FCD,2021-04-17,12,2022-04-17,Active
+EQ0085,FAC001,AR001,Resistance Bands #13,Free Weights,StairMaster,ResistanceBands-203,2ED7168C-694,2025-06-14,21,2028-06-13,Active
+EQ0086,FAC001,AR001,Resistance Bands #14,Free Weights,Matrix,ResistanceBands-938,C9920953-A94,2023-01-28,35,2026-01-27,Active
+EQ0087,FAC001,AR001,Resistance Bands #15,Free Weights,Precor,ResistanceBands-688,C84D7938-724,2021-03-15,25,2023-03-15,Active
+EQ0088,FAC001,AR001,Resistance Bands #16,Free Weights,Precor,ResistanceBands-169,847684F6-899,2025-03-28,25,2026-03-28,Active
+EQ0089,FAC001,AR001,Resistance Bands #17,Free Weights,Schwinn,ResistanceBands-874,D657628B-F15,2022-08-12,31,2023-08-12,Active
+EQ0090,FAC001,AR001,Resistance Bands #18,Free Weights,Technogym,ResistanceBands-924,C5D3798F-AF2,2022-07-22,26,2024-07-21,Active
+EQ0091,FAC001,AR001,Resistance Bands #19,Free Weights,Matrix,ResistanceBands-458,E0DF8504-277,2024-09-19,28,2027-09-19,Active
+EQ0092,FAC001,AR001,Resistance Bands #20,Free Weights,Precor,ResistanceBands-212,453ABB7B-BD1,2024-12-14,41,2026-12-14,Active
+EQ0093,FAC001,AR001,Resistance Bands #21,Free Weights,TRX,ResistanceBands-393,9FF214A6-20E,2025-03-22,46,2028-03-21,Maintenance
+EQ0094,FAC001,AR001,Resistance Bands #22,Free Weights,Technogym,ResistanceBands-355,2D72C520-E97,2021-10-28,33,2022-10-28,Active
+EQ0095,FAC001,AR001,Resistance Bands #23,Free Weights,Bowflex,ResistanceBands-655,E6E02F6B-996,2022-10-31,10,2023-10-31,Active
+EQ0096,FAC001,AR001,Resistance Bands #24,Free Weights,Bowflex,ResistanceBands-752,FF17E844-1E2,2023-07-20,47,2026-07-19,Active
+EQ0097,FAC001,AR001,Resistance Bands #25,Free Weights,Bowflex,ResistanceBands-470,27272588-491,2021-05-06,32,2022-05-06,Active
+EQ0098,FAC001,AR001,Resistance Bands #26,Free Weights,StairMaster,ResistanceBands-986,6144AC34-E3C,2022-05-18,45,2024-05-17,Active
+EQ0099,FAC001,AR001,Resistance Bands #27,Free Weights,Schwinn,ResistanceBands-614,53B5B4F6-D34,2023-10-31,21,2026-10-30,Active
+EQ0100,FAC001,AR001,Resistance Bands #28,Free Weights,Cybex,ResistanceBands-481,D15275A7-790,2022-01-31,41,2025-01-30,Active
+EQ0101,FAC001,AR001,Resistance Bands #29,Free Weights,TRX,ResistanceBands-455,4141FBDA-322,2021-06-27,48,2022-06-27,Active
+EQ0102,FAC001,AR001,Resistance Bands #30,Free Weights,Life Fitness,ResistanceBands-487,F2555EB8-94A,2021-04-13,17,2024-04-12,Out of Service
+EQ0103,FAC001,AR001,Resistance Bands #31,Free Weights,Bowflex,ResistanceBands-530,C3649576-992,2023-06-12,19,2026-06-11,Active
+EQ0104,FAC001,AR001,Resistance Bands #32,Free Weights,NordicTrack,ResistanceBands-526,28525AA3-122,2021-09-02,16,2022-09-02,Maintenance
+EQ0105,FAC001,AR001,Resistance Bands #33,Free Weights,Bowflex,ResistanceBands-564,E71DA664-001,2022-05-04,29,2025-05-03,Active
+EQ0106,FAC001,AR001,Resistance Bands #34,Free Weights,StairMaster,ResistanceBands-982,B8FE8EC9-D20,2021-03-23,10,2024-03-22,Active
+EQ0107,FAC001,AR001,Resistance Bands #35,Free Weights,TRX,ResistanceBands-677,B10E4D82-540,2021-05-25,37,2023-05-25,Active
+EQ0108,FAC001,AR001,Resistance Bands #36,Free Weights,Technogym,ResistanceBands-906,29EFEB6F-054,2022-11-11,11,2025-11-10,Active
+EQ0109,FAC001,AR001,Resistance Bands #37,Free Weights,Bowflex,ResistanceBands-693,455E68B6-6EA,2025-01-01,20,2027-01-01,Active
+EQ0110,FAC001,AR001,Resistance Bands #38,Free Weights,Precor,ResistanceBands-676,C1EB97FB-2DC,2024-05-15,44,2026-05-15,Maintenance
+EQ0111,FAC001,AR002,Treadmill #1,Cardio,Life Fitness,Treadmill-307,BECCE6A8-D78,2022-03-29,7285,2024-03-28,Active
+EQ0112,FAC001,AR002,Treadmill #2,Cardio,StairMaster,Treadmill-634,E62D1959-4A3,2023-06-24,4349,2025-06-23,Active
+EQ0113,FAC001,AR002,Treadmill #3,Cardio,Bowflex,Treadmill-804,85B6A6BF-E46,2023-01-05,4376,2024-01-05,Active
+EQ0114,FAC001,AR002,Treadmill #4,Cardio,Matrix,Treadmill-485,BF71113C-5CC,2021-11-17,4905,2024-11-16,Active
+EQ0115,FAC001,AR002,Treadmill #5,Cardio,Technogym,Treadmill-866,F99B9684-F9A,2023-09-03,3980,2024-09-02,Active
+EQ0116,FAC001,AR002,Treadmill #6,Cardio,Matrix,Treadmill-462,01314ED1-633,2022-02-28,6972,2023-02-28,Active
+EQ0117,FAC001,AR002,Treadmill #7,Cardio,Schwinn,Treadmill-401,1D53E0C1-D6D,2021-10-09,5532,2024-10-08,Active
+EQ0118,FAC001,AR002,Treadmill #8,Cardio,Precor,Treadmill-415,9108D4C1-D73,2025-01-13,3519,2027-01-13,Active
+EQ0119,FAC001,AR002,Treadmill #9,Cardio,Technogym,Treadmill-228,5CCDE39C-2F3,2021-09-16,3567,2023-09-16,Maintenance
+EQ0120,FAC001,AR002,Treadmill #10,Cardio,Bowflex,Treadmill-421,E58B0979-449,2022-12-25,6242,2023-12-25,Active
+EQ0121,FAC001,AR002,Treadmill #11,Cardio,Life Fitness,Treadmill-515,B7F4D7AB-834,2025-03-07,6214,2027-03-07,Active
+EQ0122,FAC001,AR002,Elliptical #1,Cardio,Bowflex,Elliptical-173,A8E85BA1-561,2021-01-31,3884,2024-01-31,Active
+EQ0123,FAC001,AR002,Elliptical #2,Cardio,Precor,Elliptical-154,F8C9E6EC-BEC,2022-09-05,2505,2023-09-05,Active
+EQ0124,FAC001,AR002,Elliptical #3,Cardio,Technogym,Elliptical-890,C659B2E7-0F2,2024-01-30,3405,2027-01-29,Active
+EQ0125,FAC001,AR002,Elliptical #4,Cardio,Precor,Elliptical-442,05F28D32-3A5,2024-02-27,2584,2025-02-26,Active
+EQ0126,FAC001,AR002,Elliptical #5,Cardio,TRX,Elliptical-270,F4101522-A3D,2022-03-15,4461,2023-03-15,Active
+EQ0127,FAC001,AR002,Elliptical #6,Cardio,Bowflex,Elliptical-166,0DB02F9B-C8F,2022-06-18,4965,2024-06-17,Maintenance
+EQ0128,FAC001,AR002,Elliptical #7,Cardio,Matrix,Elliptical-582,4277B332-C98,2023-11-29,2811,2026-11-28,Active
+EQ0129,FAC001,AR002,Elliptical #8,Cardio,Precor,Elliptical-275,24763951-3CC,2024-01-28,5772,2025-01-27,Active
+EQ0130,FAC001,AR002,Stationary Bike #1,Cardio,Life Fitness,StationaryBike-593,1B6CB8E0-0D0,2024-11-14,3221,2026-11-14,Active
+EQ0131,FAC001,AR002,Stationary Bike #2,Cardio,Precor,StationaryBike-294,D98ACA9D-B0E,2021-08-17,1990,2023-08-17,Active
+EQ0132,FAC001,AR002,Stationary Bike #3,Cardio,Schwinn,StationaryBike-211,391BFC74-90C,2021-01-04,2471,2023-01-04,Active
+EQ0133,FAC001,AR002,Stationary Bike #4,Cardio,Matrix,StationaryBike-349,68D38857-2B6,2024-08-13,3550,2025-08-13,Active
+EQ0134,FAC001,AR002,Stationary Bike #5,Cardio,Matrix,StationaryBike-361,22146231-0E6,2021-09-21,2700,2022-09-21,Active
+EQ0135,FAC001,AR002,Stationary Bike #6,Cardio,Bowflex,StationaryBike-284,8CDCB691-9EC,2023-02-10,2326,2026-02-09,Active
+EQ0136,FAC001,AR002,Stationary Bike #7,Cardio,NordicTrack,StationaryBike-469,D976476B-CB3,2025-03-18,3230,2028-03-17,Active
+EQ0137,FAC001,AR002,Stationary Bike #8,Cardio,Matrix,StationaryBike-606,59E588F0-B8D,2023-05-13,2509,2025-05-12,Active
+EQ0138,FAC001,AR002,Rowing Machine #1,Cardio,Bowflex,RowingMachine-310,F256CD1B-29C,2025-01-30,1098,2026-01-30,Active
+EQ0139,FAC001,AR002,Rowing Machine #2,Cardio,Life Fitness,RowingMachine-280,CB7C8348-9D7,2023-07-19,1285,2024-07-18,Active
+EQ0140,FAC001,AR002,Rowing Machine #3,Cardio,Matrix,RowingMachine-134,B21DCA7C-C81,2022-05-02,900,2025-05-01,Maintenance
+EQ0141,FAC001,AR002,StairMaster #1,Cardio,Precor,StairMaster-655,6DE64242-77B,2022-05-15,3305,2025-05-14,Active
+EQ0142,FAC001,AR002,StairMaster #2,Cardio,Matrix,StairMaster-333,C9884EBF-5D9,2022-05-19,3738,2025-05-18,Active
+EQ0143,FAC001,AR002,StairMaster #3,Cardio,Matrix,StairMaster-386,84C0AEFF-361,2025-01-19,4509,2026-01-19,Maintenance
+EQ0144,FAC001,AR003,Bench Press #1,Strength,Bowflex,BenchPress-459,860936EF-494,2021-03-26,1483,2022-03-26,Active
+EQ0145,FAC001,AR003,Bench Press #2,Strength,TRX,BenchPress-866,04684917-4A5,2025-04-19,1512,2028-04-18,Active
+EQ0146,FAC001,AR003,Bench Press #3,Strength,StairMaster,BenchPress-624,18546BB4-950,2020-10-19,2253,2023-10-19,Maintenance
+EQ0147,FAC001,AR003,Bench Press #4,Strength,Cybex,BenchPress-520,2F5E07FD-8F4,2021-10-07,1439,2023-10-07,Active
+EQ0148,FAC001,AR003,Bench Press #5,Strength,Technogym,BenchPress-895,A81AB748-0DB,2022-03-20,2490,2025-03-19,Active
+EQ0149,FAC001,AR003,Squat Rack #1,Strength,Technogym,SquatRack-740,2D772DB2-901,2025-07-21,3258,2028-07-20,Active
+EQ0150,FAC001,AR003,Squat Rack #2,Strength,Cybex,SquatRack-142,98566EC4-578,2025-03-04,3274,2027-03-04,Active
+EQ0151,FAC001,AR003,Cable Machine #1,Strength,Technogym,CableMachine-523,58EE6A88-F1C,2020-12-02,4043,2022-12-02,Active
+EQ0152,FAC001,AR003,Cable Machine #2,Strength,StairMaster,CableMachine-742,8C098727-883,2025-01-29,4877,2027-01-29,Active
+EQ0153,FAC001,AR003,Cable Machine #3,Strength,Schwinn,CableMachine-292,2D4607ED-9D5,2022-11-30,6439,2024-11-29,Active
+EQ0154,FAC001,AR003,Cable Machine #4,Strength,Schwinn,CableMachine-392,82019F57-F60,2024-05-28,6812,2027-05-28,Active
+EQ0155,FAC001,AR003,Cable Machine #5,Strength,Life Fitness,CableMachine-308,4FC77BEB-6EF,2024-09-02,4108,2027-09-02,Maintenance
+EQ0156,FAC001,AR003,Cable Machine #6,Strength,NordicTrack,CableMachine-865,104EC280-F14,2025-09-10,3039,2028-09-09,Active
+EQ0157,FAC001,AR003,Cable Machine #7,Strength,StairMaster,CableMachine-332,0CB37533-93E,2024-03-12,5578,2027-03-12,Active
+EQ0158,FAC001,AR003,Cable Machine #8,Strength,Matrix,CableMachine-974,8EC084C9-6D3,2024-01-23,4039,2027-01-22,Active
+EQ0159,FAC001,AR003,Leg Press #1,Strength,Cybex,LegPress-902,4CE3C453-E5E,2021-05-28,7901,2024-05-27,Active
+EQ0160,FAC001,AR003,Leg Press #2,Strength,Technogym,LegPress-356,8830CD2A-412,2021-07-08,5766,2023-07-08,Active
+EQ0161,FAC001,AR003,Leg Press #3,Strength,TRX,LegPress-425,44D6268F-7D8,2020-11-23,4695,2021-11-23,Active
+EQ0162,FAC001,AR003,Smith Machine #1,Strength,Bowflex,SmithMachine-795,3D89D3E6-E81,2024-11-27,5381,2025-11-27,Active
+EQ0163,FAC001,AR003,Smith Machine #2,Strength,Life Fitness,SmithMachine-441,5FF00A8D-FE9,2020-12-24,3777,2023-12-24,Active
+EQ0164,FAC001,AR007,Sound System #1,Studio Equipment,Precor,SoundSystem-506,9E4331D1-F9C,2025-01-20,1943,2026-01-20,Active
+EQ0165,FAC001,AR007,Mirrors #1,Studio Equipment,TRX,Mirrors-207,1C5ACDF6-F0B,2025-04-12,356,2028-04-11,Active
+EQ0166,FAC001,AR007,Mirrors #2,Studio Equipment,Schwinn,Mirrors-961,73F07080-DD6,2023-10-12,483,2026-10-11,Maintenance
+EQ0167,FAC001,AR007,Mirrors #3,Studio Equipment,Life Fitness,Mirrors-946,CA360023-B2F,2021-12-03,516,2023-12-03,Active
+EQ0168,FAC001,AR007,Mirrors #4,Studio Equipment,StairMaster,Mirrors-818,2EF68868-EE9,2023-10-04,359,2024-10-03,Active
+EQ0169,FAC001,AR007,Yoga Mats #1,Studio Equipment,Cybex,YogaMats-608,5E4E47F2-4BC,2021-09-18,49,2022-09-18,Active
+EQ0170,FAC001,AR007,Yoga Mats #2,Studio Equipment,Technogym,YogaMats-777,5AB1C2FF-15B,2021-12-01,20,2023-12-01,Out of Service
+EQ0171,FAC001,AR007,Yoga Mats #3,Studio Equipment,Life Fitness,YogaMats-708,484E4FAB-2C3,2024-09-24,31,2026-09-24,Active
+EQ0172,FAC001,AR007,Yoga Mats #4,Studio Equipment,Technogym,YogaMats-864,B8F0770B-788,2024-03-07,46,2027-03-07,Active
+EQ0173,FAC001,AR007,Yoga Mats #5,Studio Equipment,Precor,YogaMats-433,5BE33F70-7A2,2021-02-01,16,2024-02-01,Active
+EQ0174,FAC001,AR007,Yoga Mats #6,Studio Equipment,Bowflex,YogaMats-184,AF8B42D2-8BF,2022-02-21,20,2023-02-21,Active
+EQ0175,FAC001,AR007,Yoga Mats #7,Studio Equipment,Technogym,YogaMats-658,C4E6D7F9-EBB,2025-08-11,41,2026-08-11,Maintenance
+EQ0176,FAC001,AR007,Yoga Mats #8,Studio Equipment,Technogym,YogaMats-779,5F6E7896-9FA,2022-01-11,41,2024-01-11,Active
+EQ0177,FAC001,AR007,Yoga Mats #9,Studio Equipment,TRX,YogaMats-789,D613C305-D24,2023-05-22,32,2025-05-21,Active
+EQ0178,FAC001,AR007,Yoga Mats #10,Studio Equipment,Schwinn,YogaMats-949,412E9D2C-E15,2022-02-10,46,2024-02-10,Maintenance
+EQ0179,FAC001,AR007,Yoga Mats #11,Studio Equipment,Life Fitness,YogaMats-834,C285EC0E-7FB,2025-01-04,35,2027-01-04,Active
+EQ0180,FAC001,AR007,Yoga Mats #12,Studio Equipment,Schwinn,YogaMats-865,2F872603-78B,2025-06-15,50,2027-06-15,Active
+EQ0181,FAC001,AR007,Yoga Mats #13,Studio Equipment,Technogym,YogaMats-302,362CD848-F85,2024-07-07,33,2026-07-07,Active
+EQ0182,FAC001,AR007,Yoga Mats #14,Studio Equipment,Precor,YogaMats-415,2E7CEFB6-7C3,2022-05-08,50,2025-05-07,Active
+EQ0183,FAC001,AR007,Yoga Mats #15,Studio Equipment,StairMaster,YogaMats-750,FB292558-EFA,2021-04-29,15,2024-04-28,Active
+EQ0184,FAC001,AR007,Yoga Mats #16,Studio Equipment,Precor,YogaMats-547,A82733B0-798,2025-02-23,21,2027-02-23,Active
+EQ0185,FAC001,AR007,Yoga Mats #17,Studio Equipment,TRX,YogaMats-934,9CC8A1E7-681,2022-02-03,42,2024-02-03,Active
+EQ0186,FAC001,AR007,Yoga Mats #18,Studio Equipment,Matrix,YogaMats-622,B23F222B-E62,2025-09-10,31,2027-09-10,Active
+EQ0187,FAC001,AR007,Yoga Mats #19,Studio Equipment,NordicTrack,YogaMats-541,67702D3B-836,2021-09-25,40,2024-09-24,Active
+EQ0188,FAC001,AR007,Yoga Mats #20,Studio Equipment,Life Fitness,YogaMats-497,2673AC0E-C17,2021-05-11,35,2024-05-10,Active
+EQ0189,FAC001,AR007,Yoga Mats #21,Studio Equipment,Matrix,YogaMats-291,F048370A-B64,2022-10-09,37,2024-10-08,Active
+EQ0190,FAC001,AR007,Yoga Mats #22,Studio Equipment,Technogym,YogaMats-560,FCD605D6-755,2022-12-04,25,2023-12-04,Active
+EQ0191,FAC001,AR007,Yoga Mats #23,Studio Equipment,Schwinn,YogaMats-304,EFFAB940-237,2023-10-19,42,2024-10-18,Active
+EQ0192,FAC001,AR007,Yoga Mats #24,Studio Equipment,NordicTrack,YogaMats-570,509F9539-6A1,2021-06-16,42,2024-06-15,Active
+EQ0193,FAC001,AR007,Yoga Mats #25,Studio Equipment,NordicTrack,YogaMats-848,967DFD1D-57C,2022-03-22,28,2023-03-22,Active
+EQ0194,FAC001,AR007,Yoga Mats #26,Studio Equipment,Schwinn,YogaMats-365,CEB6B489-B96,2021-01-20,26,2024-01-20,Active
+EQ0195,FAC001,AR007,Yoga Mats #27,Studio Equipment,StairMaster,YogaMats-353,96D0D083-B3A,2022-06-09,46,2025-06-08,Active
+EQ0196,FAC001,AR007,Stability Balls #1,Studio Equipment,Matrix,StabilityBalls-831,08E48DC4-F9B,2023-11-01,34,2026-10-31,Active
+EQ0197,FAC001,AR007,Stability Balls #2,Studio Equipment,NordicTrack,StabilityBalls-170,65A0DB75-435,2024-03-22,25,2025-03-22,Active
+EQ0198,FAC001,AR007,Stability Balls #3,Studio Equipment,Schwinn,StabilityBalls-976,50F0BEB8-5AF,2024-08-23,52,2025-08-23,Active
+EQ0199,FAC001,AR007,Stability Balls #4,Studio Equipment,Cybex,StabilityBalls-924,DF1A495E-1DE,2023-01-19,21,2025-01-18,Active
+EQ0200,FAC001,AR007,Stability Balls #5,Studio Equipment,TRX,StabilityBalls-789,6B203C5E-72F,2021-04-05,59,2024-04-04,Active
+EQ0201,FAC001,AR007,Stability Balls #6,Studio Equipment,TRX,StabilityBalls-819,2709460E-BD7,2024-09-06,35,2025-09-06,Active
+EQ0202,FAC001,AR007,Stability Balls #7,Studio Equipment,Bowflex,StabilityBalls-241,4DA89009-FAF,2024-09-02,20,2025-09-02,Active
+EQ0203,FAC001,AR007,Stability Balls #8,Studio Equipment,Schwinn,StabilityBalls-498,B337495B-AD8,2024-09-10,28,2027-09-10,Maintenance
+EQ0204,FAC001,AR007,Stability Balls #9,Studio Equipment,Cybex,StabilityBalls-240,4D4A8A87-C3E,2022-07-09,59,2024-07-08,Active
+EQ0205,FAC001,AR007,Stability Balls #10,Studio Equipment,Technogym,StabilityBalls-623,97D74BC4-609,2024-12-21,41,2027-12-21,Active
+EQ0206,FAC001,AR007,Stability Balls #11,Studio Equipment,StairMaster,StabilityBalls-787,DDB04A5E-2B6,2023-01-17,50,2024-01-17,Active
+EQ0207,FAC001,AR007,Stability Balls #12,Studio Equipment,Matrix,StabilityBalls-833,0EA1C3F7-B67,2023-01-08,23,2024-01-08,Maintenance
+EQ0208,FAC001,AR007,Stability Balls #13,Studio Equipment,Technogym,StabilityBalls-323,EC20E95B-6FE,2022-05-03,58,2025-05-02,Active
+EQ0209,FAC001,AR007,Stability Balls #14,Studio Equipment,Matrix,StabilityBalls-942,420D3007-1EE,2022-03-23,49,2023-03-23,Active
+EQ0210,FAC001,AR007,Stability Balls #15,Studio Equipment,Cybex,StabilityBalls-826,FCBF8B09-4E7,2022-08-16,35,2024-08-15,Active
+EQ0211,FAC001,AR007,Stability Balls #16,Studio Equipment,Technogym,StabilityBalls-573,D5D8D928-955,2024-02-09,41,2027-02-08,Active
+EQ0212,FAC001,AR007,Stability Balls #17,Studio Equipment,Bowflex,StabilityBalls-912,9207BFFD-B68,2021-07-03,29,2023-07-03,Active
+EQ0213,FAC001,AR007,Stability Balls #18,Studio Equipment,Schwinn,StabilityBalls-714,6CE9402A-9D5,2021-11-17,52,2023-11-17,Active
+EQ0214,FAC001,AR007,Stability Balls #19,Studio Equipment,Precor,StabilityBalls-641,1C1FB627-0ED,2023-02-27,59,2026-02-26,Active
+EQ0215,FAC001,AR007,Stability Balls #20,Studio Equipment,TRX,StabilityBalls-289,EDC5E3DE-B71,2022-05-12,23,2025-05-11,Active
+EQ0216,FAC001,AR011,Sound System #1,Studio Equipment,Technogym,SoundSystem-169,283390E3-688,2022-01-18,3250,2023-01-18,Active
+EQ0217,FAC001,AR011,Mirrors #1,Studio Equipment,Matrix,Mirrors-961,86E291C3-2F2,2021-07-19,210,2024-07-18,Active
+EQ0218,FAC001,AR011,Mirrors #2,Studio Equipment,NordicTrack,Mirrors-176,9FD42A6E-AD9,2020-11-14,242,2023-11-14,Active
+EQ0219,FAC001,AR011,Mirrors #3,Studio Equipment,TRX,Mirrors-143,448AE0B2-6E3,2025-08-23,497,2027-08-23,Active
+EQ0220,FAC001,AR011,Mirrors #4,Studio Equipment,Schwinn,Mirrors-268,50E11F8A-288,2023-05-11,262,2026-05-10,Active
+EQ0221,FAC001,AR011,Mirrors #5,Studio Equipment,Life Fitness,Mirrors-630,EB857005-28A,2021-09-17,276,2024-09-16,Active
+EQ0222,FAC001,AR011,Mirrors #6,Studio Equipment,TRX,Mirrors-547,5B82E1F3-B17,2021-07-10,378,2022-07-10,Maintenance
+EQ0223,FAC001,AR011,Yoga Mats #1,Studio Equipment,Technogym,YogaMats-856,739D73B8-A87,2023-10-28,19,2025-10-27,Active
+EQ0224,FAC001,AR011,Yoga Mats #2,Studio Equipment,NordicTrack,YogaMats-339,3BB99863-82C,2021-09-04,39,2022-09-04,Active
+EQ0225,FAC001,AR011,Yoga Mats #3,Studio Equipment,TRX,YogaMats-199,BBFF0DBF-A38,2025-01-15,32,2028-01-15,Active
+EQ0226,FAC001,AR011,Yoga Mats #4,Studio Equipment,Schwinn,YogaMats-935,F7140F83-1A6,2021-01-08,43,2023-01-08,Active
+EQ0227,FAC001,AR011,Yoga Mats #5,Studio Equipment,NordicTrack,YogaMats-729,3EB292F9-473,2024-08-20,19,2026-08-20,Active
+EQ0228,FAC001,AR011,Yoga Mats #6,Studio Equipment,Precor,YogaMats-696,5FEB8E45-A15,2025-07-25,34,2027-07-25,Maintenance
+EQ0229,FAC001,AR011,Yoga Mats #7,Studio Equipment,Precor,YogaMats-386,AB43EA5D-83F,2021-03-14,27,2023-03-14,Active
+EQ0230,FAC001,AR011,Yoga Mats #8,Studio Equipment,Matrix,YogaMats-955,4DE8A593-17D,2024-12-23,48,2027-12-23,Active
+EQ0231,FAC001,AR011,Yoga Mats #9,Studio Equipment,Precor,YogaMats-480,F08A7AA1-DFE,2022-07-27,18,2025-07-26,Active
+EQ0232,FAC001,AR011,Yoga Mats #10,Studio Equipment,Schwinn,YogaMats-218,C0D734ED-0DF,2025-04-15,28,2026-04-15,Active
+EQ0233,FAC001,AR011,Yoga Mats #11,Studio Equipment,NordicTrack,YogaMats-195,183DE53E-409,2024-12-18,15,2027-12-18,Active
+EQ0234,FAC001,AR011,Yoga Mats #12,Studio Equipment,Bowflex,YogaMats-880,74935AC4-732,2022-05-01,24,2025-04-30,Maintenance
+EQ0235,FAC001,AR011,Yoga Mats #13,Studio Equipment,Technogym,YogaMats-536,863EE375-AF8,2021-12-15,40,2022-12-15,Active
+EQ0236,FAC001,AR011,Yoga Mats #14,Studio Equipment,StairMaster,YogaMats-628,D806910B-182,2023-08-15,31,2024-08-14,Maintenance
+EQ0237,FAC001,AR011,Yoga Mats #15,Studio Equipment,Matrix,YogaMats-461,DBF9FC8B-989,2021-12-26,23,2024-12-25,Out of Service
+EQ0238,FAC001,AR011,Yoga Mats #16,Studio Equipment,Matrix,YogaMats-710,02DD0557-9D6,2022-01-20,40,2025-01-19,Maintenance
+EQ0239,FAC001,AR011,Yoga Mats #17,Studio Equipment,Technogym,YogaMats-470,8D309129-2E5,2021-11-26,30,2024-11-25,Out of Service
+EQ0240,FAC001,AR011,Yoga Mats #18,Studio Equipment,Precor,YogaMats-796,55BDCFA9-7E7,2024-01-31,28,2026-01-30,Active
+EQ0241,FAC001,AR011,Yoga Mats #19,Studio Equipment,Cybex,YogaMats-516,F24D5D7C-AEA,2024-02-20,23,2025-02-19,Active
+EQ0242,FAC001,AR011,Yoga Mats #20,Studio Equipment,NordicTrack,YogaMats-106,E0842010-E7A,2023-09-17,26,2025-09-16,Maintenance
+EQ0243,FAC001,AR011,Yoga Mats #21,Studio Equipment,Precor,YogaMats-901,8660222A-37C,2024-09-06,26,2025-09-06,Active
+EQ0244,FAC001,AR011,Yoga Mats #22,Studio Equipment,Precor,YogaMats-142,7E75F1C9-AA9,2023-05-31,22,2025-05-30,Active
+EQ0245,FAC001,AR011,Yoga Mats #23,Studio Equipment,Cybex,YogaMats-352,87FE3E0F-B66,2021-11-17,39,2023-11-17,Active
+EQ0246,FAC001,AR011,Yoga Mats #24,Studio Equipment,Cybex,YogaMats-375,6B7EF8F3-9BF,2025-05-01,23,2027-05-01,Active
+EQ0247,FAC001,AR011,Yoga Mats #25,Studio Equipment,Matrix,YogaMats-498,837A878E-F32,2023-12-31,29,2026-12-30,Active
+EQ0248,FAC001,AR011,Yoga Mats #26,Studio Equipment,NordicTrack,YogaMats-331,F8907282-7D9,2022-07-16,18,2023-07-16,Active
+EQ0249,FAC001,AR011,Yoga Mats #27,Studio Equipment,NordicTrack,YogaMats-437,1553768D-508,2022-05-06,38,2025-05-05,Active
+EQ0250,FAC001,AR011,Yoga Mats #28,Studio Equipment,Cybex,YogaMats-369,1DDB51C8-834,2024-02-06,46,2025-02-05,Active
+EQ0251,FAC001,AR011,Yoga Mats #29,Studio Equipment,Cybex,YogaMats-503,5936AC58-A8F,2022-11-28,21,2025-11-27,Maintenance
+EQ0252,FAC001,AR011,Yoga Mats #30,Studio Equipment,Bowflex,YogaMats-667,47164023-00A,2023-12-07,29,2026-12-06,Active
+EQ0253,FAC001,AR011,Stability Balls #1,Studio Equipment,Schwinn,StabilityBalls-392,4D357E97-13C,2022-06-25,59,2023-06-25,Maintenance
+EQ0254,FAC001,AR011,Stability Balls #2,Studio Equipment,Precor,StabilityBalls-947,A443FB7A-861,2022-09-07,24,2025-09-06,Active
+EQ0255,FAC001,AR011,Stability Balls #3,Studio Equipment,TRX,StabilityBalls-271,D1185A9E-B87,2021-09-05,39,2024-09-04,Active
+EQ0256,FAC001,AR011,Stability Balls #4,Studio Equipment,Schwinn,StabilityBalls-195,6575A209-8ED,2024-06-10,22,2025-06-10,Active
+EQ0257,FAC001,AR011,Stability Balls #5,Studio Equipment,Precor,StabilityBalls-492,5191AADC-476,2023-06-23,54,2026-06-22,Active
+EQ0258,FAC001,AR011,Stability Balls #6,Studio Equipment,Schwinn,StabilityBalls-859,5A2146B2-A82,2024-11-26,49,2026-11-26,Active
+EQ0259,FAC001,AR011,Stability Balls #7,Studio Equipment,Life Fitness,StabilityBalls-190,1F95F2EC-B73,2025-01-18,30,2028-01-18,Active
+EQ0260,FAC001,AR011,Stability Balls #8,Studio Equipment,Precor,StabilityBalls-222,BCC2FD6F-030,2021-05-28,56,2023-05-28,Active
+EQ0261,FAC001,AR011,Stability Balls #9,Studio Equipment,Precor,StabilityBalls-855,BF331E35-17A,2023-12-04,50,2025-12-03,Active
+EQ0262,FAC001,AR011,Stability Balls #10,Studio Equipment,Matrix,StabilityBalls-510,F3BD3E80-2A3,2021-02-26,29,2022-02-26,Active
+EQ0263,FAC001,AR011,Stability Balls #11,Studio Equipment,Precor,StabilityBalls-673,BF493554-DBE,2021-06-13,50,2022-06-13,Active
+EQ0264,FAC001,AR011,Stability Balls #12,Studio Equipment,Schwinn,StabilityBalls-411,B185819A-F9C,2025-06-06,46,2027-06-06,Active
+EQ0265,FAC001,AR011,Stability Balls #13,Studio Equipment,Matrix,StabilityBalls-157,6419B7A0-B6A,2024-05-31,44,2026-05-31,Active
+EQ0266,FAC001,AR011,Stability Balls #14,Studio Equipment,Schwinn,StabilityBalls-158,217E80FE-A0D,2023-03-19,56,2024-03-18,Active
+EQ0267,FAC001,AR011,Stability Balls #15,Studio Equipment,Technogym,StabilityBalls-905,96D1ECD3-D13,2022-07-10,42,2023-07-10,Active
+EQ0268,FAC001,AR011,Stability Balls #16,Studio Equipment,Bowflex,StabilityBalls-321,DA3C11F4-7D4,2024-08-18,46,2026-08-18,Active
+EQ0269,FAC001,AR011,Stability Balls #17,Studio Equipment,StairMaster,StabilityBalls-470,DE17B30F-330,2023-12-27,33,2024-12-26,Active
+EQ0270,FAC001,AR011,Stability Balls #18,Studio Equipment,StairMaster,StabilityBalls-205,36638DE4-D4B,2024-06-07,60,2025-06-07,Active
+EQ0271,FAC001,AR011,Stability Balls #19,Studio Equipment,Technogym,StabilityBalls-280,B27E504A-55C,2023-01-07,37,2024-01-07,Active
+EQ0272,FAC001,AR011,Stability Balls #20,Studio Equipment,StairMaster,StabilityBalls-226,8EB5DBF5-762,2024-07-14,20,2026-07-14,Active
+EQ0273,FAC001,AR011,Stability Balls #21,Studio Equipment,Matrix,StabilityBalls-659,7244D895-824,2023-08-29,35,2025-08-28,Active
+EQ0274,FAC001,AR011,Stability Balls #22,Studio Equipment,Bowflex,StabilityBalls-317,FF2356A3-1E1,2024-05-25,21,2027-05-25,Active
+EQ0275,FAC001,AR011,Stability Balls #23,Studio Equipment,Cybex,StabilityBalls-499,9D62C2A8-9AD,2024-04-19,34,2027-04-19,Active
+EQ0276,FAC001,AR011,Stability Balls #24,Studio Equipment,NordicTrack,StabilityBalls-672,F6D6FE05-B30,2024-08-18,59,2027-08-18,Active
+EQ0277,FAC001,AR011,Stability Balls #25,Studio Equipment,Life Fitness,StabilityBalls-569,ABBF0E9E-1A7,2022-01-18,31,2025-01-17,Active
+EQ0278,FAC002,AR013,Dumbbells #1,Free Weights,TRX,Dumbbells-694,B8BF90BB-7AC,2022-01-17,159,2023-01-17,Active
+EQ0279,FAC002,AR013,Dumbbells #2,Free Weights,TRX,Dumbbells-974,4B05A37A-520,2021-11-10,82,2022-11-10,Active
+EQ0280,FAC002,AR013,Dumbbells #3,Free Weights,Life Fitness,Dumbbells-793,A38CCF97-914,2021-05-09,127,2024-05-08,Active
+EQ0281,FAC002,AR013,Dumbbells #4,Free Weights,NordicTrack,Dumbbells-493,9C77C40E-66A,2023-08-03,124,2025-08-02,Active
+EQ0282,FAC002,AR013,Dumbbells #5,Free Weights,Bowflex,Dumbbells-800,709A83CF-B11,2021-03-27,109,2024-03-26,Active
+EQ0283,FAC002,AR013,Dumbbells #6,Free Weights,Technogym,Dumbbells-811,FD339183-F67,2025-01-10,128,2028-01-10,Active
+EQ0284,FAC002,AR013,Dumbbells #7,Free Weights,Bowflex,Dumbbells-131,101CBE27-4C8,2022-04-23,151,2024-04-22,Active
+EQ0285,FAC002,AR013,Dumbbells #8,Free Weights,NordicTrack,Dumbbells-379,C5563FBF-5F4,2022-09-28,103,2025-09-27,Active
+EQ0286,FAC002,AR013,Dumbbells #9,Free Weights,StairMaster,Dumbbells-751,3B332D64-7B0,2022-07-15,128,2024-07-14,Active
+EQ0287,FAC002,AR013,Dumbbells #10,Free Weights,StairMaster,Dumbbells-150,3C145E9D-F37,2025-09-01,188,2026-09-01,Active
+EQ0288,FAC002,AR013,Dumbbells #11,Free Weights,Matrix,Dumbbells-816,FA53C2E6-3AF,2021-09-30,59,2024-09-29,Active
+EQ0289,FAC002,AR013,Dumbbells #12,Free Weights,Matrix,Dumbbells-592,51988D95-1DC,2023-04-20,82,2026-04-19,Active
+EQ0290,FAC002,AR013,Dumbbells #13,Free Weights,Cybex,Dumbbells-337,97E6EAD8-B3D,2025-09-04,99,2028-09-03,Active
+EQ0291,FAC002,AR013,Dumbbells #14,Free Weights,Life Fitness,Dumbbells-150,9305281E-876,2022-03-22,106,2023-03-22,Active
+EQ0292,FAC002,AR013,Dumbbells #15,Free Weights,Cybex,Dumbbells-769,26AEDA84-8A0,2022-09-21,149,2025-09-20,Active
+EQ0293,FAC002,AR013,Dumbbells #16,Free Weights,StairMaster,Dumbbells-170,77293E08-E96,2023-06-14,199,2026-06-13,Maintenance
+EQ0294,FAC002,AR013,Dumbbells #17,Free Weights,TRX,Dumbbells-374,259FCAC9-19B,2021-06-17,153,2022-06-17,Active
+EQ0295,FAC002,AR013,Dumbbells #18,Free Weights,NordicTrack,Dumbbells-243,C0B791CE-258,2024-01-07,93,2026-01-06,Active
+EQ0296,FAC002,AR013,Dumbbells #19,Free Weights,Matrix,Dumbbells-701,459E4ECE-417,2024-01-06,198,2025-01-05,Active
+EQ0297,FAC002,AR013,Dumbbells #20,Free Weights,Life Fitness,Dumbbells-699,486B4385-328,2022-04-24,92,2025-04-23,Active
+EQ0298,FAC002,AR013,Dumbbells #21,Free Weights,Life Fitness,Dumbbells-644,CB0BD61F-50E,2024-12-29,53,2027-12-29,Active
+EQ0299,FAC002,AR013,Kettlebells #1,Free Weights,Bowflex,Kettlebells-619,27869B23-274,2025-04-01,144,2028-03-31,Active
+EQ0300,FAC002,AR013,Kettlebells #2,Free Weights,NordicTrack,Kettlebells-140,C5A5CB4A-4EE,2023-05-03,117,2025-05-02,Active
+EQ0301,FAC002,AR013,Kettlebells #3,Free Weights,Schwinn,Kettlebells-302,00C0DFDC-5B3,2023-04-14,39,2025-04-13,Active
+EQ0302,FAC002,AR013,Kettlebells #4,Free Weights,Cybex,Kettlebells-899,A6BC66C8-5F7,2021-06-04,127,2022-06-04,Active
+EQ0303,FAC002,AR013,Kettlebells #5,Free Weights,Technogym,Kettlebells-163,89651FD1-312,2025-06-28,69,2027-06-28,Active
+EQ0304,FAC002,AR013,Kettlebells #6,Free Weights,NordicTrack,Kettlebells-684,B9ED2533-0D5,2023-12-10,133,2026-12-09,Active
+EQ0305,FAC002,AR013,Kettlebells #7,Free Weights,Technogym,Kettlebells-496,02A11843-C2D,2025-06-26,108,2027-06-26,Active
+EQ0306,FAC002,AR013,Kettlebells #8,Free Weights,Cybex,Kettlebells-404,90D91BC0-993,2024-05-19,117,2025-05-19,Out of Service
+EQ0307,FAC002,AR013,Kettlebells #9,Free Weights,Bowflex,Kettlebells-441,FEB82510-E74,2023-12-31,118,2026-12-30,Active
+EQ0308,FAC002,AR013,Kettlebells #10,Free Weights,StairMaster,Kettlebells-130,15A2C7FB-D32,2021-01-06,72,2022-01-06,Active
+EQ0309,FAC002,AR013,Kettlebells #11,Free Weights,Schwinn,Kettlebells-690,39E38429-90E,2023-02-22,77,2024-02-22,Active
+EQ0310,FAC002,AR013,Kettlebells #12,Free Weights,Cybex,Kettlebells-626,5A7A7205-0A6,2020-12-30,141,2021-12-30,Active
+EQ0311,FAC002,AR013,Kettlebells #13,Free Weights,Life Fitness,Kettlebells-192,1AC00E34-744,2024-09-26,119,2026-09-26,Active
+EQ0312,FAC002,AR013,Kettlebells #14,Free Weights,Technogym,Kettlebells-382,B8C51E23-DA7,2023-12-02,82,2025-12-01,Active
+EQ0313,FAC002,AR013,Kettlebells #15,Free Weights,Matrix,Kettlebells-114,E7D529E9-A05,2021-09-03,46,2022-09-03,Maintenance
+EQ0314,FAC002,AR013,Kettlebells #16,Free Weights,StairMaster,Kettlebells-974,7C076E07-72D,2024-03-03,49,2025-03-03,Active
+EQ0315,FAC002,AR013,Kettlebells #17,Free Weights,Matrix,Kettlebells-890,22191142-E2D,2023-03-03,87,2025-03-02,Maintenance
+EQ0316,FAC002,AR013,Kettlebells #18,Free Weights,Matrix,Kettlebells-222,EE9C1009-FA5,2023-10-21,108,2026-10-20,Active
+EQ0317,FAC002,AR013,Kettlebells #19,Free Weights,StairMaster,Kettlebells-616,6A79EB92-2D2,2025-03-31,43,2026-03-31,Active
+EQ0318,FAC002,AR013,Kettlebells #20,Free Weights,StairMaster,Kettlebells-233,8C2A41F4-C94,2024-08-18,147,2026-08-18,Active
+EQ0319,FAC002,AR013,Kettlebells #21,Free Weights,TRX,Kettlebells-704,F07CF7B6-B6E,2021-07-23,138,2022-07-23,Active
+EQ0320,FAC002,AR013,Kettlebells #22,Free Weights,Matrix,Kettlebells-153,B2931032-2A2,2021-06-07,76,2024-06-06,Active
+EQ0321,FAC002,AR013,Kettlebells #23,Free Weights,Matrix,Kettlebells-611,9710BF47-67E,2023-07-15,133,2024-07-14,Active
+EQ0322,FAC002,AR013,Kettlebells #24,Free Weights,Schwinn,Kettlebells-311,8F15A1C3-6DF,2024-06-15,39,2027-06-15,Active
+EQ0323,FAC002,AR013,Kettlebells #25,Free Weights,Precor,Kettlebells-756,69AD3602-A65,2023-03-25,116,2026-03-24,Active
+EQ0324,FAC002,AR013,Medicine Balls #1,Free Weights,Matrix,MedicineBalls-120,93C247CA-2D4,2023-05-16,53,2024-05-15,Out of Service
+EQ0325,FAC002,AR013,Medicine Balls #2,Free Weights,NordicTrack,MedicineBalls-303,CCB1DC90-33B,2023-03-16,60,2024-03-15,Maintenance
+EQ0326,FAC002,AR013,Medicine Balls #3,Free Weights,Technogym,MedicineBalls-379,14002846-ABA,2022-06-17,68,2025-06-16,Active
+EQ0327,FAC002,AR013,Medicine Balls #4,Free Weights,StairMaster,MedicineBalls-912,DDCA4A63-102,2021-03-10,84,2023-03-10,Active
+EQ0328,FAC002,AR013,Medicine Balls #5,Free Weights,Matrix,MedicineBalls-422,5DA6C01F-986,2025-07-08,83,2026-07-08,Active
+EQ0329,FAC002,AR013,Medicine Balls #6,Free Weights,Life Fitness,MedicineBalls-893,22387397-FF4,2024-08-26,45,2026-08-26,Active
+EQ0330,FAC002,AR013,Medicine Balls #7,Free Weights,NordicTrack,MedicineBalls-428,1CDC9305-2F6,2025-09-10,95,2028-09-09,Active
+EQ0331,FAC002,AR013,Medicine Balls #8,Free Weights,Life Fitness,MedicineBalls-873,3D65BF68-457,2021-08-31,43,2022-08-31,Active
+EQ0332,FAC002,AR013,Medicine Balls #9,Free Weights,Technogym,MedicineBalls-650,5C670DCE-660,2024-10-30,35,2026-10-30,Active
+EQ0333,FAC002,AR013,Medicine Balls #10,Free Weights,NordicTrack,MedicineBalls-667,8B9AEFFE-415,2023-12-11,58,2024-12-10,Active
+EQ0334,FAC002,AR013,Medicine Balls #11,Free Weights,Cybex,MedicineBalls-765,E092BBDD-5FD,2021-05-06,85,2022-05-06,Maintenance
+EQ0335,FAC002,AR013,Medicine Balls #12,Free Weights,NordicTrack,MedicineBalls-529,C8C9EE8A-A0B,2024-07-07,48,2025-07-07,Active
+EQ0336,FAC002,AR013,Medicine Balls #13,Free Weights,Bowflex,MedicineBalls-206,AFDD5AA9-5AD,2023-08-08,99,2026-08-07,Active
+EQ0337,FAC002,AR013,Medicine Balls #14,Free Weights,Precor,MedicineBalls-708,79846759-857,2022-03-06,85,2024-03-05,Active
+EQ0338,FAC002,AR013,Medicine Balls #15,Free Weights,TRX,MedicineBalls-889,26BD8C91-84F,2024-12-12,92,2026-12-12,Out of Service
+EQ0339,FAC002,AR013,Medicine Balls #16,Free Weights,TRX,MedicineBalls-815,6C66A0EB-07B,2023-12-30,67,2024-12-29,Active
+EQ0340,FAC002,AR013,Resistance Bands #1,Free Weights,NordicTrack,ResistanceBands-567,5B6D3A45-798,2022-03-17,27,2024-03-16,Active
+EQ0341,FAC002,AR013,Resistance Bands #2,Free Weights,Cybex,ResistanceBands-530,8C9E6613-8DB,2024-08-22,21,2026-08-22,Active
+EQ0342,FAC002,AR013,Resistance Bands #3,Free Weights,Schwinn,ResistanceBands-439,57702AED-6CA,2020-12-19,34,2021-12-19,Active
+EQ0343,FAC002,AR013,Resistance Bands #4,Free Weights,Technogym,ResistanceBands-769,F8B2C9E8-3D9,2023-05-05,47,2025-05-04,Active
+EQ0344,FAC002,AR013,Resistance Bands #5,Free Weights,Schwinn,ResistanceBands-615,8B10674B-47B,2025-05-29,44,2027-05-29,Active
+EQ0345,FAC002,AR013,Resistance Bands #6,Free Weights,Matrix,ResistanceBands-404,4799B5C1-0AF,2023-06-24,21,2024-06-23,Active
+EQ0346,FAC002,AR013,Resistance Bands #7,Free Weights,TRX,ResistanceBands-286,E9779EF9-9F1,2023-06-10,18,2025-06-09,Maintenance
+EQ0347,FAC002,AR013,Resistance Bands #8,Free Weights,Cybex,ResistanceBands-286,B857DE44-9F5,2024-07-21,27,2026-07-21,Active
+EQ0348,FAC002,AR013,Resistance Bands #9,Free Weights,Matrix,ResistanceBands-646,7F205CBF-E7F,2022-10-09,49,2023-10-09,Out of Service
+EQ0349,FAC002,AR013,Resistance Bands #10,Free Weights,Precor,ResistanceBands-351,2DEDD7B6-2CF,2021-03-30,24,2023-03-30,Active
+EQ0350,FAC002,AR013,Resistance Bands #11,Free Weights,Technogym,ResistanceBands-360,A4E19EA9-D56,2021-06-01,39,2024-05-31,Active
+EQ0351,FAC002,AR013,Resistance Bands #12,Free Weights,Life Fitness,ResistanceBands-250,A6E6ED8B-D30,2025-06-10,19,2027-06-10,Active
+EQ0352,FAC002,AR013,Resistance Bands #13,Free Weights,TRX,ResistanceBands-645,DA242D86-4B7,2021-06-11,27,2023-06-11,Active
+EQ0353,FAC002,AR013,Resistance Bands #14,Free Weights,StairMaster,ResistanceBands-103,0E84735F-AC9,2023-10-12,45,2024-10-11,Active
+EQ0354,FAC002,AR013,Resistance Bands #15,Free Weights,NordicTrack,ResistanceBands-652,69080EC1-3F7,2020-11-23,27,2021-11-23,Active
+EQ0355,FAC002,AR013,Resistance Bands #16,Free Weights,Schwinn,ResistanceBands-379,28F3070A-E49,2023-11-08,19,2024-11-07,Active
+EQ0356,FAC002,AR013,Resistance Bands #17,Free Weights,Cybex,ResistanceBands-554,62474F94-733,2023-08-08,12,2024-08-07,Active
+EQ0357,FAC002,AR013,Resistance Bands #18,Free Weights,NordicTrack,ResistanceBands-736,8D5D26CB-5BD,2024-05-04,32,2026-05-04,Maintenance
+EQ0358,FAC002,AR013,Resistance Bands #19,Free Weights,Life Fitness,ResistanceBands-433,AE553D46-D6D,2021-10-31,19,2023-10-31,Maintenance
+EQ0359,FAC002,AR013,Resistance Bands #20,Free Weights,Precor,ResistanceBands-431,B0E1DA80-770,2022-08-17,28,2025-08-16,Active
+EQ0360,FAC002,AR013,Resistance Bands #21,Free Weights,NordicTrack,ResistanceBands-132,A1507117-2BA,2023-02-23,11,2026-02-22,Active
+EQ0361,FAC002,AR013,Resistance Bands #22,Free Weights,Precor,ResistanceBands-939,AF3C4792-951,2025-05-29,23,2026-05-29,Maintenance
+EQ0362,FAC002,AR013,Resistance Bands #23,Free Weights,Technogym,ResistanceBands-864,A8145B4D-C27,2022-08-11,36,2024-08-10,Active
+EQ0363,FAC002,AR013,Resistance Bands #24,Free Weights,Matrix,ResistanceBands-625,04DBF68B-B6D,2025-05-02,37,2028-05-01,Maintenance
+EQ0364,FAC002,AR013,Resistance Bands #25,Free Weights,Life Fitness,ResistanceBands-687,BDF24F62-203,2025-05-23,12,2028-05-22,Out of Service
+EQ0365,FAC002,AR013,Resistance Bands #26,Free Weights,Technogym,ResistanceBands-736,92C8BA69-D35,2025-09-12,38,2026-09-12,Active
+EQ0366,FAC002,AR013,Resistance Bands #27,Free Weights,Bowflex,ResistanceBands-701,7DC66B7E-C00,2022-11-18,42,2025-11-17,Active
+EQ0367,FAC002,AR013,Resistance Bands #28,Free Weights,Technogym,ResistanceBands-543,C06FC905-B48,2021-04-14,16,2024-04-13,Active
+EQ0368,FAC002,AR013,Resistance Bands #29,Free Weights,Life Fitness,ResistanceBands-540,A13D648B-E01,2025-03-14,27,2027-03-14,Active
+EQ0369,FAC002,AR013,Resistance Bands #30,Free Weights,Cybex,ResistanceBands-642,EBD68741-C13,2021-03-23,19,2023-03-23,Active
+EQ0370,FAC002,AR013,Resistance Bands #31,Free Weights,Matrix,ResistanceBands-916,076D1E96-8AD,2024-04-21,41,2025-04-21,Active
+EQ0371,FAC002,AR013,Resistance Bands #32,Free Weights,Cybex,ResistanceBands-329,B100FB4B-7F7,2022-03-27,48,2024-03-26,Active
+EQ0372,FAC002,AR013,Resistance Bands #33,Free Weights,Life Fitness,ResistanceBands-570,6B2B830E-907,2025-06-06,35,2028-06-05,Active
+EQ0373,FAC002,AR014,Treadmill #1,Cardio,StairMaster,Treadmill-834,0A834483-3D7,2021-07-17,7988,2022-07-17,Active
+EQ0374,FAC002,AR014,Treadmill #2,Cardio,TRX,Treadmill-198,E43CAEFF-E03,2022-01-02,3677,2023-01-02,Active
+EQ0375,FAC002,AR014,Treadmill #3,Cardio,Technogym,Treadmill-822,EFD37D8D-DFC,2025-03-15,3841,2028-03-14,Active
+EQ0376,FAC002,AR014,Treadmill #4,Cardio,Bowflex,Treadmill-694,56735CF5-60A,2022-06-02,6799,2023-06-02,Active
+EQ0377,FAC002,AR014,Treadmill #5,Cardio,Precor,Treadmill-384,1E6BC415-794,2025-01-07,3111,2028-01-07,Maintenance
+EQ0378,FAC002,AR014,Treadmill #6,Cardio,Technogym,Treadmill-921,8D9C1A00-9CE,2025-03-16,5015,2027-03-16,Active
+EQ0379,FAC002,AR014,Treadmill #7,Cardio,Schwinn,Treadmill-587,ADC93771-145,2024-07-10,7148,2027-07-10,Active
+EQ0380,FAC002,AR014,Treadmill #8,Cardio,StairMaster,Treadmill-673,597AED8D-19E,2023-10-08,3043,2025-10-07,Active
+EQ0381,FAC002,AR014,Treadmill #9,Cardio,NordicTrack,Treadmill-865,8C632280-005,2021-08-15,3759,2024-08-14,Active
+EQ0382,FAC002,AR014,Elliptical #1,Cardio,NordicTrack,Elliptical-469,65EB1EA5-693,2025-08-22,4471,2026-08-22,Active
+EQ0383,FAC002,AR014,Elliptical #2,Cardio,Schwinn,Elliptical-453,BD559741-7DC,2024-04-29,4733,2026-04-29,Active
+EQ0384,FAC002,AR014,Elliptical #3,Cardio,NordicTrack,Elliptical-746,295EA2FD-C56,2023-03-04,2944,2025-03-03,Active
+EQ0385,FAC002,AR014,Elliptical #4,Cardio,Schwinn,Elliptical-364,886DB565-17C,2023-03-12,5175,2024-03-11,Active
+EQ0386,FAC002,AR014,Elliptical #5,Cardio,Bowflex,Elliptical-235,649E3C7F-4C2,2022-02-15,5122,2023-02-15,Maintenance
+EQ0387,FAC002,AR014,Elliptical #6,Cardio,StairMaster,Elliptical-749,38156867-81F,2023-06-24,5334,2026-06-23,Active
+EQ0388,FAC002,AR014,Elliptical #7,Cardio,StairMaster,Elliptical-465,E44B65F1-600,2024-06-10,4481,2025-06-10,Active
+EQ0389,FAC002,AR014,Elliptical #8,Cardio,Cybex,Elliptical-552,7C3F4008-EA6,2024-04-13,4650,2026-04-13,Maintenance
+EQ0390,FAC002,AR014,Elliptical #9,Cardio,Schwinn,Elliptical-811,50ED0239-74C,2023-06-01,5425,2025-05-31,Active
+EQ0391,FAC002,AR014,Elliptical #10,Cardio,Technogym,Elliptical-427,30610351-5E2,2022-10-25,3570,2025-10-24,Maintenance
+EQ0392,FAC002,AR014,Elliptical #11,Cardio,Cybex,Elliptical-320,31F767A0-1CC,2021-01-09,4958,2023-01-09,Out of Service
+EQ0393,FAC002,AR014,Elliptical #12,Cardio,StairMaster,Elliptical-870,E16F3390-CDA,2021-02-10,5307,2022-02-10,Active
+EQ0394,FAC002,AR014,Stationary Bike #1,Cardio,Matrix,StationaryBike-441,F7B5FA07-986,2023-10-27,3345,2024-10-26,Active
+EQ0395,FAC002,AR014,Stationary Bike #2,Cardio,Schwinn,StationaryBike-544,2FDC7BC2-F3B,2022-05-30,3649,2023-05-30,Active
+EQ0396,FAC002,AR014,Stationary Bike #3,Cardio,StairMaster,StationaryBike-374,1B275216-6AD,2024-12-11,3958,2027-12-11,Active
+EQ0397,FAC002,AR014,Stationary Bike #4,Cardio,Precor,StationaryBike-350,8ECB9662-DC0,2024-07-02,1562,2025-07-02,Out of Service
+EQ0398,FAC002,AR014,Stationary Bike #5,Cardio,Cybex,StationaryBike-690,5F57BB56-0CF,2023-01-15,3984,2024-01-15,Maintenance
+EQ0399,FAC002,AR014,Stationary Bike #6,Cardio,Bowflex,StationaryBike-622,DB46186C-D56,2023-08-22,3590,2025-08-21,Active
+EQ0400,FAC002,AR014,Stationary Bike #7,Cardio,NordicTrack,StationaryBike-839,D4859864-BA9,2023-02-24,1936,2024-02-24,Active
+EQ0401,FAC002,AR014,Stationary Bike #8,Cardio,Precor,StationaryBike-740,239DFD7C-951,2023-05-25,2398,2024-05-24,Active
+EQ0402,FAC002,AR014,Stationary Bike #9,Cardio,Matrix,StationaryBike-782,0217F1CC-60F,2023-12-13,2064,2026-12-12,Active
+EQ0403,FAC002,AR014,Stationary Bike #10,Cardio,NordicTrack,StationaryBike-229,AD38DE8B-C60,2021-06-08,3520,2024-06-07,Active
+EQ0404,FAC002,AR014,Stationary Bike #11,Cardio,Technogym,StationaryBike-351,08B6EBC3-331,2023-08-07,2505,2024-08-06,Active
+EQ0405,FAC002,AR014,Stationary Bike #12,Cardio,NordicTrack,StationaryBike-291,CAEC8DF0-EFA,2021-10-31,3690,2024-10-30,Maintenance
+EQ0406,FAC002,AR014,Stationary Bike #13,Cardio,Bowflex,StationaryBike-876,C48579D5-738,2024-05-13,2152,2027-05-13,Active
+EQ0407,FAC002,AR014,Stationary Bike #14,Cardio,Technogym,StationaryBike-592,2594CCF8-82D,2024-05-03,3730,2026-05-03,Active
+EQ0408,FAC002,AR014,Stationary Bike #15,Cardio,Cybex,StationaryBike-191,64339BAF-94A,2022-05-01,1917,2024-04-30,Active
+EQ0409,FAC002,AR014,Rowing Machine #1,Cardio,Life Fitness,RowingMachine-853,F4A4A138-91C,2023-01-08,1210,2026-01-07,Active
+EQ0410,FAC002,AR014,Rowing Machine #2,Cardio,Matrix,RowingMachine-719,A351A2BB-902,2022-08-04,1525,2025-08-03,Active
+EQ0411,FAC002,AR014,Rowing Machine #3,Cardio,StairMaster,RowingMachine-411,61C81B60-306,2021-05-24,1549,2023-05-24,Out of Service
+EQ0412,FAC002,AR014,Rowing Machine #4,Cardio,Precor,RowingMachine-111,7E5E978C-7AB,2023-08-31,1347,2025-08-30,Out of Service
+EQ0413,FAC002,AR014,Rowing Machine #5,Cardio,Bowflex,RowingMachine-681,5267880A-EE6,2024-03-01,1116,2027-03-01,Active
+EQ0414,FAC002,AR014,StairMaster #1,Cardio,TRX,StairMaster-654,84E36793-423,2025-09-23,4420,2027-09-23,Active
+EQ0415,FAC002,AR014,StairMaster #2,Cardio,TRX,StairMaster-936,709F698E-C78,2021-11-08,4259,2022-11-08,Active
+EQ0416,FAC002,AR014,StairMaster #3,Cardio,Matrix,StairMaster-323,0B15B8D8-381,2024-11-17,4706,2026-11-17,Active
+EQ0417,FAC002,AR015,Bench Press #1,Strength,Life Fitness,BenchPress-960,303E7FC9-AAB,2025-03-23,2834,2028-03-22,Active
+EQ0418,FAC002,AR015,Bench Press #2,Strength,TRX,BenchPress-111,67320787-677,2024-12-05,1965,2027-12-05,Active
+EQ0419,FAC002,AR015,Bench Press #3,Strength,Cybex,BenchPress-134,269E7861-C17,2024-12-02,1287,2025-12-02,Active
+EQ0420,FAC002,AR015,Bench Press #4,Strength,Technogym,BenchPress-650,EDCA85E2-203,2024-03-21,2555,2026-03-21,Maintenance
+EQ0421,FAC002,AR015,Bench Press #5,Strength,StairMaster,BenchPress-688,C903CA9D-3D5,2021-02-21,2097,2022-02-21,Maintenance
+EQ0422,FAC002,AR015,Bench Press #6,Strength,Bowflex,BenchPress-707,167E573C-419,2025-01-29,2064,2027-01-29,Active
+EQ0423,FAC002,AR015,Squat Rack #1,Strength,Bowflex,SquatRack-871,04546D00-465,2024-10-07,3070,2025-10-07,Active
+EQ0424,FAC002,AR015,Squat Rack #2,Strength,TRX,SquatRack-686,7007CA74-4BA,2021-09-23,2464,2024-09-22,Active
+EQ0425,FAC002,AR015,Squat Rack #3,Strength,TRX,SquatRack-310,3D95B7C6-529,2022-04-27,4138,2025-04-26,Active
+EQ0426,FAC002,AR015,Cable Machine #1,Strength,Schwinn,CableMachine-278,F43F9C38-3D5,2021-03-01,3823,2023-03-01,Active
+EQ0427,FAC002,AR015,Cable Machine #2,Strength,TRX,CableMachine-719,9559280C-8AA,2025-07-24,5662,2027-07-24,Active
+EQ0428,FAC002,AR015,Cable Machine #3,Strength,StairMaster,CableMachine-341,81BB79B6-3DE,2020-10-20,3180,2021-10-20,Active
+EQ0429,FAC002,AR015,Cable Machine #4,Strength,Technogym,CableMachine-667,93594157-62A,2024-10-01,5865,2027-10-01,Active
+EQ0430,FAC002,AR015,Cable Machine #5,Strength,Schwinn,CableMachine-496,A287FB5B-9DF,2022-01-17,6989,2024-01-17,Active
+EQ0431,FAC002,AR015,Cable Machine #6,Strength,StairMaster,CableMachine-452,6BBB8CCF-95C,2021-10-27,5411,2024-10-26,Active
+EQ0432,FAC002,AR015,Cable Machine #7,Strength,NordicTrack,CableMachine-632,8D1A9FFE-738,2024-01-16,4467,2027-01-15,Active
+EQ0433,FAC002,AR015,Leg Press #1,Strength,Life Fitness,LegPress-434,73C36473-894,2024-02-04,4175,2027-02-03,Maintenance
+EQ0434,FAC002,AR015,Leg Press #2,Strength,Cybex,LegPress-163,639737BF-CAC,2023-01-14,4513,2024-01-14,Maintenance
+EQ0435,FAC002,AR015,Smith Machine #1,Strength,Precor,SmithMachine-283,0BDF1E33-43C,2020-11-14,3300,2021-11-14,Active
+EQ0436,FAC002,AR020,Spin Bikes #1,Studio Equipment,NordicTrack,SpinBikes-248,82B82F81-DC1,2022-07-05,1453,2025-07-04,Active
+EQ0437,FAC002,AR020,Spin Bikes #2,Studio Equipment,Cybex,SpinBikes-681,35761571-86E,2022-06-27,1993,2025-06-26,Active
+EQ0438,FAC002,AR020,Spin Bikes #3,Studio Equipment,Precor,SpinBikes-413,24E19167-D22,2025-07-11,2478,2028-07-10,Active
+EQ0439,FAC002,AR020,Spin Bikes #4,Studio Equipment,Life Fitness,SpinBikes-212,3E377C54-796,2021-11-11,1323,2022-11-11,Active
+EQ0440,FAC002,AR020,Spin Bikes #5,Studio Equipment,Matrix,SpinBikes-566,DCDCC2AC-97F,2023-06-28,2383,2025-06-27,Active
+EQ0441,FAC002,AR020,Spin Bikes #6,Studio Equipment,Cybex,SpinBikes-117,298A6DB8-658,2025-07-01,2013,2028-06-30,Active
+EQ0442,FAC002,AR020,Spin Bikes #7,Studio Equipment,StairMaster,SpinBikes-560,9222E15F-DA7,2023-11-13,2347,2024-11-12,Active
+EQ0443,FAC002,AR020,Spin Bikes #8,Studio Equipment,Cybex,SpinBikes-202,EE263CF9-E15,2025-03-19,2389,2026-03-19,Active
+EQ0444,FAC002,AR020,Spin Bikes #9,Studio Equipment,Precor,SpinBikes-980,A341A966-FD3,2024-11-09,1884,2025-11-09,Active
+EQ0445,FAC002,AR020,Spin Bikes #10,Studio Equipment,Matrix,SpinBikes-944,B6DC96E1-11D,2025-06-17,1919,2026-06-17,Active
+EQ0446,FAC002,AR020,Spin Bikes #11,Studio Equipment,Bowflex,SpinBikes-861,1955D46F-2BE,2022-01-24,1460,2023-01-24,Active
+EQ0447,FAC002,AR020,Spin Bikes #12,Studio Equipment,Technogym,SpinBikes-832,B8B9FDB3-A79,2023-11-12,1682,2026-11-11,Active
+EQ0448,FAC002,AR020,Spin Bikes #13,Studio Equipment,Precor,SpinBikes-988,8011471D-2B4,2020-11-06,1893,2023-11-06,Active
+EQ0449,FAC002,AR020,Spin Bikes #14,Studio Equipment,Bowflex,SpinBikes-225,3CD893A3-9D3,2025-07-31,1580,2026-07-31,Active
+EQ0450,FAC002,AR020,Spin Bikes #15,Studio Equipment,Cybex,SpinBikes-542,34E10D8E-3ED,2023-06-13,2012,2025-06-12,Out of Service
+EQ0451,FAC002,AR020,Spin Bikes #16,Studio Equipment,StairMaster,SpinBikes-684,265ACAE7-EF6,2024-09-21,1492,2025-09-21,Active
+EQ0452,FAC002,AR020,Spin Bikes #17,Studio Equipment,Bowflex,SpinBikes-520,BD01E36C-2FE,2023-03-19,1941,2026-03-18,Active
+EQ0453,FAC002,AR020,Spin Bikes #18,Studio Equipment,Life Fitness,SpinBikes-876,8507D0E6-C28,2023-10-05,2027,2024-10-04,Out of Service
+EQ0454,FAC002,AR020,Sound System #1,Studio Equipment,StairMaster,SoundSystem-967,D0AA4C7E-40D,2023-12-27,3897,2026-12-26,Active
+EQ0455,FAC002,AR021,Sound System #1,Studio Equipment,Cybex,SoundSystem-567,1CBE3566-7AD,2023-06-14,3279,2024-06-13,Maintenance
+EQ0456,FAC002,AR021,Mirrors #1,Studio Equipment,Technogym,Mirrors-502,6B2DC979-2FB,2022-11-12,356,2025-11-11,Active
+EQ0457,FAC002,AR021,Mirrors #2,Studio Equipment,Schwinn,Mirrors-448,B546B75B-035,2020-12-16,274,2021-12-16,Active
+EQ0458,FAC002,AR021,Mirrors #3,Studio Equipment,Cybex,Mirrors-237,4898A9EC-C0F,2022-07-06,222,2023-07-06,Active
+EQ0459,FAC002,AR021,Mirrors #4,Studio Equipment,Schwinn,Mirrors-243,2AE8CDC8-DAE,2023-09-19,426,2025-09-18,Maintenance
+EQ0460,FAC002,AR021,Yoga Mats #1,Studio Equipment,Matrix,YogaMats-607,20355D72-D84,2025-07-13,20,2026-07-13,Active
+EQ0461,FAC002,AR021,Yoga Mats #2,Studio Equipment,Bowflex,YogaMats-689,88B4D238-BD4,2023-03-27,44,2024-03-26,Maintenance
+EQ0462,FAC002,AR021,Yoga Mats #3,Studio Equipment,Matrix,YogaMats-311,3698BA5A-C9A,2021-10-02,47,2024-10-01,Active
+EQ0463,FAC002,AR021,Yoga Mats #4,Studio Equipment,Life Fitness,YogaMats-727,C2132F8C-AAA,2023-12-09,42,2026-12-08,Active
+EQ0464,FAC002,AR021,Yoga Mats #5,Studio Equipment,TRX,YogaMats-782,73A9E651-7B9,2024-10-04,28,2026-10-04,Active
+EQ0465,FAC002,AR021,Yoga Mats #6,Studio Equipment,Cybex,YogaMats-406,29B22768-6EC,2021-05-23,42,2023-05-23,Active
+EQ0466,FAC002,AR021,Yoga Mats #7,Studio Equipment,Technogym,YogaMats-656,9EF7144B-B9F,2022-06-06,46,2025-06-05,Maintenance
+EQ0467,FAC002,AR021,Yoga Mats #8,Studio Equipment,StairMaster,YogaMats-239,2F846815-C1F,2021-09-01,21,2023-09-01,Active
+EQ0468,FAC002,AR021,Yoga Mats #9,Studio Equipment,Bowflex,YogaMats-196,5E00BCEC-AB1,2023-09-18,33,2026-09-17,Active
+EQ0469,FAC002,AR021,Yoga Mats #10,Studio Equipment,Schwinn,YogaMats-583,BA2667E9-02F,2022-05-06,30,2023-05-06,Active
+EQ0470,FAC002,AR021,Yoga Mats #11,Studio Equipment,NordicTrack,YogaMats-120,0377F6A5-9DA,2021-07-11,20,2024-07-10,Out of Service
+EQ0471,FAC002,AR021,Yoga Mats #12,Studio Equipment,TRX,YogaMats-601,65A34019-F8B,2024-06-18,41,2025-06-18,Active
+EQ0472,FAC002,AR021,Yoga Mats #13,Studio Equipment,Schwinn,YogaMats-977,E8140012-CFA,2023-11-24,45,2026-11-23,Out of Service
+EQ0473,FAC002,AR021,Yoga Mats #14,Studio Equipment,Bowflex,YogaMats-843,2C060E55-9E1,2021-08-26,21,2022-08-26,Maintenance
+EQ0474,FAC002,AR021,Yoga Mats #15,Studio Equipment,Schwinn,YogaMats-864,F51A34BD-410,2023-10-17,24,2025-10-16,Out of Service
+EQ0475,FAC002,AR021,Yoga Mats #16,Studio Equipment,Bowflex,YogaMats-192,3DBC3465-2A5,2022-06-01,48,2023-06-01,Active
+EQ0476,FAC002,AR021,Yoga Mats #17,Studio Equipment,Life Fitness,YogaMats-766,7F399887-522,2024-01-17,32,2025-01-16,Active
+EQ0477,FAC002,AR021,Yoga Mats #18,Studio Equipment,Matrix,YogaMats-798,EFE5E7E4-841,2023-03-15,15,2026-03-14,Active
+EQ0478,FAC002,AR021,Yoga Mats #19,Studio Equipment,TRX,YogaMats-437,6412D498-9F9,2024-05-13,38,2025-05-13,Maintenance
+EQ0479,FAC002,AR021,Yoga Mats #20,Studio Equipment,Precor,YogaMats-903,3B97F572-8ED,2020-12-02,20,2021-12-02,Active
+EQ0480,FAC002,AR021,Yoga Mats #21,Studio Equipment,NordicTrack,YogaMats-926,C4FA23AB-227,2022-02-10,44,2025-02-09,Active
+EQ0481,FAC002,AR021,Yoga Mats #22,Studio Equipment,Schwinn,YogaMats-266,51F496DE-46B,2021-10-10,36,2023-10-10,Active
+EQ0482,FAC002,AR021,Yoga Mats #23,Studio Equipment,Schwinn,YogaMats-909,6E8F463C-E24,2022-09-06,50,2024-09-05,Active
+EQ0483,FAC002,AR021,Yoga Mats #24,Studio Equipment,Technogym,YogaMats-209,3474432D-3C0,2022-04-11,50,2025-04-10,Active
+EQ0484,FAC002,AR021,Yoga Mats #25,Studio Equipment,Bowflex,YogaMats-169,9EF52A91-6A7,2022-09-23,26,2025-09-22,Active
+EQ0485,FAC002,AR021,Yoga Mats #26,Studio Equipment,TRX,YogaMats-460,39ADF72F-3B9,2024-04-09,49,2025-04-09,Maintenance
+EQ0486,FAC002,AR021,Yoga Mats #27,Studio Equipment,NordicTrack,YogaMats-621,F89B75FF-BFB,2022-07-11,24,2025-07-10,Active
+EQ0487,FAC002,AR021,Yoga Mats #28,Studio Equipment,Life Fitness,YogaMats-508,DE466AFF-B67,2022-05-21,36,2023-05-21,Active
+EQ0488,FAC002,AR021,Yoga Mats #29,Studio Equipment,Bowflex,YogaMats-985,F14F9412-46B,2022-04-12,24,2024-04-11,Active
+EQ0489,FAC002,AR021,Yoga Mats #30,Studio Equipment,NordicTrack,YogaMats-518,58A7B0B7-117,2022-08-04,49,2025-08-03,Active
+EQ0490,FAC002,AR021,Stability Balls #1,Studio Equipment,Technogym,StabilityBalls-749,4ED6B13E-ECC,2023-02-08,33,2026-02-07,Maintenance
+EQ0491,FAC002,AR021,Stability Balls #2,Studio Equipment,Precor,StabilityBalls-763,9716A7DA-7F9,2020-12-01,60,2023-12-01,Active
+EQ0492,FAC002,AR021,Stability Balls #3,Studio Equipment,Life Fitness,StabilityBalls-854,77CF582F-67E,2021-01-25,49,2022-01-25,Active
+EQ0493,FAC002,AR021,Stability Balls #4,Studio Equipment,NordicTrack,StabilityBalls-856,B1D56313-CF1,2022-08-03,48,2023-08-03,Active
+EQ0494,FAC002,AR021,Stability Balls #5,Studio Equipment,Precor,StabilityBalls-561,FB5676D9-B4C,2021-11-29,27,2022-11-29,Active
+EQ0495,FAC002,AR021,Stability Balls #6,Studio Equipment,Technogym,StabilityBalls-876,6BBA4F71-909,2024-12-30,52,2025-12-30,Maintenance
+EQ0496,FAC002,AR021,Stability Balls #7,Studio Equipment,Technogym,StabilityBalls-168,B090388B-34D,2024-09-03,22,2025-09-03,Active
+EQ0497,FAC002,AR021,Stability Balls #8,Studio Equipment,TRX,StabilityBalls-270,6D865A69-551,2021-01-13,47,2024-01-13,Active
+EQ0498,FAC002,AR021,Stability Balls #9,Studio Equipment,Matrix,StabilityBalls-490,22747CBF-705,2023-07-07,21,2024-07-06,Maintenance
+EQ0499,FAC002,AR021,Stability Balls #10,Studio Equipment,Cybex,StabilityBalls-319,D9415C3A-7CC,2024-06-13,31,2026-06-13,Active
+EQ0500,FAC002,AR021,Stability Balls #11,Studio Equipment,StairMaster,StabilityBalls-671,AC710289-F9D,2024-02-05,59,2026-02-04,Maintenance
+EQ0501,FAC002,AR021,Stability Balls #12,Studio Equipment,Matrix,StabilityBalls-501,51BF801C-90A,2021-12-14,58,2024-12-13,Maintenance
+EQ0502,FAC002,AR021,Stability Balls #13,Studio Equipment,Cybex,StabilityBalls-120,FC0CCB6D-49F,2025-07-08,43,2026-07-08,Active
+EQ0503,FAC002,AR021,Stability Balls #14,Studio Equipment,Precor,StabilityBalls-380,0180CC0C-D3B,2023-01-21,45,2025-01-20,Active
+EQ0504,FAC002,AR021,Stability Balls #15,Studio Equipment,NordicTrack,StabilityBalls-552,E77D60A3-DDF,2021-02-19,32,2024-02-19,Active
+EQ0505,FAC002,AR021,Stability Balls #16,Studio Equipment,NordicTrack,StabilityBalls-207,9AF520E9-63F,2022-08-22,56,2025-08-21,Active
+EQ0506,FAC003,AR023,Dumbbells #1,Free Weights,Schwinn,Dumbbells-176,73C9A762-911,2025-08-08,68,2026-08-08,Active
+EQ0507,FAC003,AR023,Dumbbells #2,Free Weights,NordicTrack,Dumbbells-820,102A3E97-985,2022-11-01,93,2023-11-01,Active
+EQ0508,FAC003,AR023,Dumbbells #3,Free Weights,StairMaster,Dumbbells-798,A74FF49D-F36,2024-06-04,115,2026-06-04,Active
+EQ0509,FAC003,AR023,Dumbbells #4,Free Weights,Technogym,Dumbbells-683,B5477A7B-3AA,2025-05-08,139,2026-05-08,Active
+EQ0510,FAC003,AR023,Dumbbells #5,Free Weights,StairMaster,Dumbbells-459,5182D02A-140,2025-08-06,134,2026-08-06,Active
+EQ0511,FAC003,AR023,Dumbbells #6,Free Weights,Technogym,Dumbbells-470,4323EDF2-2DC,2021-06-23,93,2024-06-22,Maintenance
+EQ0512,FAC003,AR023,Dumbbells #7,Free Weights,Precor,Dumbbells-883,98ACF1A3-696,2025-08-05,78,2027-08-05,Active
+EQ0513,FAC003,AR023,Dumbbells #8,Free Weights,TRX,Dumbbells-149,C70DACDE-8D5,2024-12-03,105,2027-12-03,Active
+EQ0514,FAC003,AR023,Dumbbells #9,Free Weights,TRX,Dumbbells-454,8E2C98C4-F15,2023-04-01,193,2025-03-31,Out of Service
+EQ0515,FAC003,AR023,Dumbbells #10,Free Weights,Technogym,Dumbbells-562,C6468973-E36,2022-05-24,151,2023-05-24,Active
+EQ0516,FAC003,AR023,Dumbbells #11,Free Weights,NordicTrack,Dumbbells-634,1701F634-506,2020-10-05,193,2021-10-05,Active
+EQ0517,FAC003,AR023,Dumbbells #12,Free Weights,StairMaster,Dumbbells-581,F6E23F20-6B0,2021-07-16,165,2023-07-16,Active
+EQ0518,FAC003,AR023,Dumbbells #13,Free Weights,StairMaster,Dumbbells-858,3431AF66-682,2022-01-08,139,2023-01-08,Maintenance
+EQ0519,FAC003,AR023,Dumbbells #14,Free Weights,Precor,Dumbbells-518,558B757E-C71,2025-09-14,111,2027-09-14,Active
+EQ0520,FAC003,AR023,Dumbbells #15,Free Weights,NordicTrack,Dumbbells-135,3EDDA4C3-4E5,2021-10-29,186,2024-10-28,Active
+EQ0521,FAC003,AR023,Dumbbells #16,Free Weights,Life Fitness,Dumbbells-710,8A458313-2D8,2023-11-13,184,2024-11-12,Active
+EQ0522,FAC003,AR023,Dumbbells #17,Free Weights,Matrix,Dumbbells-903,4564D001-7BF,2021-12-10,63,2024-12-09,Active
+EQ0523,FAC003,AR023,Dumbbells #18,Free Weights,NordicTrack,Dumbbells-150,8D69D91B-ADC,2025-07-23,110,2026-07-23,Active
+EQ0524,FAC003,AR023,Dumbbells #19,Free Weights,Cybex,Dumbbells-409,022C9AAF-8AA,2021-02-17,194,2023-02-17,Active
+EQ0525,FAC003,AR023,Dumbbells #20,Free Weights,Precor,Dumbbells-456,7A0F175D-5DD,2024-03-29,150,2026-03-29,Active
+EQ0526,FAC003,AR023,Dumbbells #21,Free Weights,Precor,Dumbbells-527,727A2F4F-1D8,2023-05-14,171,2026-05-13,Active
+EQ0527,FAC003,AR023,Dumbbells #22,Free Weights,Bowflex,Dumbbells-942,8725BA7A-C13,2023-03-08,169,2024-03-07,Out of Service
+EQ0528,FAC003,AR023,Dumbbells #23,Free Weights,Matrix,Dumbbells-863,5F230DF0-0E4,2025-03-27,64,2026-03-27,Active
+EQ0529,FAC003,AR023,Dumbbells #24,Free Weights,NordicTrack,Dumbbells-821,D58E337D-DF3,2022-01-21,124,2024-01-21,Active
+EQ0530,FAC003,AR023,Dumbbells #25,Free Weights,Cybex,Dumbbells-455,5CFB2B7E-631,2022-08-10,84,2023-08-10,Active
+EQ0531,FAC003,AR023,Dumbbells #26,Free Weights,Precor,Dumbbells-236,FF396681-12D,2021-10-03,163,2022-10-03,Active
+EQ0532,FAC003,AR023,Dumbbells #27,Free Weights,Matrix,Dumbbells-759,A1C8E921-B71,2024-02-06,89,2025-02-05,Maintenance
+EQ0533,FAC003,AR023,Dumbbells #28,Free Weights,Life Fitness,Dumbbells-102,E19A27E5-0EA,2024-08-01,119,2026-08-01,Active
+EQ0534,FAC003,AR023,Kettlebells #1,Free Weights,Life Fitness,Kettlebells-409,DEC69BDC-6B6,2021-01-12,66,2023-01-12,Active
+EQ0535,FAC003,AR023,Kettlebells #2,Free Weights,NordicTrack,Kettlebells-524,2CB23A21-281,2024-11-22,109,2026-11-22,Active
+EQ0536,FAC003,AR023,Kettlebells #3,Free Weights,StairMaster,Kettlebells-158,7C9AE213-F83,2021-12-28,46,2023-12-28,Active
+EQ0537,FAC003,AR023,Kettlebells #4,Free Weights,NordicTrack,Kettlebells-779,32C2589B-B9E,2024-10-23,122,2025-10-23,Active
+EQ0538,FAC003,AR023,Kettlebells #5,Free Weights,Precor,Kettlebells-156,FF6867B5-C79,2020-12-19,144,2021-12-19,Maintenance
+EQ0539,FAC003,AR023,Kettlebells #6,Free Weights,Bowflex,Kettlebells-766,B4AE81C3-963,2021-12-05,51,2023-12-05,Active
+EQ0540,FAC003,AR023,Kettlebells #7,Free Weights,Matrix,Kettlebells-282,208AC2D0-442,2025-06-20,101,2027-06-20,Active
+EQ0541,FAC003,AR023,Kettlebells #8,Free Weights,NordicTrack,Kettlebells-885,CC7BA262-71C,2024-11-24,121,2025-11-24,Active
+EQ0542,FAC003,AR023,Kettlebells #9,Free Weights,Precor,Kettlebells-842,00A52E14-877,2021-08-15,148,2024-08-14,Active
+EQ0543,FAC003,AR023,Kettlebells #10,Free Weights,Matrix,Kettlebells-135,07301D7D-D4B,2021-05-13,132,2022-05-13,Active
+EQ0544,FAC003,AR023,Kettlebells #11,Free Weights,Bowflex,Kettlebells-643,C879D110-E05,2023-05-01,90,2026-04-30,Active
+EQ0545,FAC003,AR023,Kettlebells #12,Free Weights,Precor,Kettlebells-823,0F3C1E21-90B,2025-07-11,113,2027-07-11,Active
+EQ0546,FAC003,AR023,Kettlebells #13,Free Weights,Bowflex,Kettlebells-973,542B3FD0-32A,2024-05-27,125,2025-05-27,Active
+EQ0547,FAC003,AR023,Kettlebells #14,Free Weights,Precor,Kettlebells-789,768DB850-6F5,2023-06-05,100,2024-06-04,Active
+EQ0548,FAC003,AR023,Kettlebells #15,Free Weights,NordicTrack,Kettlebells-506,D48C792E-2E9,2020-12-03,106,2022-12-03,Active
+EQ0549,FAC003,AR023,Medicine Balls #1,Free Weights,Precor,MedicineBalls-816,925B080B-6D0,2025-07-15,44,2027-07-15,Active
+EQ0550,FAC003,AR023,Medicine Balls #2,Free Weights,Matrix,MedicineBalls-939,0BA469E9-2A6,2024-08-15,36,2025-08-15,Active
+EQ0551,FAC003,AR023,Medicine Balls #3,Free Weights,Technogym,MedicineBalls-485,580A0052-777,2022-01-01,57,2024-12-31,Active
+EQ0552,FAC003,AR023,Medicine Balls #4,Free Weights,Precor,MedicineBalls-878,94809D48-08D,2023-12-13,37,2025-12-12,Maintenance
+EQ0553,FAC003,AR023,Medicine Balls #5,Free Weights,Precor,MedicineBalls-715,DEC1A692-FCD,2022-11-04,61,2024-11-03,Maintenance
+EQ0554,FAC003,AR023,Medicine Balls #6,Free Weights,Precor,MedicineBalls-989,9380F701-353,2021-07-14,31,2023-07-14,Maintenance
+EQ0555,FAC003,AR023,Medicine Balls #7,Free Weights,Technogym,MedicineBalls-833,339255FE-361,2023-10-02,39,2026-10-01,Active
+EQ0556,FAC003,AR023,Medicine Balls #8,Free Weights,TRX,MedicineBalls-867,B636DEAE-F3D,2025-04-20,39,2028-04-19,Active
+EQ0557,FAC003,AR023,Medicine Balls #9,Free Weights,Matrix,MedicineBalls-497,5E934336-6A7,2022-10-10,26,2025-10-09,Active
+EQ0558,FAC003,AR023,Medicine Balls #10,Free Weights,Schwinn,MedicineBalls-634,520201D1-F94,2022-05-03,79,2023-05-03,Active
+EQ0559,FAC003,AR023,Resistance Bands #1,Free Weights,Precor,ResistanceBands-376,A88F7196-93B,2022-12-30,15,2023-12-30,Active
+EQ0560,FAC003,AR023,Resistance Bands #2,Free Weights,Life Fitness,ResistanceBands-492,EF38F954-BFE,2022-12-18,25,2023-12-18,Active
+EQ0561,FAC003,AR023,Resistance Bands #3,Free Weights,Schwinn,ResistanceBands-798,26D0FF86-D5D,2023-06-11,32,2026-06-10,Maintenance
+EQ0562,FAC003,AR023,Resistance Bands #4,Free Weights,Technogym,ResistanceBands-778,60E47F24-39D,2025-09-07,25,2028-09-06,Active
+EQ0563,FAC003,AR023,Resistance Bands #5,Free Weights,Technogym,ResistanceBands-958,5618C2B8-BB4,2022-11-14,21,2024-11-13,Active
+EQ0564,FAC003,AR023,Resistance Bands #6,Free Weights,Life Fitness,ResistanceBands-686,203EB3AC-D9A,2021-01-17,44,2023-01-17,Active
+EQ0565,FAC003,AR023,Resistance Bands #7,Free Weights,Bowflex,ResistanceBands-581,D2FD727E-4DA,2023-12-31,32,2026-12-30,Out of Service
+EQ0566,FAC003,AR023,Resistance Bands #8,Free Weights,Schwinn,ResistanceBands-754,7B650D04-BDC,2023-07-21,23,2024-07-20,Active
+EQ0567,FAC003,AR023,Resistance Bands #9,Free Weights,StairMaster,ResistanceBands-922,E8006C62-E2A,2022-09-29,39,2024-09-28,Maintenance
+EQ0568,FAC003,AR023,Resistance Bands #10,Free Weights,TRX,ResistanceBands-589,BFCCC919-96C,2022-06-30,12,2025-06-29,Active
+EQ0569,FAC003,AR023,Resistance Bands #11,Free Weights,StairMaster,ResistanceBands-451,B251A83C-57B,2021-12-05,38,2023-12-05,Active
+EQ0570,FAC003,AR023,Resistance Bands #12,Free Weights,TRX,ResistanceBands-719,138014CC-4A7,2021-12-02,50,2023-12-02,Maintenance
+EQ0571,FAC003,AR023,Resistance Bands #13,Free Weights,Life Fitness,ResistanceBands-653,7DC7A3A1-DDE,2021-07-12,47,2024-07-11,Active
+EQ0572,FAC003,AR023,Resistance Bands #14,Free Weights,Matrix,ResistanceBands-607,C3A5C8C7-5CA,2023-09-01,47,2026-08-31,Active
+EQ0573,FAC003,AR023,Resistance Bands #15,Free Weights,TRX,ResistanceBands-794,61EA18A2-921,2023-02-14,17,2024-02-14,Maintenance
+EQ0574,FAC003,AR023,Resistance Bands #16,Free Weights,Matrix,ResistanceBands-140,B9D834A2-02C,2022-05-04,20,2025-05-03,Active
+EQ0575,FAC003,AR023,Resistance Bands #17,Free Weights,NordicTrack,ResistanceBands-563,95897FA4-645,2024-07-15,10,2026-07-15,Active
+EQ0576,FAC003,AR023,Resistance Bands #18,Free Weights,Matrix,ResistanceBands-358,DFF59DFE-AF9,2021-02-27,32,2023-02-27,Active
+EQ0577,FAC003,AR023,Resistance Bands #19,Free Weights,Precor,ResistanceBands-196,5E24D702-C51,2024-05-30,19,2025-05-30,Active
+EQ0578,FAC003,AR023,Resistance Bands #20,Free Weights,Bowflex,ResistanceBands-507,D2F83789-E9E,2023-07-06,16,2026-07-05,Active
+EQ0579,FAC003,AR023,Resistance Bands #21,Free Weights,NordicTrack,ResistanceBands-695,82B9A26E-9C9,2023-06-17,44,2026-06-16,Active
+EQ0580,FAC003,AR023,Resistance Bands #22,Free Weights,Schwinn,ResistanceBands-693,64C99373-E1F,2021-02-07,17,2024-02-07,Active
+EQ0581,FAC003,AR023,Resistance Bands #23,Free Weights,Cybex,ResistanceBands-328,0CA51AD8-E8B,2024-10-04,20,2025-10-04,Active
+EQ0582,FAC003,AR023,Resistance Bands #24,Free Weights,NordicTrack,ResistanceBands-532,AF7AFE64-94F,2025-06-19,37,2026-06-19,Active
+EQ0583,FAC003,AR023,Resistance Bands #25,Free Weights,Precor,ResistanceBands-397,ADE91AE9-F47,2023-10-24,16,2025-10-23,Active
+EQ0584,FAC003,AR023,Resistance Bands #26,Free Weights,StairMaster,ResistanceBands-438,17E84DA5-00B,2021-01-13,16,2022-01-13,Out of Service
+EQ0585,FAC003,AR024,Treadmill #1,Cardio,StairMaster,Treadmill-533,7A31F706-5E7,2022-11-30,7024,2024-11-29,Out of Service
+EQ0586,FAC003,AR024,Treadmill #2,Cardio,Precor,Treadmill-961,B718C121-1E3,2020-11-04,5016,2023-11-04,Maintenance
+EQ0587,FAC003,AR024,Treadmill #3,Cardio,Bowflex,Treadmill-984,078CF48D-BAA,2024-11-29,5645,2027-11-29,Active
+EQ0588,FAC003,AR024,Treadmill #4,Cardio,TRX,Treadmill-450,B014C9F8-5CC,2023-03-16,3331,2024-03-15,Out of Service
+EQ0589,FAC003,AR024,Treadmill #5,Cardio,StairMaster,Treadmill-876,C4CDC6AD-2D8,2025-02-16,5904,2028-02-16,Active
+EQ0590,FAC003,AR024,Treadmill #6,Cardio,Cybex,Treadmill-974,A08C69D3-21B,2021-03-03,6644,2024-03-02,Active
+EQ0591,FAC003,AR024,Treadmill #7,Cardio,StairMaster,Treadmill-804,63F5617F-B51,2022-09-24,3370,2024-09-23,Active
+EQ0592,FAC003,AR024,Treadmill #8,Cardio,Precor,Treadmill-912,BB343311-96C,2025-04-14,5520,2027-04-14,Active
+EQ0593,FAC003,AR024,Treadmill #9,Cardio,Technogym,Treadmill-287,E9EF9476-734,2022-04-10,5679,2023-04-10,Active
+EQ0594,FAC003,AR024,Treadmill #10,Cardio,StairMaster,Treadmill-753,CAF7B09E-82D,2022-06-08,4839,2023-06-08,Active
+EQ0595,FAC003,AR024,Elliptical #1,Cardio,Precor,Elliptical-436,A42EDFFF-A4D,2023-10-09,4470,2026-10-08,Active
+EQ0596,FAC003,AR024,Elliptical #2,Cardio,Technogym,Elliptical-328,F3E81A55-62E,2021-04-13,3889,2022-04-13,Active
+EQ0597,FAC003,AR024,Elliptical #3,Cardio,TRX,Elliptical-339,933EB3BA-250,2021-06-16,2878,2024-06-15,Active
+EQ0598,FAC003,AR024,Elliptical #4,Cardio,Schwinn,Elliptical-597,CD4D442A-7FA,2022-10-16,2790,2024-10-15,Active
+EQ0599,FAC003,AR024,Elliptical #5,Cardio,Cybex,Elliptical-341,9427B530-B62,2025-08-21,4557,2026-08-21,Active
+EQ0600,FAC003,AR024,Elliptical #6,Cardio,TRX,Elliptical-588,80571510-824,2024-05-03,3496,2026-05-03,Out of Service
+EQ0601,FAC003,AR024,Elliptical #7,Cardio,StairMaster,Elliptical-860,684D9743-8A9,2021-10-26,3628,2023-10-26,Active
+EQ0602,FAC003,AR024,Elliptical #8,Cardio,Bowflex,Elliptical-843,2C4654E2-039,2020-11-04,2832,2021-11-04,Active
+EQ0603,FAC003,AR024,Elliptical #9,Cardio,Cybex,Elliptical-511,EB7BACB7-EF3,2020-10-09,3053,2023-10-09,Active
+EQ0604,FAC003,AR024,Elliptical #10,Cardio,Technogym,Elliptical-554,3073F9D9-A98,2022-11-07,4307,2024-11-06,Active
+EQ0605,FAC003,AR024,Elliptical #11,Cardio,Precor,Elliptical-777,BDB5507D-4EB,2023-04-19,3765,2024-04-18,Active
+EQ0606,FAC003,AR024,Elliptical #12,Cardio,Life Fitness,Elliptical-326,382F64C1-538,2021-01-10,5909,2024-01-10,Maintenance
+EQ0607,FAC003,AR024,Stationary Bike #1,Cardio,Bowflex,StationaryBike-250,DAD40751-E0C,2024-02-14,2517,2027-02-13,Active
+EQ0608,FAC003,AR024,Stationary Bike #2,Cardio,Cybex,StationaryBike-539,1EFF8035-D7A,2025-05-03,1682,2028-05-02,Active
+EQ0609,FAC003,AR024,Stationary Bike #3,Cardio,StairMaster,StationaryBike-845,199874FB-768,2021-07-25,3103,2022-07-25,Active
+EQ0610,FAC003,AR024,Stationary Bike #4,Cardio,Technogym,StationaryBike-754,5A61A65A-315,2023-01-22,1517,2024-01-22,Active
+EQ0611,FAC003,AR024,Stationary Bike #5,Cardio,Life Fitness,StationaryBike-256,9F59A0D4-7EE,2025-01-25,2042,2027-01-25,Active
+EQ0612,FAC003,AR024,Stationary Bike #6,Cardio,StairMaster,StationaryBike-513,AE3EC77B-C72,2025-05-16,2374,2028-05-15,Active
+EQ0613,FAC003,AR024,Stationary Bike #7,Cardio,NordicTrack,StationaryBike-194,055330BD-B17,2022-06-19,2168,2023-06-19,Active
+EQ0614,FAC003,AR024,Stationary Bike #8,Cardio,Cybex,StationaryBike-363,429EFCD9-BEC,2020-11-04,2519,2022-11-04,Maintenance
+EQ0615,FAC003,AR024,Stationary Bike #9,Cardio,TRX,StationaryBike-476,D4213667-4BB,2024-05-19,2050,2026-05-19,Active
+EQ0616,FAC003,AR024,Stationary Bike #10,Cardio,Life Fitness,StationaryBike-562,CD366098-C09,2025-02-10,2045,2026-02-10,Active
+EQ0617,FAC003,AR024,Stationary Bike #11,Cardio,NordicTrack,StationaryBike-446,64E6A545-0A3,2025-05-22,2346,2028-05-21,Active
+EQ0618,FAC003,AR024,Rowing Machine #1,Cardio,StairMaster,RowingMachine-768,C36A6315-A0F,2023-08-03,1880,2026-08-02,Active
+EQ0619,FAC003,AR024,Rowing Machine #2,Cardio,Life Fitness,RowingMachine-150,2A834AAF-C50,2023-11-03,1259,2025-11-02,Active
+EQ0620,FAC003,AR024,Rowing Machine #3,Cardio,NordicTrack,RowingMachine-885,45E32C76-B56,2025-06-17,1910,2028-06-16,Active
+EQ0621,FAC003,AR024,Rowing Machine #4,Cardio,TRX,RowingMachine-265,D27BBB93-416,2021-08-27,1449,2022-08-27,Active
+EQ0622,FAC003,AR024,Rowing Machine #5,Cardio,Schwinn,RowingMachine-209,8D713FE7-5AD,2021-01-18,1604,2022-01-18,Active
+EQ0623,FAC003,AR024,Rowing Machine #6,Cardio,Life Fitness,RowingMachine-137,0F6083A1-3E4,2024-10-07,1530,2026-10-07,Active
+EQ0624,FAC003,AR024,StairMaster #1,Cardio,StairMaster,StairMaster-113,F6E0A866-D61,2022-03-19,3579,2025-03-18,Active
+EQ0625,FAC003,AR024,StairMaster #2,Cardio,Schwinn,StairMaster-872,689A6986-016,2023-07-11,3538,2024-07-10,Active
+EQ0626,FAC003,AR024,StairMaster #3,Cardio,Matrix,StairMaster-700,4ACCF5E2-07C,2025-05-06,4331,2026-05-06,Active
+EQ0627,FAC003,AR025,Bench Press #1,Strength,Precor,BenchPress-811,E33364CE-3E7,2021-01-26,1283,2024-01-26,Maintenance
+EQ0628,FAC003,AR025,Bench Press #2,Strength,Life Fitness,BenchPress-267,3BFEFCF9-347,2023-12-09,2368,2026-12-08,Out of Service
+EQ0629,FAC003,AR025,Bench Press #3,Strength,StairMaster,BenchPress-166,E262380C-CEA,2023-04-23,2605,2024-04-22,Active
+EQ0630,FAC003,AR025,Bench Press #4,Strength,Schwinn,BenchPress-718,4B831DF0-78C,2024-06-24,1396,2025-06-24,Active
+EQ0631,FAC003,AR025,Bench Press #5,Strength,Cybex,BenchPress-706,405D3DB2-AE3,2020-12-28,1643,2021-12-28,Maintenance
+EQ0632,FAC003,AR025,Bench Press #6,Strength,NordicTrack,BenchPress-243,7445D048-A82,2021-06-06,1876,2024-06-05,Active
+EQ0633,FAC003,AR025,Squat Rack #1,Strength,Matrix,SquatRack-596,02D798C2-CB0,2023-05-08,4981,2024-05-07,Maintenance
+EQ0634,FAC003,AR025,Squat Rack #2,Strength,TRX,SquatRack-894,0D48ED3F-8DC,2023-08-15,3015,2024-08-14,Active
+EQ0635,FAC003,AR025,Cable Machine #1,Strength,Matrix,CableMachine-325,59B029FE-676,2024-03-19,3651,2026-03-19,Active
+EQ0636,FAC003,AR025,Cable Machine #2,Strength,TRX,CableMachine-565,E6A27F3C-82D,2024-12-08,6181,2026-12-08,Active
+EQ0637,FAC003,AR025,Cable Machine #3,Strength,Matrix,CableMachine-389,44D1AC5E-6BC,2021-07-24,5735,2024-07-23,Active
+EQ0638,FAC003,AR025,Cable Machine #4,Strength,Life Fitness,CableMachine-225,FB35E0D8-9B4,2021-01-14,6479,2024-01-14,Active
+EQ0639,FAC003,AR025,Cable Machine #5,Strength,Cybex,CableMachine-897,BF67F034-C16,2021-02-25,5287,2024-02-25,Maintenance
+EQ0640,FAC003,AR025,Leg Press #1,Strength,Schwinn,LegPress-368,DC009BFB-850,2025-01-01,4589,2027-01-01,Out of Service
+EQ0641,FAC003,AR025,Leg Press #2,Strength,Bowflex,LegPress-765,235AFDCC-B30,2021-03-27,7281,2022-03-27,Active
+EQ0642,FAC003,AR025,Smith Machine #1,Strength,Precor,SmithMachine-955,E4358691-E15,2025-05-03,4447,2027-05-03,Active
+EQ0643,FAC003,AR025,Smith Machine #2,Strength,Schwinn,SmithMachine-138,C392A117-A6F,2025-07-14,3255,2027-07-14,Active
+EQ0644,FAC003,AR029,Lane Dividers #1,Pool Equipment,StairMaster,LaneDividers-632,A7757F6C-263,2021-02-18,106,2022-02-18,Active
+EQ0645,FAC003,AR029,Lane Dividers #2,Pool Equipment,Precor,LaneDividers-307,CCFDB2F1-490,2021-03-28,238,2023-03-28,Active
+EQ0646,FAC003,AR029,Lane Dividers #3,Pool Equipment,Technogym,LaneDividers-934,9B6672DD-27F,2024-09-03,109,2026-09-03,Active
+EQ0647,FAC003,AR029,Lane Dividers #4,Pool Equipment,TRX,LaneDividers-281,1BE7B283-FB2,2025-04-25,166,2027-04-25,Active
+EQ0648,FAC003,AR029,Lane Dividers #5,Pool Equipment,NordicTrack,LaneDividers-561,A6405424-7AC,2023-04-12,198,2025-04-11,Active
+EQ0649,FAC003,AR029,Lane Dividers #6,Pool Equipment,Cybex,LaneDividers-321,DCC9BC00-817,2024-10-18,137,2027-10-18,Active
+EQ0650,FAC003,AR029,Lane Dividers #7,Pool Equipment,Schwinn,LaneDividers-200,ACF792E2-681,2024-10-02,282,2025-10-02,Active
+EQ0651,FAC003,AR029,Lane Dividers #8,Pool Equipment,Cybex,LaneDividers-473,E8990353-258,2022-04-16,109,2024-04-15,Active
+EQ0652,FAC003,AR029,Pool Vacuum #1,Pool Equipment,Bowflex,PoolVacuum-245,4809355A-0C2,2022-11-09,1276,2023-11-09,Active
+EQ0653,FAC003,AR029,Water Testing Kit #1,Pool Equipment,TRX,WaterTestingKit-485,E0727A2B-6AD,2022-06-02,240,2024-06-01,Active
+EQ0654,FAC003,AR029,Water Testing Kit #2,Pool Equipment,Schwinn,WaterTestingKit-448,290A484A-609,2024-05-08,207,2025-05-08,Active
+EQ0655,FAC003,AR029,Water Testing Kit #3,Pool Equipment,Technogym,WaterTestingKit-313,823697CB-FD2,2022-11-28,250,2024-11-27,Active
+EQ0656,FAC003,AR030,Spin Bikes #1,Studio Equipment,Matrix,SpinBikes-279,63713F63-D3A,2022-05-29,1661,2024-05-28,Out of Service
+EQ0657,FAC003,AR030,Spin Bikes #2,Studio Equipment,Cybex,SpinBikes-721,30C4FD44-A5D,2021-08-07,1288,2022-08-07,Active
+EQ0658,FAC003,AR030,Spin Bikes #3,Studio Equipment,Technogym,SpinBikes-181,C667A02F-9E4,2025-04-14,1400,2028-04-13,Active
+EQ0659,FAC003,AR030,Spin Bikes #4,Studio Equipment,Cybex,SpinBikes-156,958937CC-465,2024-10-10,1440,2027-10-10,Active
+EQ0660,FAC003,AR030,Spin Bikes #5,Studio Equipment,NordicTrack,SpinBikes-420,16FAD35E-D91,2024-01-26,2369,2025-01-25,Active
+EQ0661,FAC003,AR030,Spin Bikes #6,Studio Equipment,Life Fitness,SpinBikes-883,647F9B89-072,2022-05-02,1989,2025-05-01,Maintenance
+EQ0662,FAC003,AR030,Spin Bikes #7,Studio Equipment,StairMaster,SpinBikes-656,56030AE8-3F6,2025-01-27,2205,2026-01-27,Active
+EQ0663,FAC003,AR030,Spin Bikes #8,Studio Equipment,Precor,SpinBikes-478,B1C2404B-173,2021-01-12,2446,2024-01-12,Active
+EQ0664,FAC003,AR030,Spin Bikes #9,Studio Equipment,Cybex,SpinBikes-315,47507A46-C8D,2024-11-10,1761,2025-11-10,Active
+EQ0665,FAC003,AR030,Spin Bikes #10,Studio Equipment,Precor,SpinBikes-734,5CB33DC0-BEB,2023-06-17,2398,2024-06-16,Active
+EQ0666,FAC003,AR030,Spin Bikes #11,Studio Equipment,StairMaster,SpinBikes-751,00D4478F-E1C,2022-02-11,2163,2023-02-11,Active
+EQ0667,FAC003,AR030,Spin Bikes #12,Studio Equipment,Technogym,SpinBikes-870,FAAC134E-774,2023-03-02,1459,2024-03-01,Maintenance
+EQ0668,FAC003,AR030,Spin Bikes #13,Studio Equipment,StairMaster,SpinBikes-984,42636D19-126,2022-09-21,1290,2023-09-21,Out of Service
+EQ0669,FAC003,AR030,Spin Bikes #14,Studio Equipment,NordicTrack,SpinBikes-350,E4DBDA13-0BC,2025-08-15,1629,2026-08-15,Active
+EQ0670,FAC003,AR030,Spin Bikes #15,Studio Equipment,TRX,SpinBikes-748,A24B3A44-A62,2021-01-09,1624,2022-01-09,Out of Service
+EQ0671,FAC003,AR030,Spin Bikes #16,Studio Equipment,Life Fitness,SpinBikes-852,AB34A89B-EAD,2024-03-10,1925,2026-03-10,Maintenance
+EQ0672,FAC003,AR030,Spin Bikes #17,Studio Equipment,Bowflex,SpinBikes-501,513A194A-54B,2022-11-13,1291,2023-11-13,Out of Service
+EQ0673,FAC003,AR030,Spin Bikes #18,Studio Equipment,NordicTrack,SpinBikes-696,56F92592-A1A,2024-08-01,1716,2027-08-01,Active
+EQ0674,FAC003,AR030,Spin Bikes #19,Studio Equipment,Technogym,SpinBikes-782,F6638A1B-B1F,2021-03-20,1734,2023-03-20,Active
+EQ0675,FAC003,AR030,Spin Bikes #20,Studio Equipment,Life Fitness,SpinBikes-244,6035A542-BD5,2023-01-28,2142,2025-01-27,Maintenance
+EQ0676,FAC003,AR030,Spin Bikes #21,Studio Equipment,NordicTrack,SpinBikes-473,D750B668-5A9,2021-12-03,1958,2024-12-02,Active
+EQ0677,FAC003,AR030,Spin Bikes #22,Studio Equipment,Cybex,SpinBikes-471,AF4FCABB-5BA,2022-02-04,1525,2024-02-04,Active
+EQ0678,FAC003,AR030,Spin Bikes #23,Studio Equipment,Life Fitness,SpinBikes-995,79F036BF-125,2023-11-27,2102,2025-11-26,Active
+EQ0679,FAC003,AR030,Spin Bikes #24,Studio Equipment,NordicTrack,SpinBikes-541,BAE05C40-ECD,2022-03-21,2425,2025-03-20,Active
+EQ0680,FAC003,AR030,Spin Bikes #25,Studio Equipment,TRX,SpinBikes-435,20BEAFD2-FEE,2023-09-24,1940,2024-09-23,Active
+EQ0681,FAC003,AR030,Sound System #1,Studio Equipment,Bowflex,SoundSystem-995,341AA664-736,2022-11-19,3584,2023-11-19,Active
+EQ0682,FAC003,AR033,Sound System #1,Studio Equipment,Life Fitness,SoundSystem-751,5F60E64E-C9C,2022-10-01,1945,2023-10-01,Active
+EQ0683,FAC003,AR033,Mirrors #1,Studio Equipment,Precor,Mirrors-983,C2B60731-2BB,2022-02-05,412,2024-02-05,Active
+EQ0684,FAC003,AR033,Mirrors #2,Studio Equipment,Schwinn,Mirrors-105,2258A38F-662,2022-12-27,592,2025-12-26,Active
+EQ0685,FAC003,AR033,Mirrors #3,Studio Equipment,NordicTrack,Mirrors-999,B9A4E150-29C,2022-01-03,444,2023-01-03,Active
+EQ0686,FAC003,AR033,Mirrors #4,Studio Equipment,TRX,Mirrors-670,688A8CF1-3C1,2025-09-10,380,2028-09-09,Active
+EQ0687,FAC003,AR033,Mirrors #5,Studio Equipment,Bowflex,Mirrors-149,13C3EA40-F08,2024-03-26,561,2027-03-26,Active
+EQ0688,FAC003,AR033,Mirrors #6,Studio Equipment,Precor,Mirrors-830,259C9CAE-2F4,2021-08-03,359,2024-08-02,Active
+EQ0689,FAC003,AR033,Mirrors #7,Studio Equipment,Matrix,Mirrors-572,380FB1BD-7E4,2023-04-03,377,2024-04-02,Maintenance
+EQ0690,FAC003,AR033,Mirrors #8,Studio Equipment,Schwinn,Mirrors-874,C8748F9E-B84,2024-04-06,346,2026-04-06,Active
+EQ0691,FAC003,AR033,Yoga Mats #1,Studio Equipment,TRX,YogaMats-435,BFCB93F4-631,2024-12-06,44,2027-12-06,Active
+EQ0692,FAC003,AR033,Yoga Mats #2,Studio Equipment,Life Fitness,YogaMats-168,37ED1564-506,2022-10-04,38,2023-10-04,Active
+EQ0693,FAC003,AR033,Yoga Mats #3,Studio Equipment,Bowflex,YogaMats-196,C40B0CD8-074,2021-08-15,19,2022-08-15,Active
+EQ0694,FAC003,AR033,Yoga Mats #4,Studio Equipment,TRX,YogaMats-563,56086CE2-D6C,2025-07-02,22,2026-07-02,Active
+EQ0695,FAC003,AR033,Yoga Mats #5,Studio Equipment,StairMaster,YogaMats-667,21C53B5C-0BC,2022-04-29,23,2025-04-28,Active
+EQ0696,FAC003,AR033,Yoga Mats #6,Studio Equipment,Matrix,YogaMats-164,DC7F3510-925,2023-09-16,48,2025-09-15,Active
+EQ0697,FAC003,AR033,Yoga Mats #7,Studio Equipment,Matrix,YogaMats-907,5DF9218B-B5D,2024-09-09,40,2026-09-09,Active
+EQ0698,FAC003,AR033,Yoga Mats #8,Studio Equipment,Technogym,YogaMats-628,37BB7659-5F9,2023-09-19,49,2026-09-18,Active
+EQ0699,FAC003,AR033,Yoga Mats #9,Studio Equipment,Cybex,YogaMats-570,2A9DE2C2-6AA,2021-05-08,17,2023-05-08,Maintenance
+EQ0700,FAC003,AR033,Yoga Mats #10,Studio Equipment,Precor,YogaMats-545,B4BE0359-66E,2022-09-24,49,2025-09-23,Active
+EQ0701,FAC003,AR033,Yoga Mats #11,Studio Equipment,Life Fitness,YogaMats-418,ACB0EB2E-631,2020-12-10,48,2023-12-10,Active
+EQ0702,FAC003,AR033,Yoga Mats #12,Studio Equipment,Bowflex,YogaMats-385,55A75DAF-E50,2024-03-28,39,2025-03-28,Active
+EQ0703,FAC003,AR033,Yoga Mats #13,Studio Equipment,TRX,YogaMats-217,A6FA5875-34E,2025-04-09,50,2028-04-08,Active
+EQ0704,FAC003,AR033,Yoga Mats #14,Studio Equipment,StairMaster,YogaMats-864,531F10A6-234,2022-04-20,20,2024-04-19,Active
+EQ0705,FAC003,AR033,Yoga Mats #15,Studio Equipment,Bowflex,YogaMats-340,6BBBBE0C-E6E,2022-03-26,23,2023-03-26,Active
+EQ0706,FAC003,AR033,Yoga Mats #16,Studio Equipment,TRX,YogaMats-459,F0AE38AD-4AE,2021-10-01,29,2024-09-30,Active
+EQ0707,FAC003,AR033,Yoga Mats #17,Studio Equipment,Schwinn,YogaMats-614,81DE3CAD-F31,2025-06-21,42,2026-06-21,Active
+EQ0708,FAC003,AR033,Yoga Mats #18,Studio Equipment,Bowflex,YogaMats-708,75BECB80-0BE,2023-05-26,35,2026-05-25,Active
+EQ0709,FAC003,AR033,Yoga Mats #19,Studio Equipment,TRX,YogaMats-179,FFAD1CBE-1E3,2020-11-27,17,2023-11-27,Active
+EQ0710,FAC003,AR033,Yoga Mats #20,Studio Equipment,StairMaster,YogaMats-970,5E0F9F34-271,2020-12-12,35,2023-12-12,Maintenance
+EQ0711,FAC003,AR033,Yoga Mats #21,Studio Equipment,Schwinn,YogaMats-737,489843DB-738,2020-10-23,29,2021-10-23,Active
+EQ0712,FAC003,AR033,Yoga Mats #22,Studio Equipment,StairMaster,YogaMats-631,D1A7B355-222,2021-11-16,49,2022-11-16,Active
+EQ0713,FAC003,AR033,Yoga Mats #23,Studio Equipment,Matrix,YogaMats-821,6E225187-6C5,2022-06-11,15,2023-06-11,Active
+EQ0714,FAC003,AR033,Yoga Mats #24,Studio Equipment,Precor,YogaMats-632,1B8EA4C8-274,2025-05-01,46,2026-05-01,Active
+EQ0715,FAC003,AR033,Yoga Mats #25,Studio Equipment,NordicTrack,YogaMats-427,1913DA63-8EA,2020-10-12,33,2023-10-12,Active
+EQ0716,FAC003,AR033,Yoga Mats #26,Studio Equipment,TRX,YogaMats-184,0892EE53-A8F,2021-03-04,36,2024-03-03,Active
+EQ0717,FAC003,AR033,Yoga Mats #27,Studio Equipment,StairMaster,YogaMats-310,C4E144FE-6B4,2021-11-25,42,2022-11-25,Active
+EQ0718,FAC003,AR033,Yoga Mats #28,Studio Equipment,TRX,YogaMats-419,0576B4EC-86E,2024-05-20,40,2025-05-20,Active
+EQ0719,FAC003,AR033,Yoga Mats #29,Studio Equipment,Life Fitness,YogaMats-838,E03F9333-293,2021-12-01,41,2024-11-30,Active
+EQ0720,FAC003,AR033,Yoga Mats #30,Studio Equipment,Cybex,YogaMats-348,DE983865-D6D,2021-05-30,27,2023-05-30,Out of Service
+EQ0721,FAC003,AR033,Stability Balls #1,Studio Equipment,StairMaster,StabilityBalls-795,625957AD-652,2021-12-22,27,2023-12-22,Active
+EQ0722,FAC003,AR033,Stability Balls #2,Studio Equipment,TRX,StabilityBalls-807,6BAA1088-0EA,2022-01-04,23,2023-01-04,Maintenance
+EQ0723,FAC003,AR033,Stability Balls #3,Studio Equipment,Bowflex,StabilityBalls-957,1BE639E8-7A2,2021-07-19,20,2024-07-18,Active
+EQ0724,FAC003,AR033,Stability Balls #4,Studio Equipment,NordicTrack,StabilityBalls-879,11A62FDF-18D,2024-04-24,37,2027-04-24,Active
+EQ0725,FAC003,AR033,Stability Balls #5,Studio Equipment,Cybex,StabilityBalls-758,7015B000-141,2020-11-21,25,2021-11-21,Active
+EQ0726,FAC003,AR033,Stability Balls #6,Studio Equipment,Bowflex,StabilityBalls-484,6C4C9422-739,2023-01-25,40,2025-01-24,Active
+EQ0727,FAC003,AR033,Stability Balls #7,Studio Equipment,Schwinn,StabilityBalls-771,4F7F1222-FE8,2025-01-28,25,2027-01-28,Active
+EQ0728,FAC003,AR033,Stability Balls #8,Studio Equipment,Schwinn,StabilityBalls-783,8EEB2BF8-1EC,2024-09-29,33,2026-09-29,Active
+EQ0729,FAC003,AR033,Stability Balls #9,Studio Equipment,TRX,StabilityBalls-175,21C9A1A5-4BF,2024-11-20,54,2025-11-20,Active
+EQ0730,FAC003,AR033,Stability Balls #10,Studio Equipment,NordicTrack,StabilityBalls-819,0A7E66DC-2A8,2022-11-01,40,2024-10-31,Active
+EQ0731,FAC003,AR033,Stability Balls #11,Studio Equipment,Precor,StabilityBalls-325,ACB072FC-895,2021-03-23,34,2022-03-23,Active
+EQ0732,FAC003,AR033,Stability Balls #12,Studio Equipment,Technogym,StabilityBalls-204,BCF37233-5E0,2022-11-21,59,2025-11-20,Active
+EQ0733,FAC003,AR033,Stability Balls #13,Studio Equipment,Precor,StabilityBalls-980,26D5776E-4DF,2023-02-25,40,2025-02-24,Active
+EQ0734,FAC003,AR033,Stability Balls #14,Studio Equipment,Matrix,StabilityBalls-319,2D4A0B5C-1C9,2024-08-27,22,2025-08-27,Active
+EQ0735,FAC003,AR033,Stability Balls #15,Studio Equipment,Precor,StabilityBalls-396,B162F1AD-D49,2022-10-23,59,2025-10-22,Active
+EQ0736,FAC003,AR033,Stability Balls #16,Studio Equipment,Precor,StabilityBalls-528,179A2BE1-69F,2023-05-09,29,2025-05-08,Active
+EQ0737,FAC004,AR036,Dumbbells #1,Free Weights,Technogym,Dumbbells-357,C4B5EABA-27D,2023-10-31,151,2025-10-30,Maintenance
+EQ0738,FAC004,AR036,Dumbbells #2,Free Weights,NordicTrack,Dumbbells-569,800152FB-374,2024-04-28,180,2026-04-28,Maintenance
+EQ0739,FAC004,AR036,Dumbbells #3,Free Weights,Technogym,Dumbbells-908,3D37A4BF-517,2024-08-03,67,2026-08-03,Active
+EQ0740,FAC004,AR036,Dumbbells #4,Free Weights,StairMaster,Dumbbells-748,A3F83D7F-DBA,2022-10-29,134,2025-10-28,Active
+EQ0741,FAC004,AR036,Dumbbells #5,Free Weights,Schwinn,Dumbbells-859,1EC3DAF4-C1A,2025-01-18,53,2028-01-18,Active
+EQ0742,FAC004,AR036,Dumbbells #6,Free Weights,Bowflex,Dumbbells-507,D61B35B6-F56,2023-02-07,157,2024-02-07,Active
+EQ0743,FAC004,AR036,Dumbbells #7,Free Weights,Life Fitness,Dumbbells-989,15C94481-2A2,2023-11-29,143,2026-11-28,Active
+EQ0744,FAC004,AR036,Dumbbells #8,Free Weights,Bowflex,Dumbbells-844,DEF0CBAF-924,2022-10-15,159,2023-10-15,Active
+EQ0745,FAC004,AR036,Dumbbells #9,Free Weights,TRX,Dumbbells-527,8DF43957-0B2,2021-12-17,66,2022-12-17,Active
+EQ0746,FAC004,AR036,Dumbbells #10,Free Weights,Technogym,Dumbbells-130,7B518914-925,2023-05-18,186,2026-05-17,Active
+EQ0747,FAC004,AR036,Dumbbells #11,Free Weights,Schwinn,Dumbbells-300,17F02DDB-D51,2021-11-14,126,2024-11-13,Active
+EQ0748,FAC004,AR036,Dumbbells #12,Free Weights,TRX,Dumbbells-193,0478E9D1-7BC,2021-10-05,176,2022-10-05,Active
+EQ0749,FAC004,AR036,Dumbbells #13,Free Weights,Life Fitness,Dumbbells-557,EECEFB61-237,2023-01-08,105,2025-01-07,Active
+EQ0750,FAC004,AR036,Dumbbells #14,Free Weights,Schwinn,Dumbbells-327,1F2A6C38-52E,2022-12-22,184,2023-12-22,Maintenance
+EQ0751,FAC004,AR036,Dumbbells #15,Free Weights,Precor,Dumbbells-559,FFFD49FE-40D,2023-03-19,146,2026-03-18,Active
+EQ0752,FAC004,AR036,Dumbbells #16,Free Weights,Precor,Dumbbells-714,E6A8DC46-DC0,2021-04-06,171,2022-04-06,Active
+EQ0753,FAC004,AR036,Dumbbells #17,Free Weights,Life Fitness,Dumbbells-215,07099658-849,2022-02-01,105,2025-01-31,Maintenance
+EQ0754,FAC004,AR036,Dumbbells #18,Free Weights,Life Fitness,Dumbbells-558,6840FC47-61A,2025-08-11,175,2028-08-10,Active
+EQ0755,FAC004,AR036,Dumbbells #19,Free Weights,Precor,Dumbbells-670,44477AC9-DB4,2024-09-06,200,2027-09-06,Active
+EQ0756,FAC004,AR036,Dumbbells #20,Free Weights,Cybex,Dumbbells-349,15A285BB-916,2023-11-04,156,2025-11-03,Active
+EQ0757,FAC004,AR036,Dumbbells #21,Free Weights,Cybex,Dumbbells-846,FBC220FB-695,2022-11-21,67,2025-11-20,Out of Service
+EQ0758,FAC004,AR036,Dumbbells #22,Free Weights,NordicTrack,Dumbbells-861,7AD00A78-762,2021-12-16,119,2023-12-16,Active
+EQ0759,FAC004,AR036,Dumbbells #23,Free Weights,TRX,Dumbbells-812,101E2A34-D00,2024-06-16,169,2026-06-16,Active
+EQ0760,FAC004,AR036,Dumbbells #24,Free Weights,Bowflex,Dumbbells-672,59A78BD2-D8C,2020-10-07,119,2021-10-07,Active
+EQ0761,FAC004,AR036,Dumbbells #25,Free Weights,Bowflex,Dumbbells-221,64D08D70-FF2,2022-09-18,175,2023-09-18,Maintenance
+EQ0762,FAC004,AR036,Dumbbells #26,Free Weights,Cybex,Dumbbells-815,FBE4F76D-D86,2022-02-01,64,2025-01-31,Active
+EQ0763,FAC004,AR036,Dumbbells #27,Free Weights,Technogym,Dumbbells-802,4730F638-E99,2021-12-26,166,2024-12-25,Active
+EQ0764,FAC004,AR036,Dumbbells #28,Free Weights,Bowflex,Dumbbells-210,5F444871-E35,2024-10-19,166,2026-10-19,Active
+EQ0765,FAC004,AR036,Dumbbells #29,Free Weights,NordicTrack,Dumbbells-335,994FABD4-277,2023-05-16,178,2024-05-15,Active
+EQ0766,FAC004,AR036,Dumbbells #30,Free Weights,Bowflex,Dumbbells-684,212CA130-BF8,2025-09-13,113,2028-09-12,Maintenance
+EQ0767,FAC004,AR036,Dumbbells #31,Free Weights,Technogym,Dumbbells-480,179DD9C8-093,2023-12-18,106,2024-12-17,Active
+EQ0768,FAC004,AR036,Dumbbells #32,Free Weights,Bowflex,Dumbbells-117,BC5803F4-BA1,2024-06-02,51,2026-06-02,Maintenance
+EQ0769,FAC004,AR036,Dumbbells #33,Free Weights,StairMaster,Dumbbells-138,976DD58C-F0F,2022-06-03,141,2025-06-02,Active
+EQ0770,FAC004,AR036,Kettlebells #1,Free Weights,TRX,Kettlebells-946,E163B24C-502,2023-06-17,71,2026-06-16,Active
+EQ0771,FAC004,AR036,Kettlebells #2,Free Weights,StairMaster,Kettlebells-439,D1634FD4-82C,2022-03-02,48,2023-03-02,Active
+EQ0772,FAC004,AR036,Kettlebells #3,Free Weights,StairMaster,Kettlebells-836,E7D1F17D-7F5,2024-09-21,60,2027-09-21,Active
+EQ0773,FAC004,AR036,Kettlebells #4,Free Weights,Technogym,Kettlebells-711,E28F8D37-CB2,2025-04-30,149,2026-04-30,Active
+EQ0774,FAC004,AR036,Kettlebells #5,Free Weights,Precor,Kettlebells-366,F669FF54-0D2,2024-11-29,71,2027-11-29,Active
+EQ0775,FAC004,AR036,Kettlebells #6,Free Weights,Technogym,Kettlebells-210,9D5A4F56-725,2025-01-14,118,2027-01-14,Active
+EQ0776,FAC004,AR036,Kettlebells #7,Free Weights,Technogym,Kettlebells-934,1CB84196-BAC,2024-12-23,70,2027-12-23,Active
+EQ0777,FAC004,AR036,Kettlebells #8,Free Weights,Matrix,Kettlebells-855,B3DB0F17-45F,2021-06-28,119,2022-06-28,Active
+EQ0778,FAC004,AR036,Kettlebells #9,Free Weights,NordicTrack,Kettlebells-492,31CDFE45-A67,2023-07-23,30,2026-07-22,Active
+EQ0779,FAC004,AR036,Kettlebells #10,Free Weights,Cybex,Kettlebells-102,FC012FE0-F02,2024-10-18,30,2027-10-18,Active
+EQ0780,FAC004,AR036,Kettlebells #11,Free Weights,Technogym,Kettlebells-683,C210FE0A-530,2021-07-04,55,2022-07-04,Active
+EQ0781,FAC004,AR036,Kettlebells #12,Free Weights,Bowflex,Kettlebells-453,066E657F-ACF,2024-07-04,32,2025-07-04,Active
+EQ0782,FAC004,AR036,Kettlebells #13,Free Weights,TRX,Kettlebells-103,17F1E586-B42,2024-05-19,59,2027-05-19,Active
+EQ0783,FAC004,AR036,Kettlebells #14,Free Weights,Precor,Kettlebells-894,288AC49D-E69,2020-10-05,39,2021-10-05,Maintenance
+EQ0784,FAC004,AR036,Kettlebells #15,Free Weights,Matrix,Kettlebells-608,A72FCCBC-278,2025-04-13,143,2027-04-13,Active
+EQ0785,FAC004,AR036,Kettlebells #16,Free Weights,Bowflex,Kettlebells-242,30EF77A0-267,2022-11-13,44,2023-11-13,Active
+EQ0786,FAC004,AR036,Kettlebells #17,Free Weights,Matrix,Kettlebells-551,315F1594-B25,2023-06-07,134,2025-06-06,Active
+EQ0787,FAC004,AR036,Kettlebells #18,Free Weights,TRX,Kettlebells-582,E8EBEA68-ECD,2025-02-21,138,2028-02-21,Active
+EQ0788,FAC004,AR036,Kettlebells #19,Free Weights,Cybex,Kettlebells-975,5A012510-804,2025-08-07,138,2027-08-07,Active
+EQ0789,FAC004,AR036,Kettlebells #20,Free Weights,Precor,Kettlebells-174,C3BD2A58-6D0,2025-03-12,82,2028-03-11,Active
+EQ0790,FAC004,AR036,Kettlebells #21,Free Weights,TRX,Kettlebells-758,10B97F2F-EC2,2023-09-20,39,2024-09-19,Active
+EQ0791,FAC004,AR036,Kettlebells #22,Free Weights,NordicTrack,Kettlebells-937,12AA1E6E-B52,2024-04-03,109,2027-04-03,Active
+EQ0792,FAC004,AR036,Kettlebells #23,Free Weights,TRX,Kettlebells-873,467F4338-12B,2021-12-15,123,2023-12-15,Out of Service
+EQ0793,FAC004,AR036,Kettlebells #24,Free Weights,Matrix,Kettlebells-455,DBE064BD-EAC,2023-04-24,69,2025-04-23,Maintenance
+EQ0794,FAC004,AR036,Kettlebells #25,Free Weights,Cybex,Kettlebells-234,963D0F91-781,2025-03-15,106,2027-03-15,Active
+EQ0795,FAC004,AR036,Medicine Balls #1,Free Weights,TRX,MedicineBalls-851,6ED2B192-C3B,2024-05-28,39,2027-05-28,Active
+EQ0796,FAC004,AR036,Medicine Balls #2,Free Weights,NordicTrack,MedicineBalls-503,7B2BE066-937,2022-07-17,92,2024-07-16,Active
+EQ0797,FAC004,AR036,Medicine Balls #3,Free Weights,Life Fitness,MedicineBalls-471,ACFB7064-A67,2022-01-30,85,2025-01-29,Active
+EQ0798,FAC004,AR036,Medicine Balls #4,Free Weights,Bowflex,MedicineBalls-178,765A80DA-CB4,2022-08-17,28,2023-08-17,Maintenance
+EQ0799,FAC004,AR036,Medicine Balls #5,Free Weights,Technogym,MedicineBalls-838,EC8CCFFB-5EF,2025-08-06,25,2026-08-06,Maintenance
+EQ0800,FAC004,AR036,Medicine Balls #6,Free Weights,Schwinn,MedicineBalls-453,202E351A-1D5,2024-12-27,55,2027-12-27,Active
+EQ0801,FAC004,AR036,Medicine Balls #7,Free Weights,Precor,MedicineBalls-673,2EC2F023-5B8,2023-11-04,71,2026-11-03,Active
+EQ0802,FAC004,AR036,Medicine Balls #8,Free Weights,TRX,MedicineBalls-986,04197F3C-42F,2022-09-05,81,2024-09-04,Active
+EQ0803,FAC004,AR036,Medicine Balls #9,Free Weights,TRX,MedicineBalls-752,89A0E287-4C3,2024-12-11,32,2025-12-11,Active
+EQ0804,FAC004,AR036,Medicine Balls #10,Free Weights,NordicTrack,MedicineBalls-499,7769AF97-915,2021-04-05,89,2024-04-04,Active
+EQ0805,FAC004,AR036,Medicine Balls #11,Free Weights,Precor,MedicineBalls-371,12FD4B10-57E,2022-01-04,59,2025-01-03,Active
+EQ0806,FAC004,AR036,Medicine Balls #12,Free Weights,StairMaster,MedicineBalls-879,3CC750F6-245,2024-04-18,89,2026-04-18,Active
+EQ0807,FAC004,AR036,Medicine Balls #13,Free Weights,Technogym,MedicineBalls-113,340916AA-6CD,2024-03-21,74,2027-03-21,Maintenance
+EQ0808,FAC004,AR036,Medicine Balls #14,Free Weights,StairMaster,MedicineBalls-395,29A5DF67-88B,2021-02-01,39,2022-02-01,Active
+EQ0809,FAC004,AR036,Medicine Balls #15,Free Weights,Bowflex,MedicineBalls-793,7D817D45-3FB,2023-07-19,41,2026-07-18,Active
+EQ0810,FAC004,AR036,Medicine Balls #16,Free Weights,Technogym,MedicineBalls-841,B4546C52-F8F,2022-09-27,76,2024-09-26,Maintenance
+EQ0811,FAC004,AR036,Medicine Balls #17,Free Weights,Schwinn,MedicineBalls-324,ED1E31A6-D98,2024-04-05,60,2026-04-05,Active
+EQ0812,FAC004,AR036,Resistance Bands #1,Free Weights,Precor,ResistanceBands-694,4E2A58AB-47F,2023-07-01,19,2024-06-30,Active
+EQ0813,FAC004,AR036,Resistance Bands #2,Free Weights,Bowflex,ResistanceBands-940,569B37A3-A17,2021-01-18,38,2022-01-18,Active
+EQ0814,FAC004,AR036,Resistance Bands #3,Free Weights,Cybex,ResistanceBands-687,67C80DF8-DA4,2025-03-14,41,2027-03-14,Active
+EQ0815,FAC004,AR036,Resistance Bands #4,Free Weights,Cybex,ResistanceBands-117,7C1DFC82-3CE,2021-08-07,20,2023-08-07,Active
+EQ0816,FAC004,AR036,Resistance Bands #5,Free Weights,TRX,ResistanceBands-590,ED52920A-ACC,2025-07-18,15,2026-07-18,Maintenance
+EQ0817,FAC004,AR036,Resistance Bands #6,Free Weights,Bowflex,ResistanceBands-708,471668C3-F44,2021-08-19,20,2024-08-18,Maintenance
+EQ0818,FAC004,AR036,Resistance Bands #7,Free Weights,NordicTrack,ResistanceBands-824,A79CE5BC-DF6,2025-08-12,50,2028-08-11,Active
+EQ0819,FAC004,AR036,Resistance Bands #8,Free Weights,Technogym,ResistanceBands-390,0ABB2973-F1B,2025-09-25,49,2027-09-25,Active
+EQ0820,FAC004,AR036,Resistance Bands #9,Free Weights,Technogym,ResistanceBands-856,51ECA562-3CA,2025-04-04,21,2028-04-03,Active
+EQ0821,FAC004,AR036,Resistance Bands #10,Free Weights,TRX,ResistanceBands-397,3AEC9089-999,2021-06-29,28,2022-06-29,Maintenance
+EQ0822,FAC004,AR036,Resistance Bands #11,Free Weights,Matrix,ResistanceBands-617,0CBA81AE-43B,2023-03-11,16,2024-03-10,Active
+EQ0823,FAC004,AR036,Resistance Bands #12,Free Weights,StairMaster,ResistanceBands-661,FF79B9EB-C31,2023-03-24,48,2026-03-23,Active
+EQ0824,FAC004,AR036,Resistance Bands #13,Free Weights,Schwinn,ResistanceBands-179,90655D51-6F1,2022-10-19,50,2025-10-18,Active
+EQ0825,FAC004,AR036,Resistance Bands #14,Free Weights,Bowflex,ResistanceBands-105,D7B7E8D7-2A6,2024-01-30,40,2025-01-29,Active
+EQ0826,FAC004,AR036,Resistance Bands #15,Free Weights,Matrix,ResistanceBands-596,722B1029-9E5,2023-01-21,35,2025-01-20,Active
+EQ0827,FAC004,AR036,Resistance Bands #16,Free Weights,StairMaster,ResistanceBands-442,81EA3264-399,2021-05-22,13,2022-05-22,Active
+EQ0828,FAC004,AR036,Resistance Bands #17,Free Weights,StairMaster,ResistanceBands-527,6F3BE815-72D,2022-03-05,14,2025-03-04,Active
+EQ0829,FAC004,AR036,Resistance Bands #18,Free Weights,Bowflex,ResistanceBands-948,CCBC79A8-FF5,2025-03-15,26,2026-03-15,Active
+EQ0830,FAC004,AR036,Resistance Bands #19,Free Weights,Bowflex,ResistanceBands-697,7851E390-46C,2020-12-01,17,2023-12-01,Active
+EQ0831,FAC004,AR036,Resistance Bands #20,Free Weights,Cybex,ResistanceBands-587,8D6BDF89-AEC,2025-07-16,28,2027-07-16,Active
+EQ0832,FAC004,AR036,Resistance Bands #21,Free Weights,Life Fitness,ResistanceBands-283,B6DC4211-BB1,2024-11-13,11,2025-11-13,Active
+EQ0833,FAC004,AR036,Resistance Bands #22,Free Weights,NordicTrack,ResistanceBands-452,3C7BFACD-671,2023-11-26,18,2025-11-25,Maintenance
+EQ0834,FAC004,AR036,Resistance Bands #23,Free Weights,Life Fitness,ResistanceBands-560,943BFB6C-5BC,2025-03-19,45,2028-03-18,Maintenance
+EQ0835,FAC004,AR036,Resistance Bands #24,Free Weights,Cybex,ResistanceBands-941,E0D29BA8-408,2025-02-04,33,2027-02-04,Active
+EQ0836,FAC004,AR036,Resistance Bands #25,Free Weights,StairMaster,ResistanceBands-113,BCE987E3-50D,2021-06-24,36,2024-06-23,Active
+EQ0837,FAC004,AR036,Resistance Bands #26,Free Weights,Technogym,ResistanceBands-125,8CCF5AFF-763,2020-12-04,44,2022-12-04,Maintenance
+EQ0838,FAC004,AR036,Resistance Bands #27,Free Weights,Matrix,ResistanceBands-239,5E6854FC-FEF,2025-07-31,37,2028-07-30,Active
+EQ0839,FAC004,AR036,Resistance Bands #28,Free Weights,TRX,ResistanceBands-555,5CA64767-578,2020-10-23,38,2023-10-23,Active
+EQ0840,FAC004,AR036,Resistance Bands #29,Free Weights,Technogym,ResistanceBands-880,586D9AF6-649,2022-08-05,38,2024-08-04,Active
+EQ0841,FAC004,AR036,Resistance Bands #30,Free Weights,Schwinn,ResistanceBands-210,A33D2281-E89,2022-10-09,48,2023-10-09,Active
+EQ0842,FAC004,AR036,Resistance Bands #31,Free Weights,Matrix,ResistanceBands-302,82ED664A-A3C,2020-11-07,27,2023-11-07,Active
+EQ0843,FAC004,AR036,Resistance Bands #32,Free Weights,Technogym,ResistanceBands-944,B4A17696-C8E,2025-05-23,46,2027-05-23,Active
+EQ0844,FAC004,AR037,Treadmill #1,Cardio,Schwinn,Treadmill-801,00E3C497-884,2024-05-09,7067,2025-05-09,Active
+EQ0845,FAC004,AR037,Treadmill #2,Cardio,Technogym,Treadmill-701,E2935724-ADC,2021-12-31,3627,2023-12-31,Active
+EQ0846,FAC004,AR037,Treadmill #3,Cardio,NordicTrack,Treadmill-597,EFCE2FE8-69B,2021-03-27,5171,2024-03-26,Active
+EQ0847,FAC004,AR037,Treadmill #4,Cardio,Technogym,Treadmill-559,6024AA46-120,2021-06-14,6455,2023-06-14,Out of Service
+EQ0848,FAC004,AR037,Treadmill #5,Cardio,Technogym,Treadmill-554,8A6C9901-CFB,2021-08-01,5637,2023-08-01,Active
+EQ0849,FAC004,AR037,Treadmill #6,Cardio,TRX,Treadmill-359,518582A5-097,2023-03-21,4015,2025-03-20,Maintenance
+EQ0850,FAC004,AR037,Treadmill #7,Cardio,Bowflex,Treadmill-670,E5599547-494,2021-07-12,4186,2022-07-12,Active
+EQ0851,FAC004,AR037,Treadmill #8,Cardio,TRX,Treadmill-846,ADEC54A5-D89,2022-11-11,3182,2025-11-10,Active
+EQ0852,FAC004,AR037,Treadmill #9,Cardio,Cybex,Treadmill-490,075C6B77-04B,2024-12-06,3545,2026-12-06,Active
+EQ0853,FAC004,AR037,Treadmill #10,Cardio,Life Fitness,Treadmill-888,65170C7D-859,2022-01-01,4314,2024-01-01,Active
+EQ0854,FAC004,AR037,Treadmill #11,Cardio,StairMaster,Treadmill-722,F0A1AF59-48D,2021-12-06,7077,2022-12-06,Active
+EQ0855,FAC004,AR037,Treadmill #12,Cardio,Technogym,Treadmill-956,0F7F66AA-D73,2025-04-11,6639,2028-04-10,Active
+EQ0856,FAC004,AR037,Treadmill #13,Cardio,TRX,Treadmill-664,DED79313-7A4,2022-04-14,7973,2025-04-13,Out of Service
+EQ0857,FAC004,AR037,Treadmill #14,Cardio,Life Fitness,Treadmill-722,F1452739-483,2020-11-09,7852,2023-11-09,Maintenance
+EQ0858,FAC004,AR037,Elliptical #1,Cardio,Bowflex,Elliptical-937,BB49B718-AC4,2024-11-25,5906,2027-11-25,Active
+EQ0859,FAC004,AR037,Elliptical #2,Cardio,StairMaster,Elliptical-987,316A4D0A-A67,2024-11-11,4850,2025-11-11,Active
+EQ0860,FAC004,AR037,Elliptical #3,Cardio,Matrix,Elliptical-825,DF031506-CAA,2024-08-29,5712,2027-08-29,Maintenance
+EQ0861,FAC004,AR037,Elliptical #4,Cardio,Precor,Elliptical-509,3DED684D-688,2025-08-20,3394,2027-08-20,Active
+EQ0862,FAC004,AR037,Elliptical #5,Cardio,Bowflex,Elliptical-920,8F8E5B31-D78,2021-05-18,4484,2024-05-17,Active
+EQ0863,FAC004,AR037,Elliptical #6,Cardio,TRX,Elliptical-213,5790716D-847,2025-05-21,2526,2027-05-21,Active
+EQ0864,FAC004,AR037,Elliptical #7,Cardio,NordicTrack,Elliptical-141,66F7FC1D-F8B,2021-02-04,2779,2023-02-04,Active
+EQ0865,FAC004,AR037,Elliptical #8,Cardio,Cybex,Elliptical-367,A8170BE5-A86,2023-03-31,3842,2026-03-30,Active
+EQ0866,FAC004,AR037,Elliptical #9,Cardio,Schwinn,Elliptical-317,25C1C11A-D0C,2021-03-02,5854,2022-03-02,Maintenance
+EQ0867,FAC004,AR037,Elliptical #10,Cardio,TRX,Elliptical-970,54E3A57A-691,2024-01-12,2594,2025-01-11,Active
+EQ0868,FAC004,AR037,Stationary Bike #1,Cardio,TRX,StationaryBike-414,2581E62D-135,2023-01-29,2970,2025-01-28,Active
+EQ0869,FAC004,AR037,Stationary Bike #2,Cardio,Matrix,StationaryBike-524,955BEB23-88A,2021-11-09,1761,2023-11-09,Active
+EQ0870,FAC004,AR037,Stationary Bike #3,Cardio,Precor,StationaryBike-961,3472553C-7E2,2022-06-27,2286,2023-06-27,Active
+EQ0871,FAC004,AR037,Stationary Bike #4,Cardio,NordicTrack,StationaryBike-863,A819EF8E-19C,2024-02-03,3622,2027-02-02,Active
+EQ0872,FAC004,AR037,Stationary Bike #5,Cardio,StairMaster,StationaryBike-515,A98960B1-EE1,2023-01-15,2257,2026-01-14,Maintenance
+EQ0873,FAC004,AR037,Stationary Bike #6,Cardio,Bowflex,StationaryBike-693,B25AA5BC-854,2023-10-26,1710,2025-10-25,Active
+EQ0874,FAC004,AR037,Stationary Bike #7,Cardio,Schwinn,StationaryBike-131,95C9ECDA-7DF,2024-05-17,2217,2027-05-17,Active
+EQ0875,FAC004,AR037,Stationary Bike #8,Cardio,Bowflex,StationaryBike-847,C0F5DD2D-AC9,2023-12-28,3967,2024-12-27,Active
+EQ0876,FAC004,AR037,Stationary Bike #9,Cardio,Life Fitness,StationaryBike-738,4F267613-2A5,2024-06-15,2074,2026-06-15,Active
+EQ0877,FAC004,AR037,Stationary Bike #10,Cardio,TRX,StationaryBike-479,0AD8011F-731,2022-09-30,2141,2025-09-29,Active
+EQ0878,FAC004,AR037,Stationary Bike #11,Cardio,Cybex,StationaryBike-983,CD8B101F-70E,2022-09-01,3555,2023-09-01,Active
+EQ0879,FAC004,AR037,Stationary Bike #12,Cardio,Matrix,StationaryBike-169,F1F16596-DC4,2024-12-03,1630,2027-12-03,Active
+EQ0880,FAC004,AR037,Rowing Machine #1,Cardio,Bowflex,RowingMachine-182,28DE840C-ED2,2023-01-24,919,2026-01-23,Active
+EQ0881,FAC004,AR037,Rowing Machine #2,Cardio,Bowflex,RowingMachine-891,740C160C-4FD,2024-12-05,1219,2027-12-05,Maintenance
+EQ0882,FAC004,AR037,Rowing Machine #3,Cardio,Cybex,RowingMachine-739,3A693D55-694,2020-11-22,1692,2022-11-22,Active
+EQ0883,FAC004,AR037,Rowing Machine #4,Cardio,Bowflex,RowingMachine-516,BEF1F80B-9AE,2022-04-13,1323,2023-04-13,Active
+EQ0884,FAC004,AR037,Rowing Machine #5,Cardio,Precor,RowingMachine-127,88982FA5-626,2021-10-06,1445,2024-10-05,Active
+EQ0885,FAC004,AR037,StairMaster #1,Cardio,Matrix,StairMaster-892,11A88023-9F3,2024-02-07,3512,2027-02-06,Active
+EQ0886,FAC004,AR037,StairMaster #2,Cardio,Matrix,StairMaster-808,902E8D8A-47A,2024-04-21,3802,2027-04-21,Maintenance
+EQ0887,FAC004,AR037,StairMaster #3,Cardio,TRX,StairMaster-557,C974EB28-C79,2023-08-16,4352,2026-08-15,Active
+EQ0888,FAC004,AR037,StairMaster #4,Cardio,Bowflex,StairMaster-784,122A62A2-A52,2025-08-27,4242,2026-08-27,Active
+EQ0889,FAC004,AR038,Bench Press #1,Strength,Schwinn,BenchPress-569,D5FA8A0D-EDF,2022-01-19,2248,2024-01-19,Active
+EQ0890,FAC004,AR038,Bench Press #2,Strength,NordicTrack,BenchPress-469,D671BEAC-848,2020-12-03,1291,2022-12-03,Active
+EQ0891,FAC004,AR038,Bench Press #3,Strength,TRX,BenchPress-740,5663AEC6-B54,2021-12-10,1855,2023-12-10,Active
+EQ0892,FAC004,AR038,Bench Press #4,Strength,Matrix,BenchPress-594,424437F7-546,2024-04-19,1653,2026-04-19,Active
+EQ0893,FAC004,AR038,Squat Rack #1,Strength,StairMaster,SquatRack-140,95D38934-A2C,2024-04-19,4722,2026-04-19,Active
+EQ0894,FAC004,AR038,Squat Rack #2,Strength,Bowflex,SquatRack-778,5970CEB1-D89,2023-10-15,3426,2026-10-14,Active
+EQ0895,FAC004,AR038,Cable Machine #1,Strength,Matrix,CableMachine-188,559E64CC-EC9,2021-06-17,4737,2022-06-17,Active
+EQ0896,FAC004,AR038,Cable Machine #2,Strength,Life Fitness,CableMachine-887,59F7CB25-7DD,2022-09-06,3036,2023-09-06,Active
+EQ0897,FAC004,AR038,Cable Machine #3,Strength,Schwinn,CableMachine-598,2004877B-C26,2023-08-23,3829,2025-08-22,Maintenance
+EQ0898,FAC004,AR038,Cable Machine #4,Strength,Precor,CableMachine-253,7FA1A1DD-BC1,2023-02-21,4534,2024-02-21,Active
+EQ0899,FAC004,AR038,Cable Machine #5,Strength,Bowflex,CableMachine-459,31075098-B68,2022-11-09,5255,2023-11-09,Out of Service
+EQ0900,FAC004,AR038,Leg Press #1,Strength,StairMaster,LegPress-313,0E20EF46-7CB,2024-05-04,6774,2026-05-04,Active
+EQ0901,FAC004,AR038,Leg Press #2,Strength,Matrix,LegPress-651,A9C3DA97-3DE,2024-07-12,5742,2025-07-12,Active
+EQ0902,FAC004,AR038,Smith Machine #1,Strength,Bowflex,SmithMachine-840,8D6507E1-EEE,2024-05-06,5989,2027-05-06,Active
+EQ0903,FAC004,AR038,Smith Machine #2,Strength,NordicTrack,SmithMachine-781,94321326-551,2024-09-25,5855,2027-09-25,Active
+EQ0904,FAC004,AR045,Sound System #1,Studio Equipment,Bowflex,SoundSystem-490,09004742-964,2021-06-16,2665,2024-06-15,Maintenance
+EQ0905,FAC004,AR045,Mirrors #1,Studio Equipment,TRX,Mirrors-655,9A19A1BB-7CB,2024-08-04,356,2026-08-04,Active
+EQ0906,FAC004,AR045,Mirrors #2,Studio Equipment,Life Fitness,Mirrors-599,7545973E-114,2022-08-28,456,2025-08-27,Active
+EQ0907,FAC004,AR045,Mirrors #3,Studio Equipment,Technogym,Mirrors-881,F6502401-73A,2021-12-08,396,2022-12-08,Maintenance
+EQ0908,FAC004,AR045,Mirrors #4,Studio Equipment,Bowflex,Mirrors-784,2F220855-139,2021-07-27,497,2022-07-27,Active
+EQ0909,FAC004,AR045,Mirrors #5,Studio Equipment,TRX,Mirrors-195,1F302685-E05,2024-06-05,518,2025-06-05,Active
+EQ0910,FAC004,AR045,Mirrors #6,Studio Equipment,TRX,Mirrors-707,FE6394DE-61E,2024-05-27,210,2027-05-27,Active
+EQ0911,FAC004,AR045,Mirrors #7,Studio Equipment,Matrix,Mirrors-256,74BCA45B-256,2023-06-28,272,2026-06-27,Active
+EQ0912,FAC004,AR045,Yoga Mats #1,Studio Equipment,Bowflex,YogaMats-343,B2D379C0-DFA,2023-06-08,20,2025-06-07,Active
+EQ0913,FAC004,AR045,Yoga Mats #2,Studio Equipment,Technogym,YogaMats-728,4B5DF49A-4AE,2021-02-19,47,2024-02-19,Maintenance
+EQ0914,FAC004,AR045,Yoga Mats #3,Studio Equipment,Schwinn,YogaMats-783,812421E0-CF8,2024-06-20,26,2026-06-20,Active
+EQ0915,FAC004,AR045,Yoga Mats #4,Studio Equipment,NordicTrack,YogaMats-803,B3A0B7B3-191,2022-11-29,18,2025-11-28,Out of Service
+EQ0916,FAC004,AR045,Yoga Mats #5,Studio Equipment,Technogym,YogaMats-240,3A8CD190-2F6,2021-02-24,31,2023-02-24,Active
+EQ0917,FAC004,AR045,Yoga Mats #6,Studio Equipment,NordicTrack,YogaMats-239,BE59CB26-F85,2022-09-14,30,2025-09-13,Active
+EQ0918,FAC004,AR045,Yoga Mats #7,Studio Equipment,StairMaster,YogaMats-273,7B566809-62B,2021-04-24,36,2023-04-24,Active
+EQ0919,FAC004,AR045,Yoga Mats #8,Studio Equipment,Schwinn,YogaMats-413,C902CE89-8D4,2022-12-15,44,2023-12-15,Active
+EQ0920,FAC004,AR045,Yoga Mats #9,Studio Equipment,Cybex,YogaMats-566,C17899CE-CEE,2024-05-20,29,2026-05-20,Maintenance
+EQ0921,FAC004,AR045,Yoga Mats #10,Studio Equipment,TRX,YogaMats-855,6269C71B-29C,2022-05-25,15,2023-05-25,Active
+EQ0922,FAC004,AR045,Yoga Mats #11,Studio Equipment,Schwinn,YogaMats-999,A38F19B6-F38,2022-12-17,21,2023-12-17,Active
+EQ0923,FAC004,AR045,Yoga Mats #12,Studio Equipment,Life Fitness,YogaMats-919,13BE19B1-E97,2024-08-03,17,2025-08-03,Out of Service
+EQ0924,FAC004,AR045,Yoga Mats #13,Studio Equipment,Matrix,YogaMats-374,9A2DAE6E-E3E,2021-04-29,27,2023-04-29,Out of Service
+EQ0925,FAC004,AR045,Yoga Mats #14,Studio Equipment,Cybex,YogaMats-757,A7798FEB-983,2025-06-07,48,2028-06-06,Active
+EQ0926,FAC004,AR045,Yoga Mats #15,Studio Equipment,Life Fitness,YogaMats-235,27533BB9-35A,2025-07-16,47,2027-07-16,Active
+EQ0927,FAC004,AR045,Yoga Mats #16,Studio Equipment,Schwinn,YogaMats-859,F5FC488E-206,2023-02-22,43,2026-02-21,Active
+EQ0928,FAC004,AR045,Yoga Mats #17,Studio Equipment,Matrix,YogaMats-546,86E075C7-171,2023-04-30,48,2025-04-29,Active
+EQ0929,FAC004,AR045,Yoga Mats #18,Studio Equipment,Matrix,YogaMats-176,E797FCB1-8D6,2024-07-13,37,2025-07-13,Active
+EQ0930,FAC004,AR045,Yoga Mats #19,Studio Equipment,Matrix,YogaMats-212,17DDFD59-636,2025-02-21,34,2027-02-21,Out of Service
+EQ0931,FAC004,AR045,Yoga Mats #20,Studio Equipment,Precor,YogaMats-588,BCD90A8A-AE5,2025-05-27,43,2027-05-27,Active
+EQ0932,FAC004,AR045,Yoga Mats #21,Studio Equipment,Bowflex,YogaMats-556,D33F6F97-04D,2024-12-27,25,2025-12-27,Active
+EQ0933,FAC004,AR045,Yoga Mats #22,Studio Equipment,Matrix,YogaMats-384,F8074548-F4B,2023-05-06,35,2025-05-05,Active
+EQ0934,FAC004,AR045,Yoga Mats #23,Studio Equipment,Schwinn,YogaMats-660,F4ADAB1B-40C,2023-08-15,17,2025-08-14,Active
+EQ0935,FAC004,AR045,Yoga Mats #24,Studio Equipment,Technogym,YogaMats-608,6C03A13B-74E,2022-02-07,47,2024-02-07,Out of Service
+EQ0936,FAC004,AR045,Yoga Mats #25,Studio Equipment,Life Fitness,YogaMats-517,2354F7DD-36D,2025-01-16,25,2028-01-16,Active
+EQ0937,FAC004,AR045,Yoga Mats #26,Studio Equipment,Life Fitness,YogaMats-363,F78A889C-930,2023-02-08,34,2024-02-08,Active
+EQ0938,FAC004,AR045,Yoga Mats #27,Studio Equipment,Technogym,YogaMats-320,F02BAFC4-A52,2021-10-13,30,2022-10-13,Active
+EQ0939,FAC004,AR045,Yoga Mats #28,Studio Equipment,Schwinn,YogaMats-925,FE9300C7-99D,2022-10-25,46,2025-10-24,Active
+EQ0940,FAC004,AR045,Yoga Mats #29,Studio Equipment,Schwinn,YogaMats-547,C83CC219-476,2023-11-14,40,2025-11-13,Maintenance
+EQ0941,FAC004,AR045,Yoga Mats #30,Studio Equipment,Technogym,YogaMats-547,4C2009E1-DFD,2021-12-25,44,2023-12-25,Active
+EQ0942,FAC004,AR045,Yoga Mats #31,Studio Equipment,Bowflex,YogaMats-331,B3AD6F55-32A,2025-09-01,32,2026-09-01,Active
+EQ0943,FAC004,AR045,Yoga Mats #32,Studio Equipment,StairMaster,YogaMats-627,A46D9FEB-2BF,2022-03-13,30,2023-03-13,Active
+EQ0944,FAC004,AR045,Yoga Mats #33,Studio Equipment,Technogym,YogaMats-665,F689AE10-DFD,2023-08-22,48,2025-08-21,Active
+EQ0945,FAC004,AR045,Yoga Mats #34,Studio Equipment,TRX,YogaMats-959,4ED10FE4-9B0,2025-08-21,43,2028-08-20,Active
+EQ0946,FAC004,AR045,Stability Balls #1,Studio Equipment,Cybex,StabilityBalls-466,3E82AA96-26C,2020-11-09,59,2023-11-09,Maintenance
+EQ0947,FAC004,AR045,Stability Balls #2,Studio Equipment,Life Fitness,StabilityBalls-372,E94F69E1-2AF,2023-09-03,29,2024-09-02,Active
+EQ0948,FAC004,AR045,Stability Balls #3,Studio Equipment,Cybex,StabilityBalls-787,763CD894-D1E,2024-09-26,36,2027-09-26,Active
+EQ0949,FAC004,AR045,Stability Balls #4,Studio Equipment,TRX,StabilityBalls-671,55937557-938,2022-01-07,46,2024-01-07,Active
+EQ0950,FAC004,AR045,Stability Balls #5,Studio Equipment,StairMaster,StabilityBalls-760,E6526BF4-DE6,2021-06-20,60,2023-06-20,Active
+EQ0951,FAC004,AR045,Stability Balls #6,Studio Equipment,Cybex,StabilityBalls-696,3B4C7E38-CB2,2024-11-18,43,2025-11-18,Active
+EQ0952,FAC004,AR045,Stability Balls #7,Studio Equipment,Technogym,StabilityBalls-196,4FBE8C2A-892,2024-06-10,50,2026-06-10,Active
+EQ0953,FAC004,AR045,Stability Balls #8,Studio Equipment,Bowflex,StabilityBalls-238,E50B865B-EC9,2020-10-19,25,2023-10-19,Active
+EQ0954,FAC004,AR045,Stability Balls #9,Studio Equipment,Cybex,StabilityBalls-468,A4595720-E85,2024-03-27,55,2025-03-27,Active
+EQ0955,FAC004,AR045,Stability Balls #10,Studio Equipment,Matrix,StabilityBalls-615,BA2BA17C-12E,2023-09-09,45,2024-09-08,Maintenance
+EQ0956,FAC004,AR045,Stability Balls #11,Studio Equipment,StairMaster,StabilityBalls-201,BE62DFB8-2C0,2025-03-07,52,2028-03-06,Active
+EQ0957,FAC004,AR045,Stability Balls #12,Studio Equipment,Bowflex,StabilityBalls-232,705F30C1-4E8,2024-04-30,59,2026-04-30,Active
+EQ0958,FAC004,AR045,Stability Balls #13,Studio Equipment,Precor,StabilityBalls-268,70D0F20F-4A6,2022-11-06,34,2025-11-05,Active
+EQ0959,FAC004,AR045,Stability Balls #14,Studio Equipment,Precor,StabilityBalls-858,399E92D7-676,2021-09-15,43,2024-09-14,Maintenance
+EQ0960,FAC004,AR045,Stability Balls #15,Studio Equipment,TRX,StabilityBalls-637,340F00AC-D11,2022-03-16,38,2025-03-15,Active
+EQ0961,FAC004,AR045,Stability Balls #16,Studio Equipment,Technogym,StabilityBalls-230,B774F69C-D87,2024-03-05,59,2026-03-05,Active
+EQ0962,FAC004,AR045,Stability Balls #17,Studio Equipment,Matrix,StabilityBalls-264,FB855719-EA9,2023-01-06,56,2025-01-05,Maintenance
+EQ0963,FAC004,AR045,Stability Balls #18,Studio Equipment,TRX,StabilityBalls-337,77A0B896-6E0,2025-01-29,60,2026-01-29,Active
+EQ0964,FAC004,AR045,Stability Balls #19,Studio Equipment,NordicTrack,StabilityBalls-414,2C66DB07-050,2022-09-15,24,2024-09-14,Maintenance
+EQ0965,FAC004,AR045,Stability Balls #20,Studio Equipment,StairMaster,StabilityBalls-418,2519E333-E16,2022-03-11,59,2023-03-11,Active
+EQ0966,FAC004,AR046,Lane Dividers #1,Pool Equipment,Schwinn,LaneDividers-310,BDD16F21-7E9,2022-06-27,216,2024-06-26,Active
+EQ0967,FAC004,AR046,Lane Dividers #2,Pool Equipment,Life Fitness,LaneDividers-713,8C6CEA75-85A,2024-05-18,225,2027-05-18,Active
+EQ0968,FAC004,AR046,Lane Dividers #3,Pool Equipment,Schwinn,LaneDividers-156,E41BA91C-832,2024-04-06,300,2026-04-06,Active
+EQ0969,FAC004,AR046,Lane Dividers #4,Pool Equipment,Cybex,LaneDividers-856,65D180E2-310,2022-10-16,123,2025-10-15,Active
+EQ0970,FAC004,AR046,Lane Dividers #5,Pool Equipment,Precor,LaneDividers-418,8FF6599D-105,2020-10-27,188,2021-10-27,Out of Service
+EQ0971,FAC004,AR046,Lane Dividers #6,Pool Equipment,Precor,LaneDividers-907,73E0AEB6-993,2021-01-23,139,2024-01-23,Active
+EQ0972,FAC004,AR046,Lane Dividers #7,Pool Equipment,TRX,LaneDividers-470,93A8F33A-39C,2022-02-10,141,2023-02-10,Active
+EQ0973,FAC004,AR046,Pool Vacuum #1,Pool Equipment,Life Fitness,PoolVacuum-157,9F4AC62B-738,2024-05-01,1063,2025-05-01,Active
+EQ0974,FAC004,AR046,Water Testing Kit #1,Pool Equipment,Bowflex,WaterTestingKit-499,E408E772-8E0,2023-09-14,218,2025-09-13,Maintenance
+EQ0975,FAC004,AR046,Water Testing Kit #2,Pool Equipment,Life Fitness,WaterTestingKit-782,9DF10617-D81,2024-12-31,209,2026-12-31,Active
+EQ0976,FAC004,AR046,Water Testing Kit #3,Pool Equipment,Schwinn,WaterTestingKit-484,887A7C89-E4B,2023-10-29,188,2024-10-28,Active
+EQ0977,FAC005,AR048,Dumbbells #1,Free Weights,Cybex,Dumbbells-101,B7A97A7C-2DD,2022-07-05,58,2024-07-04,Active
+EQ0978,FAC005,AR048,Dumbbells #2,Free Weights,Life Fitness,Dumbbells-388,C232D625-FD4,2022-07-06,62,2023-07-06,Active
+EQ0979,FAC005,AR048,Dumbbells #3,Free Weights,Schwinn,Dumbbells-242,A4D57C92-7C5,2024-01-24,180,2026-01-23,Active
+EQ0980,FAC005,AR048,Dumbbells #4,Free Weights,Life Fitness,Dumbbells-992,503C530F-0A2,2022-06-25,59,2024-06-24,Active
+EQ0981,FAC005,AR048,Dumbbells #5,Free Weights,Precor,Dumbbells-372,F18861E9-711,2023-01-09,137,2026-01-08,Active
+EQ0982,FAC005,AR048,Dumbbells #6,Free Weights,Precor,Dumbbells-998,C8CB8119-BF5,2022-07-16,62,2024-07-15,Active
+EQ0983,FAC005,AR048,Dumbbells #7,Free Weights,StairMaster,Dumbbells-896,9DC9D338-6F6,2021-09-24,183,2023-09-24,Active
+EQ0984,FAC005,AR048,Dumbbells #8,Free Weights,NordicTrack,Dumbbells-937,C34F15F2-BE0,2022-11-14,194,2024-11-13,Active
+EQ0985,FAC005,AR048,Dumbbells #9,Free Weights,TRX,Dumbbells-657,101AC3B7-2C5,2021-06-30,157,2022-06-30,Active
+EQ0986,FAC005,AR048,Dumbbells #10,Free Weights,Cybex,Dumbbells-759,C83B5F6F-E93,2021-02-20,141,2023-02-20,Active
+EQ0987,FAC005,AR048,Dumbbells #11,Free Weights,StairMaster,Dumbbells-846,49B76771-118,2023-04-18,117,2025-04-17,Maintenance
+EQ0988,FAC005,AR048,Dumbbells #12,Free Weights,Bowflex,Dumbbells-361,9D80C3A3-7D7,2022-03-26,167,2025-03-25,Active
+EQ0989,FAC005,AR048,Dumbbells #13,Free Weights,NordicTrack,Dumbbells-430,6799CCDC-993,2023-01-27,148,2026-01-26,Active
+EQ0990,FAC005,AR048,Dumbbells #14,Free Weights,Matrix,Dumbbells-181,06E57979-97E,2020-11-15,145,2021-11-15,Active
+EQ0991,FAC005,AR048,Dumbbells #15,Free Weights,Life Fitness,Dumbbells-691,648E5BD7-48F,2024-05-01,63,2027-05-01,Active
+EQ0992,FAC005,AR048,Dumbbells #16,Free Weights,Technogym,Dumbbells-884,4F93968F-CDE,2025-07-27,115,2028-07-26,Active
+EQ0993,FAC005,AR048,Dumbbells #17,Free Weights,Life Fitness,Dumbbells-502,DFD3214B-4A3,2025-01-24,136,2028-01-24,Active
+EQ0994,FAC005,AR048,Dumbbells #18,Free Weights,Precor,Dumbbells-699,F1307300-911,2021-03-05,147,2023-03-05,Active
+EQ0995,FAC005,AR048,Dumbbells #19,Free Weights,Technogym,Dumbbells-237,6EE40F16-1F0,2023-09-07,148,2025-09-06,Active
+EQ0996,FAC005,AR048,Dumbbells #20,Free Weights,Bowflex,Dumbbells-158,DFDD8C20-BE2,2025-07-15,165,2028-07-14,Active
+EQ0997,FAC005,AR048,Dumbbells #21,Free Weights,Cybex,Dumbbells-408,A8D747A1-524,2024-03-16,76,2027-03-16,Active
+EQ0998,FAC005,AR048,Dumbbells #22,Free Weights,TRX,Dumbbells-490,9CFDF494-04B,2020-11-30,65,2023-11-30,Active
+EQ0999,FAC005,AR048,Dumbbells #23,Free Weights,StairMaster,Dumbbells-794,45EA6748-687,2024-11-04,124,2026-11-04,Active
+EQ1000,FAC005,AR048,Dumbbells #24,Free Weights,Cybex,Dumbbells-975,F9F0310F-2A5,2022-04-13,80,2024-04-12,Active
+EQ1001,FAC005,AR048,Dumbbells #25,Free Weights,Schwinn,Dumbbells-776,16D92C87-C02,2023-03-15,145,2024-03-14,Active
+EQ1002,FAC005,AR048,Dumbbells #26,Free Weights,Precor,Dumbbells-999,0ED0AD64-E25,2021-12-03,115,2023-12-03,Out of Service
+EQ1003,FAC005,AR048,Dumbbells #27,Free Weights,Bowflex,Dumbbells-118,5D9331CD-BA9,2025-07-23,86,2027-07-23,Active
+EQ1004,FAC005,AR048,Dumbbells #28,Free Weights,StairMaster,Dumbbells-866,F4AD0603-B1E,2022-10-12,116,2025-10-11,Active
+EQ1005,FAC005,AR048,Dumbbells #29,Free Weights,Precor,Dumbbells-174,8A9F9941-449,2025-02-09,90,2028-02-09,Active
+EQ1006,FAC005,AR048,Dumbbells #30,Free Weights,Schwinn,Dumbbells-537,51527B11-23F,2023-03-21,192,2026-03-20,Out of Service
+EQ1007,FAC005,AR048,Dumbbells #31,Free Weights,Life Fitness,Dumbbells-398,FEA54A8F-C51,2020-12-10,160,2021-12-10,Active
+EQ1008,FAC005,AR048,Dumbbells #32,Free Weights,TRX,Dumbbells-957,705EB763-05A,2022-08-02,186,2025-08-01,Active
+EQ1009,FAC005,AR048,Dumbbells #33,Free Weights,TRX,Dumbbells-929,66DC0971-991,2022-02-22,142,2023-02-22,Active
+EQ1010,FAC005,AR048,Dumbbells #34,Free Weights,Cybex,Dumbbells-892,B85EA6C5-3C5,2023-10-29,200,2025-10-28,Active
+EQ1011,FAC005,AR048,Dumbbells #35,Free Weights,NordicTrack,Dumbbells-814,C16BBCDF-B4A,2020-10-13,58,2021-10-13,Active
+EQ1012,FAC005,AR048,Dumbbells #36,Free Weights,Bowflex,Dumbbells-637,C5A4DF03-77C,2021-07-02,56,2023-07-02,Active
+EQ1013,FAC005,AR048,Dumbbells #37,Free Weights,Matrix,Dumbbells-611,0ED9D5F1-867,2023-11-26,58,2026-11-25,Active
+EQ1014,FAC005,AR048,Kettlebells #1,Free Weights,NordicTrack,Kettlebells-868,40CE0F3A-B2D,2022-03-19,104,2025-03-18,Out of Service
+EQ1015,FAC005,AR048,Kettlebells #2,Free Weights,StairMaster,Kettlebells-448,128BBB98-2D2,2023-07-01,57,2026-06-30,Active
+EQ1016,FAC005,AR048,Kettlebells #3,Free Weights,Bowflex,Kettlebells-995,307C0423-257,2022-06-05,112,2023-06-05,Maintenance
+EQ1017,FAC005,AR048,Kettlebells #4,Free Weights,StairMaster,Kettlebells-629,FF504F77-00C,2023-12-15,100,2026-12-14,Active
+EQ1018,FAC005,AR048,Kettlebells #5,Free Weights,Bowflex,Kettlebells-261,302CC702-5F4,2024-04-11,30,2026-04-11,Active
+EQ1019,FAC005,AR048,Kettlebells #6,Free Weights,Technogym,Kettlebells-869,9EA968D4-4F7,2020-12-29,147,2023-12-29,Out of Service
+EQ1020,FAC005,AR048,Kettlebells #7,Free Weights,Bowflex,Kettlebells-519,7960ADCC-687,2025-04-01,88,2026-04-01,Active
+EQ1021,FAC005,AR048,Kettlebells #8,Free Weights,Schwinn,Kettlebells-553,4C566EF4-CF1,2024-04-19,80,2025-04-19,Active
+EQ1022,FAC005,AR048,Kettlebells #9,Free Weights,NordicTrack,Kettlebells-520,4389FD66-658,2023-05-26,32,2025-05-25,Active
+EQ1023,FAC005,AR048,Kettlebells #10,Free Weights,Life Fitness,Kettlebells-407,61784ED2-76A,2024-07-12,91,2025-07-12,Active
+EQ1024,FAC005,AR048,Kettlebells #11,Free Weights,Precor,Kettlebells-744,48A16AC1-1BD,2022-03-27,114,2023-03-27,Active
+EQ1025,FAC005,AR048,Kettlebells #12,Free Weights,Matrix,Kettlebells-330,C69074F4-9DE,2023-02-23,59,2026-02-22,Active
+EQ1026,FAC005,AR048,Kettlebells #13,Free Weights,StairMaster,Kettlebells-945,0CFF5F90-7DA,2025-08-18,58,2026-08-18,Active
+EQ1027,FAC005,AR048,Kettlebells #14,Free Weights,Schwinn,Kettlebells-427,23842A11-8A9,2021-05-10,52,2023-05-10,Active
+EQ1028,FAC005,AR048,Kettlebells #15,Free Weights,Cybex,Kettlebells-329,F98B76DE-6A2,2024-04-18,77,2026-04-18,Active
+EQ1029,FAC005,AR048,Kettlebells #16,Free Weights,Technogym,Kettlebells-665,C8CAB1E3-259,2020-10-28,139,2022-10-28,Maintenance
+EQ1030,FAC005,AR048,Kettlebells #17,Free Weights,NordicTrack,Kettlebells-470,B48312EC-81A,2025-07-07,111,2028-07-06,Active
+EQ1031,FAC005,AR048,Kettlebells #18,Free Weights,Precor,Kettlebells-516,35CCA6F3-76B,2022-07-10,140,2025-07-09,Active
+EQ1032,FAC005,AR048,Medicine Balls #1,Free Weights,TRX,MedicineBalls-235,8ECFB594-185,2024-07-10,74,2026-07-10,Active
+EQ1033,FAC005,AR048,Medicine Balls #2,Free Weights,Technogym,MedicineBalls-690,8B863102-702,2022-01-29,49,2023-01-29,Active
+EQ1034,FAC005,AR048,Medicine Balls #3,Free Weights,Precor,MedicineBalls-545,48F58ABD-D85,2025-04-24,64,2028-04-23,Active
+EQ1035,FAC005,AR048,Medicine Balls #4,Free Weights,Cybex,MedicineBalls-745,BCD257B1-E34,2023-05-09,100,2026-05-08,Active
+EQ1036,FAC005,AR048,Medicine Balls #5,Free Weights,StairMaster,MedicineBalls-425,02C6F611-2CD,2021-09-05,37,2024-09-04,Out of Service
+EQ1037,FAC005,AR048,Medicine Balls #6,Free Weights,Schwinn,MedicineBalls-673,5F192298-9D1,2022-06-27,89,2025-06-26,Active
+EQ1038,FAC005,AR048,Medicine Balls #7,Free Weights,Schwinn,MedicineBalls-808,EF4DFCDA-488,2025-09-20,60,2026-09-20,Active
+EQ1039,FAC005,AR048,Medicine Balls #8,Free Weights,Schwinn,MedicineBalls-121,B15AB1E6-A84,2025-04-20,82,2027-04-20,Active
+EQ1040,FAC005,AR048,Medicine Balls #9,Free Weights,Life Fitness,MedicineBalls-187,3B3F7E27-D85,2022-02-26,51,2024-02-26,Active
+EQ1041,FAC005,AR048,Medicine Balls #10,Free Weights,Cybex,MedicineBalls-661,4686CFC7-081,2023-05-28,68,2026-05-27,Active
+EQ1042,FAC005,AR048,Medicine Balls #11,Free Weights,TRX,MedicineBalls-237,2C1DC72B-6B6,2025-08-16,77,2026-08-16,Out of Service
+EQ1043,FAC005,AR048,Resistance Bands #1,Free Weights,Cybex,ResistanceBands-735,9ED7387C-E0C,2023-10-31,41,2025-10-30,Active
+EQ1044,FAC005,AR048,Resistance Bands #2,Free Weights,Schwinn,ResistanceBands-876,D3014EE1-448,2022-11-20,14,2024-11-19,Active
+EQ1045,FAC005,AR048,Resistance Bands #3,Free Weights,Precor,ResistanceBands-361,90E252A5-E19,2022-01-05,40,2023-01-05,Maintenance
+EQ1046,FAC005,AR048,Resistance Bands #4,Free Weights,Cybex,ResistanceBands-526,A44504D9-90A,2023-03-28,30,2026-03-27,Active
+EQ1047,FAC005,AR048,Resistance Bands #5,Free Weights,TRX,ResistanceBands-921,29CBD704-F0B,2023-07-03,18,2026-07-02,Active
+EQ1048,FAC005,AR048,Resistance Bands #6,Free Weights,Bowflex,ResistanceBands-126,22F1386A-5BE,2022-01-27,13,2025-01-26,Active
+EQ1049,FAC005,AR048,Resistance Bands #7,Free Weights,Schwinn,ResistanceBands-170,4DE9F0E6-E1B,2023-12-08,22,2026-12-07,Active
+EQ1050,FAC005,AR048,Resistance Bands #8,Free Weights,Technogym,ResistanceBands-514,7768DEDA-E70,2021-10-11,13,2023-10-11,Active
+EQ1051,FAC005,AR048,Resistance Bands #9,Free Weights,Precor,ResistanceBands-837,4FC45DC8-C63,2024-05-13,33,2027-05-13,Active
+EQ1052,FAC005,AR048,Resistance Bands #10,Free Weights,Technogym,ResistanceBands-969,0FE7C832-EE8,2024-01-15,10,2025-01-14,Active
+EQ1053,FAC005,AR048,Resistance Bands #11,Free Weights,Bowflex,ResistanceBands-450,30A8E28E-074,2021-02-09,36,2023-02-09,Active
+EQ1054,FAC005,AR048,Resistance Bands #12,Free Weights,Matrix,ResistanceBands-810,DE0E4C6D-C7B,2021-02-06,17,2022-02-06,Active
+EQ1055,FAC005,AR048,Resistance Bands #13,Free Weights,Precor,ResistanceBands-834,CFFAA29E-A24,2020-11-10,26,2021-11-10,Active
+EQ1056,FAC005,AR048,Resistance Bands #14,Free Weights,Bowflex,ResistanceBands-113,1CA152E2-0F6,2021-10-31,44,2024-10-30,Active
+EQ1057,FAC005,AR048,Resistance Bands #15,Free Weights,Precor,ResistanceBands-400,4FAFD86F-0B6,2025-01-19,44,2026-01-19,Active
+EQ1058,FAC005,AR048,Resistance Bands #16,Free Weights,Schwinn,ResistanceBands-353,3E275274-E2E,2021-04-27,37,2024-04-26,Active
+EQ1059,FAC005,AR048,Resistance Bands #17,Free Weights,Technogym,ResistanceBands-126,9D04E5A9-954,2024-07-29,39,2025-07-29,Active
+EQ1060,FAC005,AR048,Resistance Bands #18,Free Weights,StairMaster,ResistanceBands-565,374F0AA4-1D5,2022-08-25,38,2024-08-24,Active
+EQ1061,FAC005,AR048,Resistance Bands #19,Free Weights,NordicTrack,ResistanceBands-945,97217F4A-4FF,2021-05-19,23,2023-05-19,Active
+EQ1062,FAC005,AR048,Resistance Bands #20,Free Weights,Technogym,ResistanceBands-808,E68A24BC-8FD,2023-07-25,13,2025-07-24,Active
+EQ1063,FAC005,AR048,Resistance Bands #21,Free Weights,Life Fitness,ResistanceBands-513,DBC2BDC9-3CB,2024-06-01,16,2026-06-01,Active
+EQ1064,FAC005,AR048,Resistance Bands #22,Free Weights,Cybex,ResistanceBands-971,FC0C434F-7B1,2020-11-28,10,2022-11-28,Maintenance
+EQ1065,FAC005,AR048,Resistance Bands #23,Free Weights,TRX,ResistanceBands-555,008369D6-14E,2025-03-26,37,2027-03-26,Active
+EQ1066,FAC005,AR048,Resistance Bands #24,Free Weights,Cybex,ResistanceBands-200,C991C524-BDE,2025-04-10,48,2028-04-09,Active
+EQ1067,FAC005,AR048,Resistance Bands #25,Free Weights,Precor,ResistanceBands-871,0474B86F-FCE,2023-03-29,16,2026-03-28,Active
+EQ1068,FAC005,AR048,Resistance Bands #26,Free Weights,StairMaster,ResistanceBands-634,684B506B-136,2020-11-22,22,2022-11-22,Active
+EQ1069,FAC005,AR048,Resistance Bands #27,Free Weights,Technogym,ResistanceBands-408,70905405-D09,2021-03-11,23,2024-03-10,Active
+EQ1070,FAC005,AR048,Resistance Bands #28,Free Weights,TRX,ResistanceBands-385,95F12959-BC7,2022-04-07,16,2024-04-06,Maintenance
+EQ1071,FAC005,AR048,Resistance Bands #29,Free Weights,StairMaster,ResistanceBands-822,FFD6C0B1-349,2025-02-05,49,2027-02-05,Active
+EQ1072,FAC005,AR048,Resistance Bands #30,Free Weights,StairMaster,ResistanceBands-985,7AAADA25-81E,2024-05-16,43,2026-05-16,Active
+EQ1073,FAC005,AR048,Resistance Bands #31,Free Weights,StairMaster,ResistanceBands-741,976D52EA-DF0,2022-11-22,41,2025-11-21,Active
+EQ1074,FAC005,AR048,Resistance Bands #32,Free Weights,Life Fitness,ResistanceBands-193,7A6E859B-147,2022-10-11,27,2023-10-11,Active
+EQ1075,FAC005,AR048,Resistance Bands #33,Free Weights,Bowflex,ResistanceBands-319,0941DBF9-2B3,2024-01-02,12,2026-01-01,Active
+EQ1076,FAC005,AR048,Resistance Bands #34,Free Weights,Technogym,ResistanceBands-473,06304CBD-C7B,2021-10-21,33,2022-10-21,Active
+EQ1077,FAC005,AR049,Treadmill #1,Cardio,TRX,Treadmill-246,35461652-0A2,2024-02-15,5000,2026-02-14,Out of Service
+EQ1078,FAC005,AR049,Treadmill #2,Cardio,StairMaster,Treadmill-184,C47CBAB7-FA8,2021-08-03,5265,2023-08-03,Maintenance
+EQ1079,FAC005,AR049,Treadmill #3,Cardio,Life Fitness,Treadmill-313,CAB25846-369,2023-09-10,6254,2026-09-09,Active
+EQ1080,FAC005,AR049,Treadmill #4,Cardio,Precor,Treadmill-717,BC9EAD3D-C7E,2024-05-20,3731,2025-05-20,Active
+EQ1081,FAC005,AR049,Treadmill #5,Cardio,StairMaster,Treadmill-773,67C4CF75-B87,2020-10-21,4930,2022-10-21,Active
+EQ1082,FAC005,AR049,Treadmill #6,Cardio,Schwinn,Treadmill-587,2306C3B8-6E6,2021-09-28,6481,2022-09-28,Active
+EQ1083,FAC005,AR049,Treadmill #7,Cardio,Bowflex,Treadmill-528,91898002-245,2023-06-27,3818,2026-06-26,Active
+EQ1084,FAC005,AR049,Treadmill #8,Cardio,NordicTrack,Treadmill-989,337DFE97-E74,2025-03-29,6342,2028-03-28,Active
+EQ1085,FAC005,AR049,Treadmill #9,Cardio,Schwinn,Treadmill-727,E38988AB-34F,2023-05-26,7207,2024-05-25,Active
+EQ1086,FAC005,AR049,Treadmill #10,Cardio,Life Fitness,Treadmill-346,AC01EAD5-D54,2024-04-18,3540,2027-04-18,Active
+EQ1087,FAC005,AR049,Treadmill #11,Cardio,TRX,Treadmill-460,FD47D7D4-A79,2025-04-19,4162,2026-04-19,Active
+EQ1088,FAC005,AR049,Treadmill #12,Cardio,Schwinn,Treadmill-448,8969A96C-D4B,2020-12-08,4947,2022-12-08,Active
+EQ1089,FAC005,AR049,Treadmill #13,Cardio,Life Fitness,Treadmill-690,A6634AAE-2C3,2021-03-30,4520,2024-03-29,Active
+EQ1090,FAC005,AR049,Treadmill #14,Cardio,Cybex,Treadmill-611,0C9D8BF4-5AD,2021-08-06,6158,2024-08-05,Active
+EQ1091,FAC005,AR049,Elliptical #1,Cardio,Life Fitness,Elliptical-534,584314D7-8CA,2025-04-04,3331,2027-04-04,Active
+EQ1092,FAC005,AR049,Elliptical #2,Cardio,Cybex,Elliptical-553,E8061C9A-47D,2021-10-19,3097,2022-10-19,Active
+EQ1093,FAC005,AR049,Elliptical #3,Cardio,TRX,Elliptical-481,7294EC86-D96,2022-12-24,5508,2023-12-24,Active
+EQ1094,FAC005,AR049,Elliptical #4,Cardio,Matrix,Elliptical-411,F3F9F922-50A,2024-08-11,3556,2025-08-11,Active
+EQ1095,FAC005,AR049,Elliptical #5,Cardio,TRX,Elliptical-501,93048A08-97C,2022-02-01,4387,2025-01-31,Active
+EQ1096,FAC005,AR049,Elliptical #6,Cardio,Cybex,Elliptical-711,0834BB1A-27B,2024-09-15,5103,2027-09-15,Active
+EQ1097,FAC005,AR049,Elliptical #7,Cardio,Bowflex,Elliptical-971,DBD8AB5B-843,2023-05-09,5115,2025-05-08,Active
+EQ1098,FAC005,AR049,Elliptical #8,Cardio,Schwinn,Elliptical-724,9BE294B9-E05,2025-05-21,5687,2028-05-20,Active
+EQ1099,FAC005,AR049,Stationary Bike #1,Cardio,StairMaster,StationaryBike-730,0C5750D3-9D3,2025-09-26,2055,2026-09-26,Active
+EQ1100,FAC005,AR049,Stationary Bike #2,Cardio,NordicTrack,StationaryBike-200,AC773FC9-A5F,2021-03-11,2170,2024-03-10,Active
+EQ1101,FAC005,AR049,Stationary Bike #3,Cardio,Schwinn,StationaryBike-611,59D1F3E2-3AD,2023-11-29,3737,2024-11-28,Active
+EQ1102,FAC005,AR049,Stationary Bike #4,Cardio,Precor,StationaryBike-701,42E319AE-D7F,2024-04-29,3185,2025-04-29,Active
+EQ1103,FAC005,AR049,Stationary Bike #5,Cardio,Technogym,StationaryBike-697,38CDC753-53A,2023-04-25,2684,2026-04-24,Maintenance
+EQ1104,FAC005,AR049,Stationary Bike #6,Cardio,Technogym,StationaryBike-709,4AB88FAF-7BA,2024-11-09,2516,2026-11-09,Active
+EQ1105,FAC005,AR049,Stationary Bike #7,Cardio,StairMaster,StationaryBike-578,9529A48D-F50,2024-01-05,2754,2025-01-04,Active
+EQ1106,FAC005,AR049,Stationary Bike #8,Cardio,Matrix,StationaryBike-651,EC39CF85-939,2022-10-21,1951,2023-10-21,Active
+EQ1107,FAC005,AR049,Stationary Bike #9,Cardio,Life Fitness,StationaryBike-933,FB54D6F4-7F1,2023-01-09,3793,2025-01-08,Active
+EQ1108,FAC005,AR049,Stationary Bike #10,Cardio,TRX,StationaryBike-916,7AE61A71-DCF,2025-09-09,2163,2028-09-08,Active
+EQ1109,FAC005,AR049,Stationary Bike #11,Cardio,StairMaster,StationaryBike-250,F7A15D02-451,2021-07-19,1957,2024-07-18,Active
+EQ1110,FAC005,AR049,Stationary Bike #12,Cardio,Bowflex,StationaryBike-154,28341637-8A0,2024-10-11,2077,2025-10-11,Maintenance
+EQ1111,FAC005,AR049,Stationary Bike #13,Cardio,Precor,StationaryBike-113,3516916D-674,2023-02-03,3814,2026-02-02,Out of Service
+EQ1112,FAC005,AR049,Stationary Bike #14,Cardio,Schwinn,StationaryBike-564,7277A16B-814,2022-11-18,2166,2024-11-17,Active
+EQ1113,FAC005,AR049,Rowing Machine #1,Cardio,NordicTrack,RowingMachine-330,AC3FDF1C-CD3,2022-08-07,1524,2023-08-07,Active
+EQ1114,FAC005,AR049,Rowing Machine #2,Cardio,Matrix,RowingMachine-331,5C8DFB37-F3D,2025-01-12,1369,2027-01-12,Active
+EQ1115,FAC005,AR049,Rowing Machine #3,Cardio,Life Fitness,RowingMachine-251,246D9309-068,2020-09-28,1062,2021-09-28,Active
+EQ1116,FAC005,AR049,Rowing Machine #4,Cardio,NordicTrack,RowingMachine-804,B904A72E-A96,2024-01-12,1978,2026-01-11,Active
+EQ1117,FAC005,AR049,Rowing Machine #5,Cardio,Cybex,RowingMachine-491,281A0E27-081,2022-03-16,1362,2025-03-15,Active
+EQ1118,FAC005,AR049,StairMaster #1,Cardio,StairMaster,StairMaster-987,7929C251-A34,2024-01-25,4666,2027-01-24,Maintenance
+EQ1119,FAC005,AR049,StairMaster #2,Cardio,Schwinn,StairMaster-430,944B1D6F-894,2022-03-04,3567,2023-03-04,Out of Service
+EQ1120,FAC005,AR049,StairMaster #3,Cardio,Life Fitness,StairMaster-729,65BE8C25-387,2025-06-14,4828,2028-06-13,Active
+EQ1121,FAC005,AR050,Bench Press #1,Strength,Technogym,BenchPress-683,6718C640-F58,2021-08-26,2478,2024-08-25,Active
+EQ1122,FAC005,AR050,Bench Press #2,Strength,Bowflex,BenchPress-293,D6F50F4E-4DF,2024-01-08,2145,2026-01-07,Active
+EQ1123,FAC005,AR050,Bench Press #3,Strength,Matrix,BenchPress-780,898C066B-2A6,2021-04-11,2518,2024-04-10,Active
+EQ1124,FAC005,AR050,Bench Press #4,Strength,Life Fitness,BenchPress-699,96FBC833-67B,2023-08-06,2873,2026-08-05,Active
+EQ1125,FAC005,AR050,Bench Press #5,Strength,NordicTrack,BenchPress-906,F4E7CACA-FE4,2022-10-05,2301,2024-10-04,Active
+EQ1126,FAC005,AR050,Bench Press #6,Strength,Precor,BenchPress-124,2F520329-351,2023-01-08,1566,2024-01-08,Active
+EQ1127,FAC005,AR050,Squat Rack #1,Strength,NordicTrack,SquatRack-552,8317934D-91C,2021-01-18,3148,2022-01-18,Active
+EQ1128,FAC005,AR050,Squat Rack #2,Strength,StairMaster,SquatRack-906,147AE4DC-FF5,2025-04-23,4003,2026-04-23,Active
+EQ1129,FAC005,AR050,Cable Machine #1,Strength,Matrix,CableMachine-699,32F98A89-E36,2022-02-05,3927,2023-02-05,Active
+EQ1130,FAC005,AR050,Cable Machine #2,Strength,Life Fitness,CableMachine-744,F9B3EBC0-E2B,2025-07-12,3037,2026-07-12,Active
+EQ1131,FAC005,AR050,Cable Machine #3,Strength,Technogym,CableMachine-813,EA63FE8C-AF6,2025-03-30,6142,2028-03-29,Active
+EQ1132,FAC005,AR050,Cable Machine #4,Strength,Life Fitness,CableMachine-825,0C03008A-724,2023-01-02,6888,2025-01-01,Active
+EQ1133,FAC005,AR050,Cable Machine #5,Strength,TRX,CableMachine-417,CA90239C-D45,2023-04-03,4050,2026-04-02,Out of Service
+EQ1134,FAC005,AR050,Cable Machine #6,Strength,TRX,CableMachine-593,E96AF0EA-38E,2021-12-25,3622,2024-12-24,Active
+EQ1135,FAC005,AR050,Cable Machine #7,Strength,Schwinn,CableMachine-157,5C167BB7-942,2022-04-22,5867,2025-04-21,Out of Service
+EQ1136,FAC005,AR050,Leg Press #1,Strength,Matrix,LegPress-253,49895C23-69B,2023-03-06,7936,2026-03-05,Out of Service
+EQ1137,FAC005,AR050,Leg Press #2,Strength,NordicTrack,LegPress-976,4D4F0096-F79,2021-06-02,7471,2024-06-01,Active
+EQ1138,FAC005,AR050,Smith Machine #1,Strength,StairMaster,SmithMachine-486,9A6F9D11-362,2022-05-09,5279,2024-05-08,Active
+EQ1139,FAC005,AR050,Smith Machine #2,Strength,Bowflex,SmithMachine-959,EE067AA3-AF9,2022-05-10,5588,2023-05-10,Active
+EQ1140,FAC005,AR056,Sound System #1,Studio Equipment,Life Fitness,SoundSystem-289,096C9600-03B,2021-09-26,2547,2022-09-26,Active
+EQ1141,FAC005,AR056,Mirrors #1,Studio Equipment,Schwinn,Mirrors-679,50D7E0BD-ABC,2025-03-28,358,2028-03-27,Active
+EQ1142,FAC005,AR056,Mirrors #2,Studio Equipment,Precor,Mirrors-622,AEAF0F84-B7E,2023-03-20,469,2024-03-19,Active
+EQ1143,FAC005,AR056,Mirrors #3,Studio Equipment,StairMaster,Mirrors-304,53F16081-5E8,2023-01-29,412,2025-01-28,Maintenance
+EQ1144,FAC005,AR056,Mirrors #4,Studio Equipment,TRX,Mirrors-176,D4DCE933-250,2025-08-12,574,2027-08-12,Active
+EQ1145,FAC005,AR056,Yoga Mats #1,Studio Equipment,Schwinn,YogaMats-816,9D2227D2-F03,2022-08-20,21,2024-08-19,Active
+EQ1146,FAC005,AR056,Yoga Mats #2,Studio Equipment,Precor,YogaMats-718,E99A3639-DE9,2023-09-24,15,2025-09-23,Active
+EQ1147,FAC005,AR056,Yoga Mats #3,Studio Equipment,TRX,YogaMats-191,C93F9233-791,2024-06-26,45,2026-06-26,Active
+EQ1148,FAC005,AR056,Yoga Mats #4,Studio Equipment,NordicTrack,YogaMats-825,65D460E8-071,2025-01-07,41,2026-01-07,Maintenance
+EQ1149,FAC005,AR056,Yoga Mats #5,Studio Equipment,NordicTrack,YogaMats-622,FB109C47-1BB,2022-03-02,44,2023-03-02,Active
+EQ1150,FAC005,AR056,Yoga Mats #6,Studio Equipment,TRX,YogaMats-376,AA60E7AD-0D3,2024-12-20,32,2025-12-20,Active
+EQ1151,FAC005,AR056,Yoga Mats #7,Studio Equipment,Life Fitness,YogaMats-916,8C85AA56-E2F,2023-07-04,22,2026-07-03,Active
+EQ1152,FAC005,AR056,Yoga Mats #8,Studio Equipment,StairMaster,YogaMats-946,FE459B9B-AC6,2025-02-08,41,2028-02-08,Active
+EQ1153,FAC005,AR056,Yoga Mats #9,Studio Equipment,TRX,YogaMats-309,7040C315-98B,2024-01-08,46,2025-01-07,Active
+EQ1154,FAC005,AR056,Yoga Mats #10,Studio Equipment,Schwinn,YogaMats-991,1C594C05-D66,2023-09-05,45,2024-09-04,Maintenance
+EQ1155,FAC005,AR056,Yoga Mats #11,Studio Equipment,Life Fitness,YogaMats-113,2EB6D11C-878,2022-12-24,31,2025-12-23,Active
+EQ1156,FAC005,AR056,Yoga Mats #12,Studio Equipment,Technogym,YogaMats-925,B92F72A5-F7E,2022-08-17,44,2024-08-16,Active
+EQ1157,FAC005,AR056,Yoga Mats #13,Studio Equipment,NordicTrack,YogaMats-313,59985DEF-E49,2023-07-14,22,2024-07-13,Active
+EQ1158,FAC005,AR056,Yoga Mats #14,Studio Equipment,Schwinn,YogaMats-517,6642247E-45A,2022-10-16,26,2023-10-16,Active
+EQ1159,FAC005,AR056,Yoga Mats #15,Studio Equipment,StairMaster,YogaMats-385,8C47C87A-3EE,2020-11-01,23,2021-11-01,Active
+EQ1160,FAC005,AR056,Yoga Mats #16,Studio Equipment,NordicTrack,YogaMats-495,3CAE6D70-4C4,2023-03-15,19,2026-03-14,Maintenance
+EQ1161,FAC005,AR056,Yoga Mats #17,Studio Equipment,TRX,YogaMats-629,7B0DF804-B3B,2021-04-06,33,2022-04-06,Active
+EQ1162,FAC005,AR056,Yoga Mats #18,Studio Equipment,Schwinn,YogaMats-338,B618CE2C-D57,2023-05-30,34,2024-05-29,Active
+EQ1163,FAC005,AR056,Yoga Mats #19,Studio Equipment,Technogym,YogaMats-214,DD8398CB-B44,2024-02-14,35,2026-02-13,Active
+EQ1164,FAC005,AR056,Yoga Mats #20,Studio Equipment,Bowflex,YogaMats-522,C661207E-2CC,2025-08-22,36,2028-08-21,Maintenance
+EQ1165,FAC005,AR056,Yoga Mats #21,Studio Equipment,Life Fitness,YogaMats-790,4B84A371-F69,2021-09-24,30,2022-09-24,Active
+EQ1166,FAC005,AR056,Yoga Mats #22,Studio Equipment,Schwinn,YogaMats-600,0BAD06AC-3FE,2023-10-04,24,2025-10-03,Maintenance
+EQ1167,FAC005,AR056,Yoga Mats #23,Studio Equipment,Matrix,YogaMats-473,472C3F23-785,2021-01-20,39,2023-01-20,Maintenance
+EQ1168,FAC005,AR056,Yoga Mats #24,Studio Equipment,Schwinn,YogaMats-887,8A3D74E8-055,2021-03-27,27,2022-03-27,Active
+EQ1169,FAC005,AR056,Yoga Mats #25,Studio Equipment,Schwinn,YogaMats-775,ABC4149B-916,2023-11-19,20,2024-11-18,Active
+EQ1170,FAC005,AR056,Yoga Mats #26,Studio Equipment,Life Fitness,YogaMats-144,FEB723ED-8A9,2024-08-25,32,2027-08-25,Maintenance
+EQ1171,FAC005,AR056,Yoga Mats #27,Studio Equipment,StairMaster,YogaMats-259,865B9853-55A,2021-07-27,29,2022-07-27,Maintenance
+EQ1172,FAC005,AR056,Yoga Mats #28,Studio Equipment,Precor,YogaMats-775,EB406E48-4E3,2025-06-05,48,2028-06-04,Active
+EQ1173,FAC005,AR056,Yoga Mats #29,Studio Equipment,NordicTrack,YogaMats-865,930E7A49-E26,2022-11-11,26,2024-11-10,Maintenance
+EQ1174,FAC005,AR056,Yoga Mats #30,Studio Equipment,Precor,YogaMats-543,69C8A89C-221,2025-03-26,35,2028-03-25,Active
+EQ1175,FAC005,AR056,Yoga Mats #31,Studio Equipment,StairMaster,YogaMats-888,296391E9-F9C,2023-01-04,30,2026-01-03,Active
+EQ1176,FAC005,AR056,Yoga Mats #32,Studio Equipment,Precor,YogaMats-489,6F2029D9-C45,2022-01-15,20,2025-01-14,Out of Service
+EQ1177,FAC005,AR056,Yoga Mats #33,Studio Equipment,StairMaster,YogaMats-848,36162F5F-739,2023-04-06,43,2024-04-05,Active
+EQ1178,FAC005,AR056,Yoga Mats #34,Studio Equipment,TRX,YogaMats-736,78A35F4A-55E,2024-10-03,28,2025-10-03,Maintenance
+EQ1179,FAC005,AR056,Yoga Mats #35,Studio Equipment,Bowflex,YogaMats-892,ED2D24D7-9CD,2021-09-10,29,2023-09-10,Active
+EQ1180,FAC005,AR056,Yoga Mats #36,Studio Equipment,Bowflex,YogaMats-774,4359785B-31A,2024-04-10,31,2026-04-10,Active
+EQ1181,FAC005,AR056,Yoga Mats #37,Studio Equipment,Precor,YogaMats-451,49F8DB98-FBC,2024-04-11,18,2025-04-11,Active
+EQ1182,FAC005,AR056,Yoga Mats #38,Studio Equipment,Matrix,YogaMats-216,34BC8B3A-D96,2025-08-05,48,2028-08-04,Active
+EQ1183,FAC005,AR056,Yoga Mats #39,Studio Equipment,Schwinn,YogaMats-933,64EED9B6-9FF,2025-05-29,39,2026-05-29,Active
+EQ1184,FAC005,AR056,Stability Balls #1,Studio Equipment,Technogym,StabilityBalls-954,33BC070B-02E,2023-02-14,32,2024-02-14,Out of Service
+EQ1185,FAC005,AR056,Stability Balls #2,Studio Equipment,Precor,StabilityBalls-417,899B4A3A-4E7,2022-03-23,47,2025-03-22,Active
+EQ1186,FAC005,AR056,Stability Balls #3,Studio Equipment,Technogym,StabilityBalls-349,8EE4A7B5-105,2020-11-14,31,2023-11-14,Active
+EQ1187,FAC005,AR056,Stability Balls #4,Studio Equipment,Matrix,StabilityBalls-520,F980A240-B55,2025-05-13,38,2028-05-12,Active
+EQ1188,FAC005,AR056,Stability Balls #5,Studio Equipment,Bowflex,StabilityBalls-734,1D9E2F90-959,2021-08-04,34,2022-08-04,Active
+EQ1189,FAC005,AR056,Stability Balls #6,Studio Equipment,Schwinn,StabilityBalls-928,4D5ABC56-940,2024-10-17,31,2025-10-17,Active
+EQ1190,FAC005,AR056,Stability Balls #7,Studio Equipment,Bowflex,StabilityBalls-624,66C1DE8E-217,2023-07-16,29,2026-07-15,Active
+EQ1191,FAC005,AR056,Stability Balls #8,Studio Equipment,Technogym,StabilityBalls-343,1546AA9C-BA6,2023-03-17,23,2026-03-16,Maintenance
+EQ1192,FAC005,AR056,Stability Balls #9,Studio Equipment,Cybex,StabilityBalls-495,B6FB8086-3D1,2023-01-26,31,2026-01-25,Active
+EQ1193,FAC005,AR056,Stability Balls #10,Studio Equipment,Schwinn,StabilityBalls-895,44DF2334-977,2024-12-28,40,2025-12-28,Active
+EQ1194,FAC005,AR056,Stability Balls #11,Studio Equipment,Schwinn,StabilityBalls-252,C4DA3BFA-390,2023-02-27,40,2024-02-27,Active
+EQ1195,FAC005,AR056,Stability Balls #12,Studio Equipment,Cybex,StabilityBalls-782,CB0546CC-820,2025-03-22,27,2028-03-21,Active
+EQ1196,FAC005,AR056,Stability Balls #13,Studio Equipment,Matrix,StabilityBalls-507,CF8AD6AC-B4E,2022-05-15,43,2023-05-15,Active
+EQ1197,FAC005,AR056,Stability Balls #14,Studio Equipment,Bowflex,StabilityBalls-654,60712C35-15B,2025-05-19,36,2027-05-19,Active
+EQ1198,FAC005,AR056,Stability Balls #15,Studio Equipment,TRX,StabilityBalls-846,059DB8CC-F82,2022-10-08,32,2025-10-07,Maintenance
+EQ1199,FAC005,AR056,Stability Balls #16,Studio Equipment,Schwinn,StabilityBalls-528,1662576E-12E,2021-04-18,42,2023-04-18,Active
+EQ1200,FAC005,AR056,Stability Balls #17,Studio Equipment,Cybex,StabilityBalls-227,6A572835-A87,2020-11-25,20,2021-11-25,Out of Service
+EQ1201,FAC005,AR056,Stability Balls #18,Studio Equipment,Technogym,StabilityBalls-638,5AE5BBEE-318,2025-09-21,37,2028-09-20,Out of Service
+EQ1202,FAC005,AR056,Stability Balls #19,Studio Equipment,Technogym,StabilityBalls-635,51608637-AD8,2025-08-27,32,2027-08-27,Active
+EQ1203,FAC005,AR056,Stability Balls #20,Studio Equipment,Life Fitness,StabilityBalls-359,199863A1-354,2021-09-01,20,2024-08-31,Active
+EQ1204,FAC005,AR056,Stability Balls #21,Studio Equipment,TRX,StabilityBalls-226,4B80D95D-70E,2024-06-10,47,2025-06-10,Maintenance
+EQ1205,FAC005,AR056,Stability Balls #22,Studio Equipment,Matrix,StabilityBalls-378,B9A0B169-A7B,2024-04-29,56,2025-04-29,Maintenance

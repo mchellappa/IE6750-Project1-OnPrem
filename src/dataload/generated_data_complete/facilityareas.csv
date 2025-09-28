@@ -1,0 +1,58 @@
+facilityid,areaid,areaname,areatype,maxcapacity,squarefootage,isactive
+FAC001,AR001,Main Gym Floor,Gym Floor,96,3650,True
+FAC001,AR002,Cardio Zone,Cardio,43,1508,True
+FAC001,AR003,Weight Training Area,Strength,36,1209,True
+FAC001,AR004,Men's Locker Room,Locker Room,40,1085,True
+FAC001,AR005,Women's Locker Room,Locker Room,71,965,True
+FAC001,AR006,Reception Area,Reception,15,361,True
+FAC001,AR007,Group Fitness Studio B,Studio,19,645,True
+FAC001,AR008,Personal Training Room 1,Private Training,4,293,True
+FAC001,AR009,Racquetball Court 2,Court,4,458,True
+FAC001,AR010,Racquetball Court 1,Court,6,593,True
+FAC001,AR011,Group Fitness Studio A,Studio,28,664,True
+FAC001,AR012,Personal Training Room 2,Private Training,4,150,True
+FAC002,AR013,Main Gym Floor,Gym Floor,56,3766,True
+FAC002,AR014,Cardio Zone,Cardio,46,1594,True
+FAC002,AR015,Weight Training Area,Strength,39,1641,True
+FAC002,AR016,Men's Locker Room,Locker Room,50,906,True
+FAC002,AR017,Women's Locker Room,Locker Room,44,1157,True
+FAC002,AR018,Reception Area,Reception,10,503,True
+FAC002,AR019,Personal Training Room 2,Private Training,3,290,True
+FAC002,AR020,Spin Studio,Spin Studio,15,616,True
+FAC002,AR021,Group Fitness Studio B,Studio,27,719,True
+FAC002,AR022,Yoga Studio,Yoga Studio,19,589,True
+FAC003,AR023,Main Gym Floor,Gym Floor,62,4084,True
+FAC003,AR024,Cardio Zone,Cardio,59,2073,True
+FAC003,AR025,Weight Training Area,Strength,44,1624,True
+FAC003,AR026,Men's Locker Room,Locker Room,68,804,True
+FAC003,AR027,Women's Locker Room,Locker Room,63,1017,True
+FAC003,AR028,Reception Area,Reception,19,360,True
+FAC003,AR029,Swimming Pool,Pool,21,1205,True
+FAC003,AR030,Spin Studio,Spin Studio,24,529,True
+FAC003,AR031,Racquetball Court 1,Court,4,479,True
+FAC003,AR032,Child Care Center,Childcare,21,589,True
+FAC003,AR033,Group Fitness Studio A,Studio,25,906,True
+FAC003,AR034,Juice Bar,Refreshment,15,231,True
+FAC003,AR035,Personal Training Room 1,Private Training,4,199,True
+FAC004,AR036,Main Gym Floor,Gym Floor,86,4720,True
+FAC004,AR037,Cardio Zone,Cardio,55,2462,True
+FAC004,AR038,Weight Training Area,Strength,26,1303,True
+FAC004,AR039,Men's Locker Room,Locker Room,56,906,True
+FAC004,AR040,Women's Locker Room,Locker Room,70,870,True
+FAC004,AR041,Reception Area,Reception,14,486,True
+FAC004,AR042,Racquetball Court 2,Court,6,476,True
+FAC004,AR043,Racquetball Court 1,Court,4,588,True
+FAC004,AR044,Yoga Studio,Yoga Studio,19,752,True
+FAC004,AR045,Group Fitness Studio B,Studio,22,726,True
+FAC004,AR046,Swimming Pool,Pool,32,1057,True
+FAC004,AR047,Juice Bar,Refreshment,15,203,True
+FAC005,AR048,Main Gym Floor,Gym Floor,60,3128,True
+FAC005,AR049,Cardio Zone,Cardio,36,2107,True
+FAC005,AR050,Weight Training Area,Strength,39,1368,True
+FAC005,AR051,Men's Locker Room,Locker Room,42,1108,True
+FAC005,AR052,Women's Locker Room,Locker Room,42,1121,True
+FAC005,AR053,Reception Area,Reception,20,416,True
+FAC005,AR054,Personal Training Room 2,Private Training,5,287,True
+FAC005,AR055,Basketball Court,Court,20,2988,True
+FAC005,AR056,Group Fitness Studio A,Studio,31,716,True
+FAC005,AR057,Personal Training Room 1,Private Training,4,182,True

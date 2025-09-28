@@ -1,0 +1,56 @@
+classtypeid,classname,category,description,durationminutes,maxparticipants,requiredcertifications,isactive
+CT001,Power Yoga,Yoga,"Power level yoga class focusing on flexibility, mindfulness, and strength through poses and breathing",75,17,Yoga Alliance RYT-200,True
+CT002,Beginner Yoga,Yoga,"Beginner level yoga class focusing on flexibility, mindfulness, and strength through poses and breathing",75,19,Yoga Alliance RYT-200,True
+CT003,Gentle Pilates,Pilates,"Gentle level pilates class focusing on core strength, posture, and controlled movements",60,12,Pilates Certified,True
+CT004,Beginner Pilates,Pilates,"Beginner level pilates class focusing on core strength, posture, and controlled movements",60,18,Pilates Certified,True
+CT005,Intermediate Pilates,Pilates,"Intermediate level pilates class focusing on core strength, posture, and controlled movements",60,17,Pilates Certified,True
+CT006,Beginner Zumba,Zumba,Beginner level zumba class focusing on fun dance moves and cardio fitness,45,21,Zumba Instructor,True
+CT007,Power Zumba,Zumba,Power level zumba class focusing on fun dance moves and cardio fitness,60,22,Zumba Instructor,True
+CT008,Advanced Zumba,Zumba,Advanced level zumba class focusing on fun dance moves and cardio fitness,45,29,Zumba Instructor,True
+CT009,Gentle Zumba,Zumba,Gentle level zumba class focusing on fun dance moves and cardio fitness,60,25,Zumba Instructor,False
+CT010,Advanced Spin,Spin,Advanced level spin class focusing on indoor cycling with music and intensity intervals,60,18,Spin Instructor,False
+CT011,Power Spin,Spin,Power level spin class focusing on indoor cycling with music and intensity intervals,60,19,Spin Instructor,True
+CT012,Power CrossFit,CrossFit,Power level crossfit class focusing on functional movements and high-intensity workouts,60,10,CrossFit Level 1,True
+CT013,Advanced CrossFit,CrossFit,Advanced level crossfit class focusing on functional movements and high-intensity workouts,60,14,CrossFit Level 1,True
+CT014,Gentle CrossFit,CrossFit,Gentle level crossfit class focusing on functional movements and high-intensity workouts,75,13,CrossFit Level 1,True
+CT015,Beginner CrossFit,CrossFit,Beginner level crossfit class focusing on functional movements and high-intensity workouts,75,8,CrossFit Level 1,False
+CT016,Express HIIT,HIIT,Express level hiit class focusing on high-intensity intervals and maximum calorie burn,45,14,Group Fitness Instructor,True
+CT017,Beginner HIIT,HIIT,Beginner level hiit class focusing on high-intensity intervals and maximum calorie burn,45,19,Group Fitness Instructor,True
+CT018,Power Aqua Fitness,Aqua Fitness,Power level aqua fitness class focusing on water-based exercises for low-impact fitness,45,24,Aqua Fitness Certified,True
+CT019,Gentle Aqua Fitness,Aqua Fitness,Gentle level aqua fitness class focusing on water-based exercises for low-impact fitness,45,24,Aqua Fitness Certified,True
+CT020,Intermediate Aqua Fitness,Aqua Fitness,Intermediate level aqua fitness class focusing on water-based exercises for low-impact fitness,45,18,Aqua Fitness Certified,True
+CT021,Beginner Aqua Fitness,Aqua Fitness,Beginner level aqua fitness class focusing on water-based exercises for low-impact fitness,45,20,Aqua Fitness Certified,False
+CT022,Express Kickboxing,Kickboxing,Express level kickboxing class focusing on martial arts techniques and cardiovascular fitness,60,20,Group Fitness Instructor,True
+CT023,Gentle Kickboxing,Kickboxing,Gentle level kickboxing class focusing on martial arts techniques and cardiovascular fitness,45,19,Group Fitness Instructor,False
+CT024,Gentle Boot Camp,Boot Camp,Gentle level boot camp class focusing on military-style training and total body conditioning,45,10,Group Fitness Instructor,True
+CT025,Express Boot Camp,Boot Camp,Express level boot camp class focusing on military-style training and total body conditioning,45,16,Group Fitness Instructor,True
+CT026,Power Boot Camp,Boot Camp,Power level boot camp class focusing on military-style training and total body conditioning,45,18,Group Fitness Instructor,True
+CT027,Gentle Strength Training,Strength Training,Gentle level strength training class focusing on muscle building and resistance exercises,60,9,NASM-CPT,True
+CT028,Express Strength Training,Strength Training,Express level strength training class focusing on muscle building and resistance exercises,60,11,NASM-CPT,True
+CT029,Intermediate Strength Training,Strength Training,Intermediate level strength training class focusing on muscle building and resistance exercises,45,11,NASM-CPT,True
+CT030,Power Strength Training,Strength Training,Power level strength training class focusing on muscle building and resistance exercises,45,9,NASM-CPT,False
+CT031,Intermediate Barre,Barre,Intermediate level barre class focusing on ballet-inspired movements and isometric holds,45,19,Group Fitness Instructor,True
+CT032,Power Barre,Barre,Power level barre class focusing on ballet-inspired movements and isometric holds,60,18,Group Fitness Instructor,True
+CT033,Express TRX,TRX,Express level trx class focusing on suspension training and bodyweight exercises,45,12,TRX Certified,True
+CT034,Power TRX,TRX,Power level trx class focusing on suspension training and bodyweight exercises,30,10,TRX Certified,True
+CT035,Beginner Boxing,Boxing,Beginner level boxing class focusing on boxing techniques and cardio conditioning,45,14,Group Fitness Instructor,False
+CT036,Intermediate Boxing,Boxing,Intermediate level boxing class focusing on boxing techniques and cardio conditioning,60,11,Group Fitness Instructor,True
+CT037,Express Dance,Dance,Express level dance class focusing on choreographed dance routines and cardio fitness,60,22,Group Fitness Instructor,True
+CT038,Intermediate Dance,Dance,Intermediate level dance class focusing on choreographed dance routines and cardio fitness,60,25,Group Fitness Instructor,True
+CT039,Power Tai Chi,Tai Chi,"Power level tai chi class focusing on slow, flowing movements and meditation",60,19,Tai Chi Certified,True
+CT040,Express Tai Chi,Tai Chi,"Express level tai chi class focusing on slow, flowing movements and meditation",60,19,Tai Chi Certified,True
+CT041,Gentle Tai Chi,Tai Chi,"Gentle level tai chi class focusing on slow, flowing movements and meditation",60,19,Tai Chi Certified,True
+CT042,Power Meditation,Meditation,"Power level meditation class focusing on mindfulness, relaxation, and stress reduction",30,15,Meditation Teacher,False
+CT043,Advanced Meditation,Meditation,"Advanced level meditation class focusing on mindfulness, relaxation, and stress reduction",45,19,Meditation Teacher,False
+CT044,Intermediate Cardio,Cardio,Intermediate level cardio class focusing on cardiovascular endurance and heart health,30,25,Group Fitness Instructor,True
+CT045,Beginner Cardio,Cardio,Beginner level cardio class focusing on cardiovascular endurance and heart health,30,21,Group Fitness Instructor,False
+CT046,Express Cardio,Cardio,Express level cardio class focusing on cardiovascular endurance and heart health,45,23,Group Fitness Instructor,True
+CT047,Advanced Martial Arts,Martial Arts,Advanced level martial arts class focusing on self-defense techniques and discipline,60,19,Group Fitness Instructor,False
+CT048,Intermediate Martial Arts,Martial Arts,Intermediate level martial arts class focusing on self-defense techniques and discipline,60,11,Group Fitness Instructor,True
+CT049,Power Youth,Youth,Power level youth class focusing on age-appropriate fitness and movement skills,30,13,Youth Exercise Specialist,False
+CT050,Express Youth,Youth,Express level youth class focusing on age-appropriate fitness and movement skills,45,13,Youth Exercise Specialist,True
+CT051,Intermediate Youth,Youth,Intermediate level youth class focusing on age-appropriate fitness and movement skills,45,12,Youth Exercise Specialist,True
+CT052,Beginner Youth,Youth,Beginner level youth class focusing on age-appropriate fitness and movement skills,45,13,Youth Exercise Specialist,True
+CT053,Advanced Senior,Senior,Advanced level senior class focusing on gentle exercise designed for older adults,60,18,Senior Fitness Specialist,True
+CT054,Intermediate Senior,Senior,Intermediate level senior class focusing on gentle exercise designed for older adults,45,16,Senior Fitness Specialist,True
+CT055,Beginner Senior,Senior,Beginner level senior class focusing on gentle exercise designed for older adults,60,15,Senior Fitness Specialist,True

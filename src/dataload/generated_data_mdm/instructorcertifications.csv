@@ -1,0 +1,16 @@
+certificationid,certificationname,issuingorganization,description,validitymonths,isrequired
+IC001,ACE Personal Trainer,American Council on Exercise,Nationally accredited personal training certification,24,True
+IC002,NASM-CPT,National Academy of Sports Medicine,Certified Personal Trainer with corrective exercise specialization,24,True
+IC003,ACSM-CPT,American College of Sports Medicine,Clinical exercise physiology and personal training,36,False
+IC004,CPR/AED Certified,American Red Cross,Cardiopulmonary resuscitation and automated external defibrillator,24,True
+IC005,Group Fitness Instructor,ACSM,Leading safe and effective group exercise classes,24,True
+IC006,Yoga Alliance RYT-200,Yoga Alliance,Registered Yoga Teacher 200-hour certification,12,False
+IC007,Pilates Certified,Pilates Method Alliance,Comprehensive Pilates instructor certification,24,False
+IC008,Zumba Instructor,Zumba Fitness,Official Zumba dance fitness instructor,12,False
+IC009,Spin Instructor,Mad Dogg Athletics,Indoor cycling instructor certification,24,False
+IC010,Aqua Fitness Certified,Aquatic Exercise Association,Water-based exercise instruction certification,24,False
+IC011,CrossFit Level 1,CrossFit Inc.,Foundation course for CrossFit training methodology,60,False
+IC012,Nutrition Coach,Precision Nutrition,Evidence-based nutrition coaching and counseling,24,False
+IC013,Youth Exercise Specialist,NASM,Training and exercise programming for youth populations,24,False
+IC014,Senior Fitness Specialist,ACSM,Exercise programming for older adult populations,24,False
+IC015,Corrective Exercise Specialist,NASM,Movement assessment and corrective exercise programming,24,False

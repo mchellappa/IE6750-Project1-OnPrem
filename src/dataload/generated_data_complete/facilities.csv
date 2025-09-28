@@ -1,0 +1,6 @@
+facilityid,facilityname,address,city,state,zipcode,phonenumber,opentime,closetime,isactive
+FAC001,Downtown Atlanta Fitness Center,23282 Lori Overpass Suite 897,Downtown,GA,30384,(404) 273-2874,05:00:00,23:00:00,True
+FAC002,Buckhead Atlanta Fitness Center,178 John Harbor Suite 498,Buckhead,GA,30367,404-863-5257,05:00:00,22:00:00,True
+FAC003,Gainesville Fitness Center,3927 Susan Locks,Gainesville,GA,30586,678-892-1545,05:00:00,23:00:00,True
+FAC004,Athens Fitness Center,82407 Cooper Landing Suite 442,Athens,GA,30665,(770) 690-7426,05:00:00,23:00:00,True
+FAC005,Augusta Fitness Center,58819 Jasmine Inlet,Augusta,GA,30957,770-989-6874,05:00:00,23:00:00,True
