@@ -263,7 +263,7 @@ ORDER BY payment_month;
 pip install -r requirements-dataload.txt
 
 # Check Python path
-export PYTHONPATH="${PYTHONPATH}:/path/to/src/dataload"
+export PYTHONPATH="${PYTHONPATH}:$(pwd)/src/dataload"
 ```
 
 #### Database Connection Issues
