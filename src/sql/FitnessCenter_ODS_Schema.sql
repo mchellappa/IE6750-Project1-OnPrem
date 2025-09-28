@@ -218,11 +218,79 @@ CREATE TABLE ClassEnrollments (
 -- Equipment inventory
 CREATE TABLE Equipment (
     EquipmentID VARCHAR(20) PRIMARY KEY,
-    EquipmentCategory VARCHAR(100) NOT NULL,
+    EquipmentCategory VARCHAR(100) NOT NULL CHECK (EquipmentCategory IN (
+        -- Cardio Equipment Categories
+        'Treadmills', 'Elliptical Machines', 'Stationary Bikes', 'Rowing Machines', 'Stair Climbers',
+        'Arc Trainers', 'Recumbent Bikes', 'Spin Bikes', 'Air Bikes', 'Climbing Machines',
+        -- Strength Equipment Categories  
+        'Weight Machines', 'Cable Systems', 'Functional Trainers', 'Power Racks', 'Smith Machines',
+        'Benches', 'Multi-Stations', 'Plate Loaded Equipment', 'Pneumatic Machines',
+        -- Free Weight Categories
+        'Dumbbells', 'Barbells', 'Weight Plates', 'Kettlebells', 'Medicine Balls',
+        'Olympic Bars', 'Specialty Bars', 'Weight Storage', 'Bumper Plates',
+        -- Flexibility Equipment Categories
+        'Yoga Equipment', 'Stretching Equipment', 'Foam Rollers', 'Balance Equipment', 
+        'Pilates Equipment', 'Mobility Tools', 'Recovery Equipment', 'Suspension Trainers',
+        -- Sports Equipment Categories
+        'Basketball Equipment', 'Volleyball Equipment', 'Racquetball Equipment', 'Tennis Equipment',
+        'Badminton Equipment', 'Pickleball Equipment', 'Soccer Equipment', 'Pool Equipment',
+        -- Studio Equipment Categories
+        'Sound Systems', 'Mirrors', 'Flooring', 'Storage Solutions', 'Lighting Equipment',
+        'Air Quality Equipment', 'Dance Equipment', 'Group Fitness Tools'
+    )),
     FacilityID VARCHAR(20) NOT NULL,
     AreaID VARCHAR(20) NOT NULL,
     EquipmentName VARCHAR(100) NOT NULL,
-    EquipmentType VARCHAR(50) CHECK (EquipmentType IN ('Cardio', 'Strength', 'Free Weights', 'Pool Equipment', 'Court Equipment', 'Studio Equipment')),
+    EquipmentType VARCHAR(50) CHECK (EquipmentType IN (
+        -- Cardio Types
+        'Manual Treadmill', 'Motorized Treadmill', 'Incline Treadmill', 'Curved Treadmill',
+        'Cross Trainer', 'Elliptical', 'Rear Drive Elliptical', 'Front Drive Elliptical',
+        'Upright Bike', 'Recumbent Bike', 'Spin Bike', 'Air Bike', 'Dual Action Bike',
+        'Water Rower', 'Air Rower', 'Magnetic Rower', 'Cable Rower',
+        'Step Mill', 'Stair Stepper', 'Stair Climber', 'Jacob\'s Ladder',
+        'Arc Trainer', 'Adaptive Motion Trainer', 'Climbing Machine', 'Ski Machine',
+        -- Strength Types
+        'Chest Press', 'Shoulder Press', 'Lat Pulldown', 'Seated Row', 'Leg Press',
+        'Leg Curl', 'Leg Extension', 'Calf Raise', 'Abdominal Crunch', 'Back Extension',
+        'Cable Crossover', 'Functional Trainer', 'Cable Column', 'Multi-Station',
+        'Power Rack', 'Half Rack', 'Squat Stand', 'Smith Machine', 'Hack Squat',
+        'Flat Bench', 'Incline Bench', 'Decline Bench', 'Adjustable Bench', 'Olympic Bench',
+        'Pneumatic Machine', 'Hydraulic Machine', 'Plate Loaded Machine',
+        -- Free Weight Types
+        'Fixed Weight Dumbbells', 'Adjustable Dumbbells', 'Rubber Dumbbells', 'Hex Dumbbells',
+        'Olympic Barbell', 'Standard Barbell', 'EZ Curl Bar', 'Trap Bar', 'Safety Squat Bar',
+        'Iron Plates', 'Rubber Plates', 'Bumper Plates', 'Competition Plates',
+        'Cast Iron Kettlebells', 'Rubber Kettlebells', 'Competition Kettlebells',
+        'Leather Medicine Ball', 'Rubber Medicine Ball', 'Slam Ball', 'Wall Ball',
+        'Dumbbell Rack', 'Barbell Rack', 'Plate Tree', 'Weight Horns',
+        -- Flexibility Types
+        'Yoga Mats', 'Yoga Blocks', 'Yoga Straps', 'Yoga Bolsters', 'Yoga Wheels',
+        'Stretching Mats', 'Stretching Straps', 'Flexibility Trainer', 'Stretch Cage',
+        'Foam Rollers', 'Massage Balls', 'Massage Sticks', 'Vibrating Foam Rollers',
+        'Balance Balls', 'BOSU Balls', 'Balance Pads', 'Wobble Cushions', 'Balance Boards',
+        'Pilates Reformer', 'Pilates Chair', 'Pilates Cadillac', 'Pilates Barrels',
+        'Resistance Bands', 'Resistance Tubes', 'Loop Bands', 'Stretch Bands',
+        'Compression Boots', 'Percussion Massagers', 'TENS Units', 'Cryotherapy Equipment',
+        'TRX Suspension', 'Battle Ropes', 'Gymnastic Rings', 'Suspension Anchors',
+        -- Sports Types
+        'Basketball Hoops', 'Basketballs', 'Basketball Backboards', 'Basketball Goals',
+        'Volleyball Nets', 'Volleyballs', 'Volleyball Posts', 'Volleyball Antennas',
+        'Racquetball Rackets', 'Racquetballs', 'Racquetball Gloves', 'Eye Protection',
+        'Tennis Rackets', 'Tennis Balls', 'Tennis Nets', 'Ball Machines',
+        'Badminton Rackets', 'Shuttlecocks', 'Badminton Nets', 'Badminton Posts',
+        'Pickleball Paddles', 'Pickleballs', 'Pickleball Nets', 'Court Lines',
+        'Soccer Balls', 'Soccer Goals', 'Cones', 'Training Equipment',
+        'Lane Dividers', 'Pool Noodles', 'Kickboards', 'Pull Buoys', 'Swim Fins',
+        -- Studio Types
+        'PA Systems', 'Wireless Microphones', 'Speakers', 'Audio Mixers',
+        'Wall Mirrors', 'Portable Mirrors', 'Mirror Installation', 'Safety Mirrors',
+        'Rubber Flooring', 'Wood Flooring', 'Carpet Tiles', 'Interlocking Mats',
+        'Equipment Carts', 'Storage Racks', 'Cubbies', 'Lockers',
+        'LED Lighting', 'Track Lighting', 'Ambient Lighting', 'Emergency Lighting',
+        'Air Purifiers', 'Fans', 'HVAC Components', 'Humidity Controls',
+        'Ballet Barres', 'Dance Floors', 'Choreography Mirrors', 'Dance Props',
+        'Step Platforms', 'Aerobic Steps', 'Resistance Equipment', 'Group Fitness Props'
+    )),
     Brand VARCHAR(50),
     Model VARCHAR(50),
     SerialNumber VARCHAR(50),
@@ -230,6 +298,26 @@ CREATE TABLE Equipment (
     PurchasePrice DECIMAL(10,2),
     WarrantyExpiry DATE,
     Status VARCHAR(20) DEFAULT 'Active' CHECK (Status IN ('Active', 'Maintenance', 'Out of Service', 'Retired')),
+    -- Hierarchical constraint to ensure Category and Type alignment
+    CONSTRAINT chk_equipment_hierarchy CHECK (
+        (EquipmentCategory IN ('Treadmills', 'Elliptical Machines', 'Stationary Bikes', 'Rowing Machines', 'Stair Climbers', 'Arc Trainers', 'Recumbent Bikes', 'Spin Bikes', 'Air Bikes', 'Climbing Machines') 
+         AND EquipmentType IN ('Manual Treadmill', 'Motorized Treadmill', 'Incline Treadmill', 'Curved Treadmill', 'Cross Trainer', 'Elliptical', 'Rear Drive Elliptical', 'Front Drive Elliptical', 'Upright Bike', 'Recumbent Bike', 'Spin Bike', 'Air Bike', 'Dual Action Bike', 'Water Rower', 'Air Rower', 'Magnetic Rower', 'Cable Rower', 'Step Mill', 'Stair Stepper', 'Stair Climber', 'Jacob\'s Ladder', 'Arc Trainer', 'Adaptive Motion Trainer', 'Climbing Machine', 'Ski Machine'))
+        OR
+        (EquipmentCategory IN ('Weight Machines', 'Cable Systems', 'Functional Trainers', 'Power Racks', 'Smith Machines', 'Benches', 'Multi-Stations', 'Plate Loaded Equipment', 'Pneumatic Machines')
+         AND EquipmentType IN ('Chest Press', 'Shoulder Press', 'Lat Pulldown', 'Seated Row', 'Leg Press', 'Leg Curl', 'Leg Extension', 'Calf Raise', 'Abdominal Crunch', 'Back Extension', 'Cable Crossover', 'Functional Trainer', 'Cable Column', 'Multi-Station', 'Power Rack', 'Half Rack', 'Squat Stand', 'Smith Machine', 'Hack Squat', 'Flat Bench', 'Incline Bench', 'Decline Bench', 'Adjustable Bench', 'Olympic Bench', 'Pneumatic Machine', 'Hydraulic Machine', 'Plate Loaded Machine'))
+        OR
+        (EquipmentCategory IN ('Dumbbells', 'Barbells', 'Weight Plates', 'Kettlebells', 'Medicine Balls', 'Olympic Bars', 'Specialty Bars', 'Weight Storage', 'Bumper Plates')
+         AND EquipmentType IN ('Fixed Weight Dumbbells', 'Adjustable Dumbbells', 'Rubber Dumbbells', 'Hex Dumbbells', 'Olympic Barbell', 'Standard Barbell', 'EZ Curl Bar', 'Trap Bar', 'Safety Squat Bar', 'Iron Plates', 'Rubber Plates', 'Bumper Plates', 'Competition Plates', 'Cast Iron Kettlebells', 'Rubber Kettlebells', 'Competition Kettlebells', 'Leather Medicine Ball', 'Rubber Medicine Ball', 'Slam Ball', 'Wall Ball', 'Dumbbell Rack', 'Barbell Rack', 'Plate Tree', 'Weight Horns'))
+        OR
+        (EquipmentCategory IN ('Yoga Equipment', 'Stretching Equipment', 'Foam Rollers', 'Balance Equipment', 'Pilates Equipment', 'Mobility Tools', 'Recovery Equipment', 'Suspension Trainers')
+         AND EquipmentType IN ('Yoga Mats', 'Yoga Blocks', 'Yoga Straps', 'Yoga Bolsters', 'Yoga Wheels', 'Stretching Mats', 'Stretching Straps', 'Flexibility Trainer', 'Stretch Cage', 'Foam Rollers', 'Massage Balls', 'Massage Sticks', 'Vibrating Foam Rollers', 'Balance Balls', 'BOSU Balls', 'Balance Pads', 'Wobble Cushions', 'Balance Boards', 'Pilates Reformer', 'Pilates Chair', 'Pilates Cadillac', 'Pilates Barrels', 'Resistance Bands', 'Resistance Tubes', 'Loop Bands', 'Stretch Bands', 'Compression Boots', 'Percussion Massagers', 'TENS Units', 'Cryotherapy Equipment', 'TRX Suspension', 'Battle Ropes', 'Gymnastic Rings', 'Suspension Anchors'))
+        OR
+        (EquipmentCategory IN ('Basketball Equipment', 'Volleyball Equipment', 'Racquetball Equipment', 'Tennis Equipment', 'Badminton Equipment', 'Pickleball Equipment', 'Soccer Equipment', 'Pool Equipment')
+         AND EquipmentType IN ('Basketball Hoops', 'Basketballs', 'Basketball Backboards', 'Basketball Goals', 'Volleyball Nets', 'Volleyballs', 'Volleyball Posts', 'Volleyball Antennas', 'Racquetball Rackets', 'Racquetballs', 'Racquetball Gloves', 'Eye Protection', 'Tennis Rackets', 'Tennis Balls', 'Tennis Nets', 'Ball Machines', 'Badminton Rackets', 'Shuttlecocks', 'Badminton Nets', 'Badminton Posts', 'Pickleball Paddles', 'Pickleballs', 'Pickleball Nets', 'Court Lines', 'Soccer Balls', 'Soccer Goals', 'Cones', 'Training Equipment', 'Lane Dividers', 'Pool Noodles', 'Kickboards', 'Pull Buoys', 'Swim Fins'))
+        OR
+        (EquipmentCategory IN ('Sound Systems', 'Mirrors', 'Flooring', 'Storage Solutions', 'Lighting Equipment', 'Air Quality Equipment', 'Dance Equipment', 'Group Fitness Tools')
+         AND EquipmentType IN ('PA Systems', 'Wireless Microphones', 'Speakers', 'Audio Mixers', 'Wall Mirrors', 'Portable Mirrors', 'Mirror Installation', 'Safety Mirrors', 'Rubber Flooring', 'Wood Flooring', 'Carpet Tiles', 'Interlocking Mats', 'Equipment Carts', 'Storage Racks', 'Cubbies', 'Lockers', 'LED Lighting', 'Track Lighting', 'Ambient Lighting', 'Emergency Lighting', 'Air Purifiers', 'Fans', 'HVAC Components', 'Humidity Controls', 'Ballet Barres', 'Dance Floors', 'Choreography Mirrors', 'Dance Props', 'Step Platforms', 'Aerobic Steps', 'Resistance Equipment', 'Group Fitness Props'))
+    ),
     FOREIGN KEY (FacilityID) REFERENCES Facilities(FacilityID),
     FOREIGN KEY (FacilityID, AreaID) REFERENCES FacilityAreas(FacilityID, AreaID)
 );
