@@ -218,6 +218,7 @@ CREATE TABLE ClassEnrollments (
 -- Equipment inventory
 CREATE TABLE Equipment (
     EquipmentID VARCHAR(20) PRIMARY KEY,
+    EquipmentCategory VARCHAR(100) NOT NULL,
     FacilityID VARCHAR(20) NOT NULL,
     AreaID VARCHAR(20) NOT NULL,
     EquipmentName VARCHAR(100) NOT NULL,
