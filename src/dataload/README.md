@@ -4,7 +4,7 @@
 
 This comprehensive data generation system creates realistic fake data for a multi-location fitness center chain, following business rules and operational patterns. The system generates both **Master Data Management (MDM)** tables with reference data and **Operational Data Store (ODS)** tables with high-volume transactional data.
 
-## 🎯 Business Rules Implemented
+## Business Rules Implemented
 
 ### Member Demographics & Behavior
 - **Age-based preferences**: Students prefer basic plans, families choose family plans, seniors select senior discounts
@@ -30,7 +30,7 @@ This comprehensive data generation system creates realistic fake data for a mult
 - **Membership pricing**: Registration fees, monthly/annual plans, auto-renewal logic
 - **Corporate discounts**: Special pricing for corporate memberships
 
-## 📊 Data Volume & Scale
+## Data Volume & Scale
 
 | Table Category | Volume Range | Update Frequency |
 |---------------|--------------|------------------|
@@ -54,7 +54,7 @@ This comprehensive data generation system creates realistic fake data for a mult
 | `classenrollments` | 20,000-500,000+ | Class registrations |
 | `memberaccess` | 100,000-1M+ | Facility access logs |
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -114,7 +114,7 @@ logs/                            # Generation logs
 └── data_generation_YYYYMMDD_HHMMSS.log
 ```
 
-## 🗄️ Database Loading
+## Database Loading
 
 ### Load Data into PostgreSQL
 
@@ -129,69 +129,8 @@ python database_loader.py --verify-only
 python database_loader.py --data-dir generated_data_mdm
 ```
 
-### Database Schema Requirements
 
-Ensure your PostgreSQL database has the correct schema:
 
-**If you are using the `psql` interactive shell, run:**
-
-```sql
--- Run the schema creation script first
-\i ../sql/FitnessCenter_ODS_Schema.sql
-## 🔧 Advanced Configuration
-
-### Custom Data Volumes
-
-```python
-from fitness_center_data_generator import FitnessCenterDataGenerator
-
-# Initialize with custom parameters
-generator = FitnessCenterDataGenerator(
-    num_facilities=8,
-    num_members=5000,
-    num_staff=150
-)
-
-# Generate specific tables
-generator.generate_facilities()
-generator.generate_members()
-generator.generate_staff()
-```
-
-### Custom Business Rules
-
-```python
-# Modify member demographics
-def custom_member_generation(self):
-    # Custom logic for specific member patterns
-    pass
-
-# Extend the generator class
-class CustomGenerator(FitnessCenterDataGenerator):
-    def generate_members(self):
-        return self.custom_member_generation()
-```
-
-## 📈 Performance Optimization
-
-### Large Dataset Generation
-
-For datasets with 50,000+ members:
-
-1. **Increase batch sizes** in database loader
-2. **Use asyncpg** instead of psycopg2 for faster loading  
-   _Note: `asyncpg` is not included by default. To use it, install with `pip install asyncpg` and configure your loader to use it instead of `psycopg2-binary`._
-3. **Generate in chunks** for memory efficiency
-4. **Disable foreign key checks** during bulk loading
-
-```bash
-# Generate very large dataset with optimizations
-python run_complete_data_generation.py \
-  --facilities 50 \
-  --members 100000 \
-  --staff 1000 \
-  --load-database
-```
 
 ## 🧪 Data Quality & Testing
 
@@ -216,44 +155,8 @@ loader.verify_data_integrity()
 "
 ```
 
-## 📊 Analytics & Reporting
 
-### Sample Analytics Queries
-
-```sql
--- Member retention analysis
-SELECT 
-    DATE_TRUNC('month', joindate) as join_month,
-    COUNT(*) as new_members,
-    SUM(CASE WHEN memberstatus = 'Active' THEN 1 ELSE 0 END) as retained
-FROM members 
-GROUP BY DATE_TRUNC('month', joindate)
-ORDER BY join_month;
-
--- Class popularity analysis
-SELECT 
-    ct.classname,
-    COUNT(ce.enrollmentid) as total_enrollments,
-    AVG(ci.actualparticipants) as avg_attendance
-FROM classtypes ct
-JOIN classschedules cs ON ct.classtypeid = cs.classtypeid
-JOIN classinstances ci ON cs.scheduleid = ci.scheduleid
-JOIN classenrollments ce ON ci.instanceid = ce.instanceid
-GROUP BY ct.classname
-ORDER BY total_enrollments DESC;
-
--- Revenue analysis
-SELECT 
-    DATE_TRUNC('month', paymentdate) as payment_month,
-    SUM(amount) as monthly_revenue,
-    COUNT(*) as transaction_count
-FROM memberpayments 
-WHERE status = 'Completed'
-GROUP BY DATE_TRUNC('month', paymentdate)
-ORDER BY payment_month;
-```
-
-## 🔍 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -298,7 +201,7 @@ tail -f logs/data_generation_*.log
 grep -i error logs/data_generation_*.log
 ```
 
-## 🏗️ Architecture
+## Architecture
 
 ### Component Overview
 
@@ -323,58 +226,5 @@ Supporting Files:
 5. **Database Loading**: Bulk loads into PostgreSQL
 6. **Validation**: Verifies data integrity
 
-## 🤝 Contributing
 
-### Adding New Tables
 
-1. **Create generator method** in appropriate class
-2. **Define business rules** and data patterns
-3. **Add to loading order** in database_loader.py
-4. **Update documentation** and table descriptions
-
-### Extending Business Rules
-
-1. **Identify pattern** to implement
-2. **Add realistic weights** and probabilities  
-3. **Test with small dataset** first
-4. **Validate against real-world** expectations
-
-## 📋 API Integration
-
-After loading data, test with your FastAPI application:
-
-```bash
-# Start the FastAPI server
-cd ../app
-python start_server.py
-
-# Test API endpoints with generated data
-curl http://localhost:8000/members/?limit=10
-curl http://localhost:8000/facilities/
-curl http://localhost:8000/classes/instances?date=2024-01-15
-```
-
-## 📄 License & Usage
-
-This data generation system is designed for:
-- **Development and testing** of fitness center applications
-- **Analytics and reporting** system development  
-- **Performance testing** with realistic datasets
-- **Educational purposes** for database and API development
-
-Generated data is completely **synthetic** and does not represent real individuals or facilities.
-
----
-
-## 🎉 Success Metrics
-
-After successful generation, you should have:
-
-✅ **Referentially consistent data** across all tables  
-✅ **Realistic business patterns** in transactions and behavior  
-✅ **Scalable volume** appropriate for your testing needs  
-✅ **Time-series data** for analytics and reporting  
-✅ **Geographic distribution** across multiple facilities  
-✅ **Comprehensive documentation** of data patterns and relationships
-
-**Happy Data Generating! 🚀**
