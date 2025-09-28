@@ -131,9 +131,6 @@ python database_loader.py --data-dir generated_data_mdm
 
 
 
-
-## 🧪 Data Quality & Testing
-
 ### Validation Checks
 
 The system includes automatic validation:
