@@ -133,11 +133,11 @@ python database_loader.py --data-dir generated_data_mdm
 
 Ensure your PostgreSQL database has the correct schema:
 
+**If you are using the `psql` interactive shell, run:**
+
 ```sql
 -- Run the schema creation script first
 \i ../sql/FitnessCenter_ODS_Schema.sql
-```
-
 ## 🔧 Advanced Configuration
 
 ### Custom Data Volumes
