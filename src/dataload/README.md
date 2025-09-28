@@ -179,7 +179,8 @@ class CustomGenerator(FitnessCenterDataGenerator):
 For datasets with 50,000+ members:
 
 1. **Increase batch sizes** in database loader
-2. **Use asyncpg** instead of psycopg2 for faster loading
+2. **Use asyncpg** instead of psycopg2 for faster loading  
+   _Note: `asyncpg` is not included by default. To use it, install with `pip install asyncpg` and configure your loader to use it instead of `psycopg2-binary`._
 3. **Generate in chunks** for memory efficiency
 4. **Disable foreign key checks** during bulk loading
 
