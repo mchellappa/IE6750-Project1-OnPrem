@@ -1,0 +1,11 @@
+class_type_id,class_name,class_category,difficulty_level,duration_minutes,max_participants
+CT001,Vinyasa Yoga,Mind-Body,Intermediate,60,20
+CT002,Hot Yoga,Mind-Body,Advanced,90,15
+CT003,Pilates Core,Strength,Beginner,45,18
+CT004,Advanced Pilates,Strength,Advanced,60,12
+CT005,Spin Cycle,Cardio,Intermediate,45,25
+CT006,High Intensity Spin,Cardio,Advanced,30,20
+CT007,HIIT Training,Cardio,Intermediate,30,15
+CT008,Boot Camp,Strength,Advanced,45,12
+CT009,Zumba,Cardio,Beginner,60,30
+CT010,Strength Circuit,Strength,Intermediate,45,16

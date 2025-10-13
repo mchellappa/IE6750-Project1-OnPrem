@@ -1,0 +1,31 @@
+staff_id,employee_number,first_name,last_name,job_title,department,hire_date,specialization,hourly_rate,employment_status,facility_id,last_modified
+STF0001,EMP000001,Molly,Reyes,Front Desk,Operations,2024-03-04,Customer Service,31.67861284645165,Active,FAC001,2025-10-12
+STF0002,EMP000002,Tracy,Kemp,Group Fitness Instructor,Fitness,2022-11-21,HIIT,39.11690260331551,Active,FAC001,2025-10-12
+STF0003,EMP000003,Samantha,Mitchell,Group Fitness Instructor,Fitness,2022-04-11,Yoga,38.42879980412883,Active,FAC001,2025-10-12
+STF0004,EMP000004,Megan,Reynolds,Facility Manager,Operations,2024-05-29,General,26.16719231447993,Active,FAC003,2025-10-12
+STF0005,EMP000005,Nicole,Phillips,Group Fitness Instructor,Fitness,2021-07-21,Yoga,32.58356256607637,Active,FAC001,2025-10-12
+STF0006,EMP000006,Barbara,Barker,Group Fitness Instructor,Fitness,2024-03-02,Yoga,16.934161081407293,Active,FAC002,2025-10-12
+STF0007,EMP000007,James,Rivas,Facility Manager,Operations,2023-03-31,General,17.75935915971055,Active,FAC002,2025-10-12
+STF0008,EMP000008,Allison,Harris,Group Fitness Instructor,Fitness,2021-02-27,Yoga,43.26841983072346,Active,FAC003,2025-10-12
+STF0009,EMP000009,Stephen,Salazar,Group Fitness Instructor,Fitness,2022-02-27,HIIT,36.73292541392118,Active,FAC002,2025-10-12
+STF0010,EMP000010,Roger,Lyons,Personal Trainer,Fitness,2023-05-21,Cardio,20.184216354923677,Active,FAC001,2025-10-12
+STF0011,EMP000011,Eric,Green,Group Fitness Instructor,Fitness,2022-12-19,Spin,28.38034291939969,Active,FAC003,2025-10-12
+STF0012,EMP000012,Patricia,King,Personal Trainer,Fitness,2023-06-19,Strength,22.373543377357365,Active,FAC002,2025-10-12
+STF0013,EMP000013,Janice,Morgan,Front Desk,Operations,2024-09-26,Customer Service,29.370927898804634,Active,FAC002,2025-10-12
+STF0014,EMP000014,Brian,Phillips,Group Fitness Instructor,Fitness,2022-09-12,Yoga,20.9837341999976,Active,FAC003,2025-10-12
+STF0015,EMP000015,Angela,Hammond,Group Fitness Instructor,Fitness,2024-05-22,Pilates,44.8226183210689,Active,FAC001,2025-10-12
+STF0016,EMP000016,Howard,Crane,Front Desk,Operations,2023-11-22,Customer Service,38.45747300536275,Active,FAC003,2025-10-12
+STF0017,EMP000017,Joseph,Moore,Facility Manager,Operations,2025-01-25,General,25.32102359369628,Active,FAC002,2025-10-12
+STF0018,EMP000018,Brian,Russell,Group Fitness Instructor,Fitness,2023-03-18,HIIT,20.394476210936077,Active,FAC001,2025-10-12
+STF0019,EMP000019,Bryan,Estrada,Group Fitness Instructor,Fitness,2021-08-09,Yoga,39.32068097111693,Active,FAC002,2025-10-12
+STF0020,EMP000020,Charles,Romero,Personal Trainer,Fitness,2022-03-26,Strength,38.00526505350818,On Leave,FAC001,2025-10-12
+STF0021,EMP000021,Frank,Nguyen,Group Fitness Instructor,Fitness,2025-08-18,Yoga,34.70593264128703,Active,FAC003,2025-10-12
+STF0022,EMP000022,Marilyn,Trujillo,Group Fitness Instructor,Fitness,2024-08-08,Yoga,44.891761455193716,Active,FAC002,2025-10-12
+STF0023,EMP000023,Catherine,Macdonald,Group Fitness Instructor,Fitness,2020-11-07,Spin,40.17666756917728,Active,FAC001,2025-10-12
+STF0024,EMP000024,Jessica,Harris,Group Fitness Instructor,Fitness,2025-06-30,Pilates,24.54013104875614,Active,FAC002,2025-10-12
+STF0025,EMP000025,Anna,Sullivan,Front Desk,Operations,2025-05-31,Customer Service,15.846197091814773,Active,FAC003,2025-10-12
+STF0026,EMP000026,Justin,Franco,Personal Trainer,Fitness,2020-12-31,Strength,31.89326672592055,Active,FAC002,2025-10-12
+STF0027,EMP000027,Matthew,Lynn,Personal Trainer,Fitness,2022-09-17,Strength,20.266703029819524,Active,FAC001,2025-10-12
+STF0028,EMP000028,Jared,Weaver,Group Fitness Instructor,Fitness,2022-03-22,Pilates,21.56426825074732,Active,FAC001,2025-10-12
+STF0029,EMP000029,Amy,Bowen,Group Fitness Instructor,Fitness,2024-09-18,Spin,33.42404302987405,Active,FAC002,2025-10-12
+STF0030,EMP000030,Deanna,Montgomery,Personal Trainer,Fitness,2021-09-10,Cardio,42.56342361921618,Active,FAC002,2025-10-12

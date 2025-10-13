@@ -1,0 +1,15 @@
+area_id,facility_id,area_name,area_type,max_capacity,square_footage,equipment_count,last_modified
+AR001,FAC001,Functional Training,Functional,15,800,14,2025-10-12
+AR002,FAC001,Group Fitness Studio B,Group Fitness,25,900,8,2025-10-12
+AR003,FAC001,Cardio Zone,Cardio,30,2000,8,2025-10-12
+AR004,FAC001,Free Weights,Strength,20,1500,9,2025-10-12
+AR005,FAC002,Strength Training,Strength,25,1800,11,2025-10-12
+AR006,FAC002,Group Fitness Studio B,Group Fitness,25,900,19,2025-10-12
+AR007,FAC002,Cardio Zone,Cardio,30,2000,18,2025-10-12
+AR008,FAC002,Free Weights,Strength,20,1500,19,2025-10-12
+AR009,FAC003,Group Fitness Studio A,Group Fitness,35,1200,20,2025-10-12
+AR010,FAC003,Strength Training,Strength,25,1800,20,2025-10-12
+AR011,FAC003,Functional Training,Functional,15,800,10,2025-10-12
+AR012,FAC003,Free Weights,Strength,20,1500,19,2025-10-12
+AR013,FAC003,Group Fitness Studio B,Group Fitness,25,900,14,2025-10-12
+AR014,FAC003,Cardio Zone,Cardio,30,2000,13,2025-10-12
