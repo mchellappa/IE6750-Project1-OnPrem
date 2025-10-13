@@ -1,4 +1,4 @@
 facility_id,facility_name,address,city,state,country,region,phone,operating_hours,capacity,facility_type,last_modified
-FAC001,Atlanta Elite Fitness Center,9379 Hill Falls Apt. 362,Atlanta,GA,USA,Southeast,961.767.7223,6:00-22:00,357,Full Service,2025-10-12
-FAC002,Denver Elite Fitness Center,295 Rodriguez Row Suite 522,Denver,CO,USA,West,891.251.0512x26408,6:00-22:00,440,Full Service,2025-10-12
-FAC003,Chicago Elite Fitness Center,4298 Michael Field,Chicago,IL,USA,Midwest,941-389-1115,5:00-23:00,371,Express,2025-10-12
+FAC001,Atlanta Elite Fitness Center,12158 Moody Shoals,Atlanta,GA,USA,Southeast,(854) 314-1409,6:00-22:00,440,Full Service,2025-10-12
+FAC002,Denver Elite Fitness Center,39406 Dennis Orchard Suite 418,Denver,CO,USA,West,(428) 342-2679,6:00-22:00,679,Express,2025-10-12
+FAC003,Chicago Elite Fitness Center,7001 Joseph Springs,Chicago,IL,USA,Midwest,(289) 804-7912,5:00-23:00,315,Full Service,2025-10-12

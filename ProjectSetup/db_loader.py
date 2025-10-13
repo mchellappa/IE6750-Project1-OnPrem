@@ -23,7 +23,7 @@ import argparse
 
 class FitnessCenterDBLoader:
     def __init__(self, host='localhost', port=5432, database='fitness_center_ods', 
-                 user='postgres', password=None):
+                 user='postgres', password='Brenau27'):
         self.connection_params = {
             'host': host,
             'port': port,
@@ -147,8 +147,7 @@ class FitnessCenterDBLoader:
             # Clean data for PostgreSQL
             df_clean = df.copy()
             
-            # Handle NaN values
-            df_clean = df_clean.fillna('')
+            # Handle NaN values - but preserve data types
             
             # Convert datetime columns to proper format if they exist
             datetime_columns = ['last_modified', 'join_date', 'hire_date', 'purchase_date', 
@@ -158,6 +157,28 @@ class FitnessCenterDBLoader:
             for col in datetime_columns:
                 if col in df_clean.columns:
                     df_clean[col] = pd.to_datetime(df_clean[col], errors='coerce')
+            
+            # Handle integer columns that might have become floats due to NaN handling
+            integer_columns = ['instructor_rating', 'member_satisfaction_score', 'intensity_level',
+                             'duration_minutes', 'late_arrival_minutes', 'early_departure_minutes',
+                             'max_participants', 'capacity', 'equipment_count', 'square_footage']
+            
+            for col in integer_columns:
+                if col in df_clean.columns:
+                    # Convert floats like 4.0 back to integers, use NULL marker for empty values
+                    df_clean[col] = df_clean[col].apply(lambda x: '\\N' if pd.isna(x) or x == '' else int(float(x)))
+            
+            # Handle TIME columns - empty strings should be NULL
+            time_columns = ['start_time', 'end_time', 'actual_start_time', 'actual_end_time',
+                          'scheduled_start_time', 'scheduled_end_time', 'checkin_time', 'checkout_time']
+            
+            for col in time_columns:
+                if col in df_clean.columns:
+                    # Replace empty strings with NULL marker for time columns
+                    df_clean[col] = df_clean[col].apply(lambda x: '\\N' if pd.isna(x) or x == '' else x)
+            
+            # Handle remaining NaN values (but after time column processing)
+            df_clean = df_clean.fillna('')
             
             # Save cleaned CSV
             df_clean.to_csv(temp_csv, index=False, na_rep='\\N')

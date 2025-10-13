@@ -1,15 +1,15 @@
 {
-  "generation_date": "2025-10-12T22:01:33.052677",
+  "generation_date": "2025-10-12T22:37:30.925034",
   "total_tables": 8,
-  "total_records": 23466,
+  "total_records": 23690,
   "table_summary": {
     "facilities": 3,
-    "facility_areas": 14,
+    "facility_areas": 15,
     "members": 500,
     "staff": 30,
     "class_types": 10,
-    "equipment": 107,
-    "class_enrollments": 11289,
-    "equipment_usage": 11513
+    "equipment": 104,
+    "class_enrollments": 11229,
+    "equipment_usage": 11799
   }
 }

@@ -1,108 +1,105 @@
 equipment_id,equipment_name,equipment_category,equipment_type,brand,model,serial_number,purchase_date,warranty_expiry,status,facility_id,area_id,last_modified
-EQ0001,Treadmill 01,Cardio,Treadmill,Life Fitness,Treadmill-2020,47DBECEF,2023-12-05,2026-12-30,Active,FAC001,AR003,2025-10-12
-EQ0002,Treadmill 02,Cardio,Treadmill,Life Fitness,Treadmill-2021,C67DE896,2022-12-04,2026-09-25,Active,FAC001,AR003,2025-10-12
-EQ0003,Treadmill 01,Cardio,Treadmill,Life Fitness,Treadmill-2022,56E0E28E,2022-03-29,2027-08-30,Maintenance,FAC002,AR007,2025-10-12
-EQ0004,Treadmill 02,Cardio,Treadmill,Life Fitness,Treadmill-2022,4DC1785E,2023-05-10,2026-08-31,Active,FAC002,AR007,2025-10-12
-EQ0005,Treadmill 03,Cardio,Treadmill,Life Fitness,Treadmill-2023,C5509D50,2025-10-07,2027-07-02,Active,FAC002,AR007,2025-10-12
-EQ0006,Treadmill 04,Cardio,Treadmill,Life Fitness,Treadmill-2022,537805DF,2022-04-26,2027-02-13,Active,FAC002,AR007,2025-10-12
-EQ0007,Treadmill 05,Cardio,Treadmill,Life Fitness,Treadmill-2021,D017CD66,2021-08-25,2026-05-06,Maintenance,FAC002,AR007,2025-10-12
-EQ0008,Treadmill 06,Cardio,Treadmill,Life Fitness,Treadmill-2023,4B0094E0,2022-11-05,2026-12-14,Active,FAC002,AR007,2025-10-12
-EQ0009,Treadmill 01,Cardio,Treadmill,Life Fitness,Treadmill-2022,98D48B0B,2023-11-20,2026-09-05,Active,FAC003,AR014,2025-10-12
-EQ0010,Treadmill 02,Cardio,Treadmill,Life Fitness,Treadmill-2024,0D3D58E2,2025-09-07,2026-01-08,Active,FAC003,AR014,2025-10-12
-EQ0011,Treadmill 03,Cardio,Treadmill,Life Fitness,Treadmill-2024,DD7F3BA0,2024-10-28,2026-03-03,Active,FAC003,AR014,2025-10-12
-EQ0012,Treadmill 04,Cardio,Treadmill,Life Fitness,Treadmill-2021,62794B6A,2023-12-07,2027-08-22,Active,FAC003,AR014,2025-10-12
-EQ0013,Treadmill 05,Cardio,Treadmill,Life Fitness,Treadmill-2021,9D1818E2,2021-06-29,2026-11-04,Active,FAC003,AR014,2025-10-12
-EQ0014,Elliptical 01,Cardio,Elliptical,Precor,Elliptical-2022,2AE5D1EE,2021-01-31,2026-12-17,Active,FAC001,AR003,2025-10-12
-EQ0015,Elliptical 02,Cardio,Elliptical,Precor,Elliptical-2020,CF6D795A,2022-06-26,2027-09-04,Maintenance,FAC001,AR003,2025-10-12
-EQ0016,Elliptical 03,Cardio,Elliptical,Precor,Elliptical-2024,F7EC346B,2024-11-24,2026-03-05,Active,FAC001,AR003,2025-10-12
-EQ0017,Elliptical 04,Cardio,Elliptical,Precor,Elliptical-2024,2EE5ED3C,2025-07-17,2027-02-14,Active,FAC001,AR003,2025-10-12
-EQ0018,Elliptical 01,Cardio,Elliptical,Precor,Elliptical-2022,68D19710,2023-07-10,2027-04-27,Maintenance,FAC002,AR007,2025-10-12
-EQ0019,Elliptical 02,Cardio,Elliptical,Precor,Elliptical-2024,1A0A9216,2023-09-28,2026-04-18,Active,FAC002,AR007,2025-10-12
-EQ0020,Elliptical 03,Cardio,Elliptical,Precor,Elliptical-2024,028C6FE4,2024-10-14,2027-06-25,Active,FAC002,AR007,2025-10-12
-EQ0021,Elliptical 04,Cardio,Elliptical,Precor,Elliptical-2023,D2EEB098,2020-11-19,2026-05-29,Active,FAC002,AR007,2025-10-12
-EQ0022,Elliptical 01,Cardio,Elliptical,Precor,Elliptical-2020,B31BFCD9,2022-03-28,2027-07-25,Active,FAC003,AR014,2025-10-12
-EQ0023,Elliptical 02,Cardio,Elliptical,Precor,Elliptical-2022,8AFFA034,2022-12-27,2027-02-09,Active,FAC003,AR014,2025-10-12
-EQ0024,Elliptical 03,Cardio,Elliptical,Precor,Elliptical-2020,CD4823BB,2022-02-09,2025-11-16,Active,FAC003,AR014,2025-10-12
-EQ0025,Elliptical 04,Cardio,Elliptical,Precor,Elliptical-2022,FFE40A67,2024-06-29,2027-06-03,Active,FAC003,AR014,2025-10-12
-EQ0026,Stationary Bike 01,Cardio,Stationary Bike,Schwinn,Stationary Bike-2021,C9C10763,2022-01-08,2027-10-03,Active,FAC001,AR003,2025-10-12
-EQ0027,Stationary Bike 02,Cardio,Stationary Bike,Schwinn,Stationary Bike-2020,8CDA6B98,2022-09-04,2027-09-26,Active,FAC001,AR003,2025-10-12
-EQ0028,Stationary Bike 03,Cardio,Stationary Bike,Schwinn,Stationary Bike-2020,FCA603F3,2021-08-03,2026-04-08,Active,FAC001,AR003,2025-10-12
-EQ0029,Stationary Bike 04,Cardio,Stationary Bike,Schwinn,Stationary Bike-2020,0B1F434C,2021-08-26,2027-03-29,Active,FAC001,AR003,2025-10-12
-EQ0030,Stationary Bike 01,Cardio,Stationary Bike,Schwinn,Stationary Bike-2021,5EE84698,2023-11-11,2026-04-02,Active,FAC002,AR007,2025-10-12
-EQ0031,Stationary Bike 02,Cardio,Stationary Bike,Schwinn,Stationary Bike-2023,B19DED75,2024-05-14,2025-12-08,Active,FAC002,AR007,2025-10-12
-EQ0032,Stationary Bike 03,Cardio,Stationary Bike,Schwinn,Stationary Bike-2022,0969E08E,2024-07-30,2027-08-20,Active,FAC002,AR007,2025-10-12
-EQ0033,Stationary Bike 04,Cardio,Stationary Bike,Schwinn,Stationary Bike-2020,6D5217E5,2025-06-03,2026-12-06,Active,FAC002,AR007,2025-10-12
-EQ0034,Stationary Bike 05,Cardio,Stationary Bike,Schwinn,Stationary Bike-2024,40DB95DD,2022-08-08,2026-11-23,Active,FAC002,AR007,2025-10-12
-EQ0035,Stationary Bike 01,Cardio,Stationary Bike,Schwinn,Stationary Bike-2021,EB81D8DA,2023-01-30,2025-12-26,Active,FAC003,AR014,2025-10-12
-EQ0036,Stationary Bike 02,Cardio,Stationary Bike,Schwinn,Stationary Bike-2020,DD474FB1,2024-04-24,2026-08-19,Active,FAC003,AR014,2025-10-12
-EQ0037,Stationary Bike 03,Cardio,Stationary Bike,Schwinn,Stationary Bike-2022,3D0F9C2E,2021-03-13,2027-04-21,Active,FAC003,AR014,2025-10-12
-EQ0038,Rowing Machine 01,Cardio,Rowing Machine,Concept2,Rowing Machine-2020,B4F29709,2023-09-02,2027-05-03,Active,FAC001,AR003,2025-10-12
-EQ0039,Rowing Machine 02,Cardio,Rowing Machine,Concept2,Rowing Machine-2023,2FAE6A36,2024-06-17,2026-07-19,Active,FAC001,AR003,2025-10-12
-EQ0040,Rowing Machine 01,Cardio,Rowing Machine,Concept2,Rowing Machine-2024,B023AB71,2023-08-17,2027-06-17,Maintenance,FAC002,AR007,2025-10-12
-EQ0041,Rowing Machine 02,Cardio,Rowing Machine,Concept2,Rowing Machine-2020,BDF27013,2023-04-25,2026-05-05,Active,FAC002,AR007,2025-10-12
-EQ0042,Rowing Machine 01,Cardio,Rowing Machine,Concept2,Rowing Machine-2023,0126C5FA,2025-09-17,2027-03-03,Active,FAC003,AR014,2025-10-12
-EQ0043,Rowing Machine 02,Cardio,Rowing Machine,Concept2,Rowing Machine-2023,20616738,2024-03-12,2026-12-08,Maintenance,FAC003,AR014,2025-10-12
-EQ0044,Rowing Machine 03,Cardio,Rowing Machine,Concept2,Rowing Machine-2021,0C88AFAF,2023-08-24,2027-01-11,Active,FAC003,AR014,2025-10-12
-EQ0045,Rowing Machine 04,Cardio,Rowing Machine,Concept2,Rowing Machine-2023,237F552A,2023-08-05,2027-01-26,Active,FAC003,AR014,2025-10-12
-EQ0046,Stair Climber 01,Cardio,Stair Climber,StairMaster,Stair Climber-2022,583FA4C2,2022-12-08,2026-08-08,Active,FAC001,AR003,2025-10-12
-EQ0047,Stair Climber 02,Cardio,Stair Climber,StairMaster,Stair Climber-2021,4459EF41,2023-01-04,2026-01-06,Active,FAC001,AR003,2025-10-12
-EQ0048,Stair Climber 01,Cardio,Stair Climber,StairMaster,Stair Climber-2022,A051D5B0,2025-04-19,2026-10-07,Active,FAC002,AR007,2025-10-12
-EQ0049,Stair Climber 02,Cardio,Stair Climber,StairMaster,Stair Climber-2020,2CE0B4FD,2025-01-02,2026-02-09,Active,FAC002,AR007,2025-10-12
-EQ0050,Stair Climber 03,Cardio,Stair Climber,StairMaster,Stair Climber-2024,099DE948,2022-12-19,2027-06-16,Active,FAC002,AR007,2025-10-12
-EQ0051,Stair Climber 01,Cardio,Stair Climber,StairMaster,Stair Climber-2021,D80DFDBE,2022-02-02,2026-06-27,Active,FAC003,AR014,2025-10-12
-EQ0052,Stair Climber 02,Cardio,Stair Climber,StairMaster,Stair Climber-2020,9B9CC922,2023-05-12,2026-06-19,Active,FAC003,AR014,2025-10-12
-EQ0053,Stair Climber 03,Cardio,Stair Climber,StairMaster,Stair Climber-2022,CE36AE39,2022-12-06,2027-06-15,Active,FAC003,AR014,2025-10-12
-EQ0054,Bench Press 01,Strength,Bench Press,Hammer Strength,Bench Press-2021,2C00F8A6,2021-01-08,2026-10-22,Active,FAC001,AR004,2025-10-12
-EQ0055,Bench Press 02,Strength,Bench Press,Hammer Strength,Bench Press-2021,F12730DC,2023-07-20,2026-03-10,Active,FAC001,AR004,2025-10-12
-EQ0056,Bench Press 01,Strength,Bench Press,Hammer Strength,Bench Press-2020,80512710,2021-11-16,2026-08-24,Active,FAC002,AR005,2025-10-12
-EQ0057,Bench Press 02,Strength,Bench Press,Hammer Strength,Bench Press-2020,78D00EA5,2021-11-29,2026-11-01,Active,FAC002,AR005,2025-10-12
-EQ0058,Bench Press 01,Strength,Bench Press,Hammer Strength,Bench Press-2023,5A649AB1,2024-05-02,2025-12-13,Active,FAC002,AR008,2025-10-12
-EQ0059,Bench Press 02,Strength,Bench Press,Hammer Strength,Bench Press-2022,23C1023D,2024-08-08,2027-04-19,Active,FAC002,AR008,2025-10-12
-EQ0060,Bench Press 01,Strength,Bench Press,Hammer Strength,Bench Press-2021,6B1B2EB6,2022-06-26,2027-02-11,Active,FAC003,AR010,2025-10-12
-EQ0061,Bench Press 02,Strength,Bench Press,Hammer Strength,Bench Press-2023,EF82DC83,2024-08-31,2027-09-16,Active,FAC003,AR010,2025-10-12
-EQ0062,Bench Press 01,Strength,Bench Press,Hammer Strength,Bench Press-2020,DD5AAC4E,2025-07-30,2027-08-30,Active,FAC003,AR012,2025-10-12
-EQ0063,Bench Press 02,Strength,Bench Press,Hammer Strength,Bench Press-2023,0BB28C26,2024-04-10,2026-02-05,Active,FAC003,AR012,2025-10-12
-EQ0064,Squat Rack 01,Strength,Squat Rack,Rogue,Squat Rack-2024,A1EB3AD7,2024-11-02,2025-12-01,Active,FAC001,AR004,2025-10-12
-EQ0065,Squat Rack 02,Strength,Squat Rack,Rogue,Squat Rack-2020,10ED8B82,2024-03-07,2026-04-19,Active,FAC001,AR004,2025-10-12
-EQ0066,Squat Rack 01,Strength,Squat Rack,Rogue,Squat Rack-2024,596B8A6A,2024-11-05,2027-07-31,Active,FAC002,AR005,2025-10-12
-EQ0067,Squat Rack 02,Strength,Squat Rack,Rogue,Squat Rack-2024,F11951B2,2023-09-13,2027-08-20,Active,FAC002,AR005,2025-10-12
-EQ0068,Squat Rack 01,Strength,Squat Rack,Rogue,Squat Rack-2023,4BDCE33B,2024-01-03,2027-02-11,Active,FAC002,AR008,2025-10-12
-EQ0069,Squat Rack 01,Strength,Squat Rack,Rogue,Squat Rack-2024,C80E49AD,2025-10-05,2026-03-06,Active,FAC003,AR010,2025-10-12
-EQ0070,Squat Rack 02,Strength,Squat Rack,Rogue,Squat Rack-2023,C798E2A4,2021-11-16,2026-07-01,Active,FAC003,AR010,2025-10-12
-EQ0071,Squat Rack 01,Strength,Squat Rack,Rogue,Squat Rack-2023,7315D10B,2023-10-02,2027-03-23,Active,FAC003,AR012,2025-10-12
-EQ0072,Cable Machine 01,Strength,Cable Machine,Life Fitness,Cable Machine-2020,7AE38DAA,2023-02-14,2027-06-08,Active,FAC001,AR004,2025-10-12
-EQ0073,Cable Machine 02,Strength,Cable Machine,Life Fitness,Cable Machine-2024,F4C752B8,2023-06-17,2026-05-23,Active,FAC001,AR004,2025-10-12
-EQ0074,Cable Machine 01,Strength,Cable Machine,Life Fitness,Cable Machine-2024,4DB73194,2023-05-26,2026-12-20,Active,FAC002,AR005,2025-10-12
-EQ0075,Cable Machine 02,Strength,Cable Machine,Life Fitness,Cable Machine-2023,CF6D68F9,2024-12-09,2025-12-03,Active,FAC002,AR005,2025-10-12
-EQ0076,Cable Machine 03,Strength,Cable Machine,Life Fitness,Cable Machine-2021,8676F4EE,2022-09-28,2025-11-27,Maintenance,FAC002,AR005,2025-10-12
-EQ0077,Cable Machine 01,Strength,Cable Machine,Life Fitness,Cable Machine-2021,3C1EE8E1,2023-05-17,2027-06-18,Active,FAC002,AR008,2025-10-12
-EQ0078,Cable Machine 01,Strength,Cable Machine,Life Fitness,Cable Machine-2023,F0C6AF89,2022-08-15,2027-04-05,Active,FAC003,AR010,2025-10-12
-EQ0079,Cable Machine 01,Strength,Cable Machine,Life Fitness,Cable Machine-2021,A332545E,2023-02-07,2027-05-11,Active,FAC003,AR012,2025-10-12
-EQ0080,Cable Machine 02,Strength,Cable Machine,Life Fitness,Cable Machine-2022,6C86D775,2023-04-03,2026-12-07,Active,FAC003,AR012,2025-10-12
-EQ0081,Cable Machine 03,Strength,Cable Machine,Life Fitness,Cable Machine-2020,2295FC59,2024-05-14,2026-11-16,Active,FAC003,AR012,2025-10-12
-EQ0082,Leg Press 01,Strength,Leg Press,Cybex,Leg Press-2024,556C1CF5,2025-06-01,2026-06-28,Active,FAC001,AR004,2025-10-12
-EQ0083,Leg Press 02,Strength,Leg Press,Cybex,Leg Press-2022,8EF9EA1E,2023-01-12,2026-06-09,Active,FAC001,AR004,2025-10-12
-EQ0084,Leg Press 01,Strength,Leg Press,Cybex,Leg Press-2024,19AAFC24,2022-03-10,2026-03-06,Active,FAC002,AR005,2025-10-12
-EQ0085,Leg Press 01,Strength,Leg Press,Cybex,Leg Press-2020,38EDB1DB,2023-08-14,2026-03-19,Active,FAC002,AR008,2025-10-12
-EQ0086,Leg Press 02,Strength,Leg Press,Cybex,Leg Press-2021,F2DF7B38,2022-07-01,2026-08-26,Active,FAC002,AR008,2025-10-12
-EQ0087,Leg Press 01,Strength,Leg Press,Cybex,Leg Press-2020,7248A58A,2023-10-05,2026-07-06,Active,FAC003,AR010,2025-10-12
-EQ0088,Leg Press 01,Strength,Leg Press,Cybex,Leg Press-2022,61FCA34D,2024-05-21,2026-11-13,Active,FAC003,AR012,2025-10-12
-EQ0089,Dumbbell Set 01,Strength,Dumbbell Set,Rogue,Dumbbell Set-2023,E7F7940E,2023-12-25,2027-09-21,Active,FAC001,AR004,2025-10-12
-EQ0090,Dumbbell Set 02,Strength,Dumbbell Set,Rogue,Dumbbell Set-2023,40BB3287,2021-11-26,2027-02-17,Active,FAC001,AR004,2025-10-12
-EQ0091,Dumbbell Set 01,Strength,Dumbbell Set,Rogue,Dumbbell Set-2020,0780712F,2021-04-27,2026-10-30,Active,FAC002,AR005,2025-10-12
-EQ0092,Dumbbell Set 02,Strength,Dumbbell Set,Rogue,Dumbbell Set-2023,F99E8697,2024-10-02,2026-04-05,Active,FAC002,AR005,2025-10-12
-EQ0093,Dumbbell Set 01,Strength,Dumbbell Set,Rogue,Dumbbell Set-2023,8947AA8E,2024-05-18,2025-10-30,Active,FAC002,AR008,2025-10-12
-EQ0094,Dumbbell Set 02,Strength,Dumbbell Set,Rogue,Dumbbell Set-2022,7B3CBA85,2024-04-18,2026-05-11,Active,FAC002,AR008,2025-10-12
-EQ0095,Dumbbell Set 03,Strength,Dumbbell Set,Rogue,Dumbbell Set-2020,78E28D2E,2021-07-26,2026-03-14,Active,FAC002,AR008,2025-10-12
-EQ0096,Dumbbell Set 01,Strength,Dumbbell Set,Rogue,Dumbbell Set-2022,A6AB4BC8,2021-07-16,2025-11-16,Active,FAC003,AR010,2025-10-12
-EQ0097,Dumbbell Set 02,Strength,Dumbbell Set,Rogue,Dumbbell Set-2022,251A1001,2021-03-02,2027-06-05,Active,FAC003,AR010,2025-10-12
-EQ0098,Dumbbell Set 01,Strength,Dumbbell Set,Rogue,Dumbbell Set-2020,22EFCE26,2021-04-18,2026-11-25,Maintenance,FAC003,AR012,2025-10-12
-EQ0099,Dumbbell Set 02,Strength,Dumbbell Set,Rogue,Dumbbell Set-2021,C5FC1216,2022-08-18,2026-05-18,Active,FAC003,AR012,2025-10-12
-EQ0100,Pull-up Station 01,Strength,Pull-up Station,TRX,Pull-up Station-2022,1E25EEFF,2023-07-30,2025-11-06,Active,FAC001,AR004,2025-10-12
-EQ0101,Pull-up Station 02,Strength,Pull-up Station,TRX,Pull-up Station-2023,1508B11E,2022-08-17,2025-12-28,Active,FAC001,AR004,2025-10-12
-EQ0102,Pull-up Station 01,Strength,Pull-up Station,TRX,Pull-up Station-2021,046293EA,2022-09-22,2026-03-02,Active,FAC002,AR005,2025-10-12
-EQ0103,Pull-up Station 01,Strength,Pull-up Station,TRX,Pull-up Station-2023,0AE84BF3,2023-09-08,2026-01-09,Active,FAC002,AR008,2025-10-12
-EQ0104,Pull-up Station 02,Strength,Pull-up Station,TRX,Pull-up Station-2022,AC33DB85,2023-06-20,2026-07-02,Active,FAC002,AR008,2025-10-12
-EQ0105,Pull-up Station 01,Strength,Pull-up Station,TRX,Pull-up Station-2020,B3A1E1F1,2025-05-27,2026-01-19,Active,FAC003,AR010,2025-10-12
-EQ0106,Pull-up Station 01,Strength,Pull-up Station,TRX,Pull-up Station-2021,2248DB68,2023-03-30,2027-05-20,Active,FAC003,AR012,2025-10-12
-EQ0107,Pull-up Station 02,Strength,Pull-up Station,TRX,Pull-up Station-2024,7CF21EFC,2024-01-27,2027-02-17,Active,FAC003,AR012,2025-10-12
+EQ0001,Treadmill 01,Cardio,Treadmill,Life Fitness,Treadmill-2021,5177EA04,2023-07-15,2026-09-18,Active,FAC001,AR003,2025-10-12
+EQ0002,Treadmill 02,Cardio,Treadmill,Life Fitness,Treadmill-2021,39E09F87,2024-03-13,2026-08-29,Active,FAC001,AR003,2025-10-12
+EQ0003,Treadmill 01,Cardio,Treadmill,Life Fitness,Treadmill-2023,B7A01527,2025-09-07,2026-08-23,Active,FAC002,AR010,2025-10-12
+EQ0004,Treadmill 02,Cardio,Treadmill,Life Fitness,Treadmill-2024,C9742EAE,2025-04-26,2026-10-19,Active,FAC002,AR010,2025-10-12
+EQ0005,Treadmill 03,Cardio,Treadmill,Life Fitness,Treadmill-2020,9B6D26A3,2024-08-13,2027-04-03,Active,FAC002,AR010,2025-10-12
+EQ0006,Treadmill 04,Cardio,Treadmill,Life Fitness,Treadmill-2020,1ABB427E,2022-03-01,2026-09-29,Active,FAC002,AR010,2025-10-12
+EQ0007,Treadmill 05,Cardio,Treadmill,Life Fitness,Treadmill-2021,71F8100B,2025-04-11,2026-08-11,Active,FAC002,AR010,2025-10-12
+EQ0008,Treadmill 06,Cardio,Treadmill,Life Fitness,Treadmill-2024,7F01BC75,2023-10-17,2027-01-18,Active,FAC002,AR010,2025-10-12
+EQ0009,Treadmill 01,Cardio,Treadmill,Life Fitness,Treadmill-2022,F1972F42,2021-01-01,2025-12-21,Active,FAC003,AR014,2025-10-12
+EQ0010,Treadmill 02,Cardio,Treadmill,Life Fitness,Treadmill-2020,1A4DD5A7,2022-01-13,2025-12-17,Active,FAC003,AR014,2025-10-12
+EQ0011,Elliptical 01,Cardio,Elliptical,Precor,Elliptical-2023,864ABFEE,2023-01-10,2026-03-24,Maintenance,FAC001,AR003,2025-10-12
+EQ0012,Elliptical 02,Cardio,Elliptical,Precor,Elliptical-2023,99484F11,2022-07-24,2026-12-01,Active,FAC001,AR003,2025-10-12
+EQ0013,Elliptical 03,Cardio,Elliptical,Precor,Elliptical-2024,170DB5B9,2024-12-22,2027-10-10,Active,FAC001,AR003,2025-10-12
+EQ0014,Elliptical 04,Cardio,Elliptical,Precor,Elliptical-2024,37CD3B63,2022-11-01,2026-06-10,Active,FAC001,AR003,2025-10-12
+EQ0015,Elliptical 01,Cardio,Elliptical,Precor,Elliptical-2023,257B2D4E,2021-04-28,2026-04-24,Active,FAC002,AR010,2025-10-12
+EQ0016,Elliptical 02,Cardio,Elliptical,Precor,Elliptical-2021,96F9AE49,2021-07-09,2027-08-03,Active,FAC002,AR010,2025-10-12
+EQ0017,Elliptical 01,Cardio,Elliptical,Precor,Elliptical-2022,B18CADFB,2021-06-23,2026-05-08,Active,FAC003,AR014,2025-10-12
+EQ0018,Elliptical 02,Cardio,Elliptical,Precor,Elliptical-2024,8FB6EEE0,2022-01-06,2027-04-14,Active,FAC003,AR014,2025-10-12
+EQ0019,Elliptical 03,Cardio,Elliptical,Precor,Elliptical-2021,669B9673,2023-09-25,2026-11-13,Active,FAC003,AR014,2025-10-12
+EQ0020,Elliptical 04,Cardio,Elliptical,Precor,Elliptical-2020,94DDC6AF,2020-12-09,2027-08-03,Active,FAC003,AR014,2025-10-12
+EQ0021,Stationary Bike 01,Cardio,Stationary Bike,Schwinn,Stationary Bike-2021,BD9365BE,2021-06-22,2027-06-22,Active,FAC001,AR003,2025-10-12
+EQ0022,Stationary Bike 02,Cardio,Stationary Bike,Schwinn,Stationary Bike-2022,31DF2D2F,2024-12-23,2026-02-05,Active,FAC001,AR003,2025-10-12
+EQ0023,Stationary Bike 01,Cardio,Stationary Bike,Schwinn,Stationary Bike-2023,F3F0CEA5,2022-05-30,2027-06-20,Active,FAC002,AR010,2025-10-12
+EQ0024,Stationary Bike 02,Cardio,Stationary Bike,Schwinn,Stationary Bike-2021,C350058B,2022-10-06,2026-08-06,Active,FAC002,AR010,2025-10-12
+EQ0025,Stationary Bike 03,Cardio,Stationary Bike,Schwinn,Stationary Bike-2020,DCBC03D4,2024-04-27,2025-12-26,Active,FAC002,AR010,2025-10-12
+EQ0026,Stationary Bike 04,Cardio,Stationary Bike,Schwinn,Stationary Bike-2024,AC3B9F88,2024-11-02,2027-06-23,Active,FAC002,AR010,2025-10-12
+EQ0027,Stationary Bike 01,Cardio,Stationary Bike,Schwinn,Stationary Bike-2022,9892B50E,2022-07-12,2027-10-06,Maintenance,FAC003,AR014,2025-10-12
+EQ0028,Stationary Bike 02,Cardio,Stationary Bike,Schwinn,Stationary Bike-2022,E14C12FA,2024-08-28,2026-01-27,Active,FAC003,AR014,2025-10-12
+EQ0029,Stationary Bike 03,Cardio,Stationary Bike,Schwinn,Stationary Bike-2021,F41E0105,2022-12-15,2026-03-26,Active,FAC003,AR014,2025-10-12
+EQ0030,Stationary Bike 04,Cardio,Stationary Bike,Schwinn,Stationary Bike-2023,0C0CA9B6,2025-03-16,2025-12-23,Active,FAC003,AR014,2025-10-12
+EQ0031,Rowing Machine 01,Cardio,Rowing Machine,Concept2,Rowing Machine-2021,EF7DBDE0,2024-04-06,2026-04-27,Active,FAC001,AR003,2025-10-12
+EQ0032,Rowing Machine 02,Cardio,Rowing Machine,Concept2,Rowing Machine-2020,D10E9F32,2024-12-29,2026-02-19,Active,FAC001,AR003,2025-10-12
+EQ0033,Rowing Machine 03,Cardio,Rowing Machine,Concept2,Rowing Machine-2024,B4B2DD92,2025-02-10,2026-11-17,Active,FAC001,AR003,2025-10-12
+EQ0034,Rowing Machine 01,Cardio,Rowing Machine,Concept2,Rowing Machine-2024,A9175B97,2025-01-05,2026-11-11,Maintenance,FAC002,AR010,2025-10-12
+EQ0035,Rowing Machine 02,Cardio,Rowing Machine,Concept2,Rowing Machine-2024,B8638020,2024-02-01,2027-04-08,Active,FAC002,AR010,2025-10-12
+EQ0036,Rowing Machine 01,Cardio,Rowing Machine,Concept2,Rowing Machine-2022,C0C2D8E7,2025-01-31,2025-11-09,Active,FAC003,AR014,2025-10-12
+EQ0037,Rowing Machine 02,Cardio,Rowing Machine,Concept2,Rowing Machine-2023,4C94BCAD,2023-02-06,2027-06-23,Active,FAC003,AR014,2025-10-12
+EQ0038,Rowing Machine 03,Cardio,Rowing Machine,Concept2,Rowing Machine-2021,97D7E87E,2022-11-19,2027-09-09,Active,FAC003,AR014,2025-10-12
+EQ0039,Rowing Machine 04,Cardio,Rowing Machine,Concept2,Rowing Machine-2023,3AC01CED,2022-11-29,2026-11-14,Active,FAC003,AR014,2025-10-12
+EQ0040,Stair Climber 01,Cardio,Stair Climber,StairMaster,Stair Climber-2023,1E49B2D4,2023-06-01,2026-05-13,Active,FAC001,AR003,2025-10-12
+EQ0041,Stair Climber 02,Cardio,Stair Climber,StairMaster,Stair Climber-2020,ED5E15A3,2023-10-09,2027-08-18,Active,FAC001,AR003,2025-10-12
+EQ0042,Stair Climber 01,Cardio,Stair Climber,StairMaster,Stair Climber-2021,FE325FA1,2024-11-10,2026-10-08,Active,FAC002,AR010,2025-10-12
+EQ0043,Stair Climber 02,Cardio,Stair Climber,StairMaster,Stair Climber-2023,845AF478,2021-04-21,2025-10-22,Maintenance,FAC002,AR010,2025-10-12
+EQ0044,Stair Climber 01,Cardio,Stair Climber,StairMaster,Stair Climber-2022,D8DF57AA,2024-10-06,2026-12-05,Active,FAC003,AR014,2025-10-12
+EQ0045,Stair Climber 02,Cardio,Stair Climber,StairMaster,Stair Climber-2020,D6638EE8,2021-04-09,2026-07-09,Active,FAC003,AR014,2025-10-12
+EQ0046,Bench Press 01,Strength,Bench Press,Hammer Strength,Bench Press-2020,D6526035,2024-03-08,2027-03-08,Active,FAC001,AR001,2025-10-12
+EQ0047,Bench Press 02,Strength,Bench Press,Hammer Strength,Bench Press-2021,FD7B7752,2023-01-29,2026-02-13,Active,FAC001,AR001,2025-10-12
+EQ0048,Bench Press 01,Strength,Bench Press,Hammer Strength,Bench Press-2021,47A2D485,2024-02-28,2027-06-14,Active,FAC001,AR004,2025-10-12
+EQ0049,Bench Press 02,Strength,Bench Press,Hammer Strength,Bench Press-2022,0E6AB38D,2022-04-23,2026-11-02,Active,FAC001,AR004,2025-10-12
+EQ0050,Bench Press 01,Strength,Bench Press,Hammer Strength,Bench Press-2023,770CB264,2022-07-20,2027-01-25,Active,FAC002,AR006,2025-10-12
+EQ0051,Bench Press 01,Strength,Bench Press,Hammer Strength,Bench Press-2021,179CD921,2022-03-02,2026-01-05,Active,FAC002,AR008,2025-10-12
+EQ0052,Bench Press 01,Strength,Bench Press,Hammer Strength,Bench Press-2021,96491B5F,2023-02-02,2027-06-08,Active,FAC003,AR011,2025-10-12
+EQ0053,Bench Press 01,Strength,Bench Press,Hammer Strength,Bench Press-2024,B5C0ED2F,2024-11-30,2026-05-06,Active,FAC003,AR013,2025-10-12
+EQ0054,Squat Rack 01,Strength,Squat Rack,Rogue,Squat Rack-2020,417BEE28,2021-09-15,2027-10-06,Maintenance,FAC001,AR001,2025-10-12
+EQ0055,Squat Rack 01,Strength,Squat Rack,Rogue,Squat Rack-2024,24121289,2021-09-27,2027-07-03,Active,FAC001,AR004,2025-10-12
+EQ0056,Squat Rack 02,Strength,Squat Rack,Rogue,Squat Rack-2024,1CE07315,2021-08-31,2026-10-28,Maintenance,FAC001,AR004,2025-10-12
+EQ0057,Squat Rack 01,Strength,Squat Rack,Rogue,Squat Rack-2022,874EDD08,2024-03-08,2026-06-30,Active,FAC002,AR006,2025-10-12
+EQ0058,Squat Rack 02,Strength,Squat Rack,Rogue,Squat Rack-2023,9A43E4B1,2024-02-15,2026-05-10,Active,FAC002,AR006,2025-10-12
+EQ0059,Squat Rack 01,Strength,Squat Rack,Rogue,Squat Rack-2023,00FCE23A,2023-02-24,2027-02-26,Active,FAC002,AR008,2025-10-12
+EQ0060,Squat Rack 02,Strength,Squat Rack,Rogue,Squat Rack-2024,77B75610,2022-11-14,2027-06-07,Active,FAC002,AR008,2025-10-12
+EQ0061,Squat Rack 01,Strength,Squat Rack,Rogue,Squat Rack-2024,F0FE0C98,2020-11-02,2025-12-03,Active,FAC003,AR011,2025-10-12
+EQ0062,Squat Rack 01,Strength,Squat Rack,Rogue,Squat Rack-2023,A77FB250,2022-05-30,2026-05-31,Maintenance,FAC003,AR013,2025-10-12
+EQ0063,Squat Rack 02,Strength,Squat Rack,Rogue,Squat Rack-2020,D62F8D0D,2023-10-03,2026-05-20,Active,FAC003,AR013,2025-10-12
+EQ0064,Cable Machine 01,Strength,Cable Machine,Life Fitness,Cable Machine-2021,AFA17AA0,2025-04-09,2026-12-11,Active,FAC001,AR001,2025-10-12
+EQ0065,Cable Machine 02,Strength,Cable Machine,Life Fitness,Cable Machine-2020,081E99E2,2025-09-14,2025-11-05,Active,FAC001,AR001,2025-10-12
+EQ0066,Cable Machine 01,Strength,Cable Machine,Life Fitness,Cable Machine-2022,B3FB3F46,2024-08-13,2025-12-07,Active,FAC001,AR004,2025-10-12
+EQ0067,Cable Machine 02,Strength,Cable Machine,Life Fitness,Cable Machine-2020,08228DA8,2022-09-20,2026-11-02,Active,FAC001,AR004,2025-10-12
+EQ0068,Cable Machine 01,Strength,Cable Machine,Life Fitness,Cable Machine-2024,C06C04E8,2023-03-10,2026-12-16,Active,FAC002,AR006,2025-10-12
+EQ0069,Cable Machine 02,Strength,Cable Machine,Life Fitness,Cable Machine-2022,5948BB1F,2022-09-29,2025-11-09,Active,FAC002,AR006,2025-10-12
+EQ0070,Cable Machine 01,Strength,Cable Machine,Life Fitness,Cable Machine-2021,65CC45E3,2020-11-17,2026-08-27,Active,FAC002,AR008,2025-10-12
+EQ0071,Cable Machine 02,Strength,Cable Machine,Life Fitness,Cable Machine-2021,651C2831,2023-01-20,2027-01-11,Active,FAC002,AR008,2025-10-12
+EQ0072,Cable Machine 01,Strength,Cable Machine,Life Fitness,Cable Machine-2022,CE261A4A,2022-07-11,2026-06-25,Active,FAC003,AR011,2025-10-12
+EQ0073,Cable Machine 02,Strength,Cable Machine,Life Fitness,Cable Machine-2023,6D5549B0,2022-04-26,2027-05-18,Active,FAC003,AR011,2025-10-12
+EQ0074,Cable Machine 03,Strength,Cable Machine,Life Fitness,Cable Machine-2023,0EF85CB7,2025-06-11,2025-10-20,Active,FAC003,AR011,2025-10-12
+EQ0075,Cable Machine 01,Strength,Cable Machine,Life Fitness,Cable Machine-2022,DE1D2EFD,2025-06-03,2026-01-21,Active,FAC003,AR013,2025-10-12
+EQ0076,Cable Machine 02,Strength,Cable Machine,Life Fitness,Cable Machine-2022,6C042CB2,2021-08-19,2026-08-29,Active,FAC003,AR013,2025-10-12
+EQ0077,Leg Press 01,Strength,Leg Press,Cybex,Leg Press-2024,5CB37DB9,2023-07-23,2026-08-23,Active,FAC001,AR001,2025-10-12
+EQ0078,Leg Press 01,Strength,Leg Press,Cybex,Leg Press-2022,D40EC06D,2023-06-11,2026-05-05,Active,FAC001,AR004,2025-10-12
+EQ0079,Leg Press 01,Strength,Leg Press,Cybex,Leg Press-2023,F2B8FE6C,2024-01-18,2026-11-26,Active,FAC002,AR006,2025-10-12
+EQ0080,Leg Press 02,Strength,Leg Press,Cybex,Leg Press-2021,469187EF,2025-07-23,2025-11-22,Active,FAC002,AR006,2025-10-12
+EQ0081,Leg Press 01,Strength,Leg Press,Cybex,Leg Press-2021,D4469D47,2025-06-10,2025-11-18,Active,FAC002,AR008,2025-10-12
+EQ0082,Leg Press 01,Strength,Leg Press,Cybex,Leg Press-2024,8F5E664F,2021-11-25,2026-12-03,Active,FAC003,AR011,2025-10-12
+EQ0083,Leg Press 01,Strength,Leg Press,Cybex,Leg Press-2023,E985D84C,2023-02-16,2027-07-02,Active,FAC003,AR013,2025-10-12
+EQ0084,Leg Press 02,Strength,Leg Press,Cybex,Leg Press-2024,2884C5D6,2023-04-27,2026-07-31,Active,FAC003,AR013,2025-10-12
+EQ0085,Dumbbell Set 01,Strength,Dumbbell Set,Rogue,Dumbbell Set-2023,8E519FCC,2024-08-26,2026-11-27,Active,FAC001,AR001,2025-10-12
+EQ0086,Dumbbell Set 01,Strength,Dumbbell Set,Rogue,Dumbbell Set-2020,67E032A6,2022-12-16,2025-11-01,Active,FAC001,AR004,2025-10-12
+EQ0087,Dumbbell Set 01,Strength,Dumbbell Set,Rogue,Dumbbell Set-2023,39535C94,2020-10-11,2026-12-30,Active,FAC002,AR006,2025-10-12
+EQ0088,Dumbbell Set 02,Strength,Dumbbell Set,Rogue,Dumbbell Set-2020,BD836E13,2023-09-10,2027-03-20,Active,FAC002,AR006,2025-10-12
+EQ0089,Dumbbell Set 01,Strength,Dumbbell Set,Rogue,Dumbbell Set-2022,5A721B04,2021-01-22,2027-03-12,Active,FAC002,AR008,2025-10-12
+EQ0090,Dumbbell Set 02,Strength,Dumbbell Set,Rogue,Dumbbell Set-2024,2662816D,2023-06-06,2026-04-10,Active,FAC002,AR008,2025-10-12
+EQ0091,Dumbbell Set 01,Strength,Dumbbell Set,Rogue,Dumbbell Set-2022,F6DE0536,2023-04-19,2027-08-25,Active,FAC003,AR011,2025-10-12
+EQ0092,Dumbbell Set 02,Strength,Dumbbell Set,Rogue,Dumbbell Set-2020,C7F7E56B,2022-09-16,2027-08-10,Active,FAC003,AR011,2025-10-12
+EQ0093,Dumbbell Set 01,Strength,Dumbbell Set,Rogue,Dumbbell Set-2024,F1D27CE5,2023-08-08,2026-10-21,Active,FAC003,AR013,2025-10-12
+EQ0094,Dumbbell Set 02,Strength,Dumbbell Set,Rogue,Dumbbell Set-2024,36C7468A,2025-04-14,2026-03-08,Active,FAC003,AR013,2025-10-12
+EQ0095,Dumbbell Set 03,Strength,Dumbbell Set,Rogue,Dumbbell Set-2024,088CA6FE,2024-05-24,2026-11-19,Active,FAC003,AR013,2025-10-12
+EQ0096,Pull-up Station 01,Strength,Pull-up Station,TRX,Pull-up Station-2022,A68CA18B,2025-07-21,2027-09-19,Active,FAC001,AR001,2025-10-12
+EQ0097,Pull-up Station 02,Strength,Pull-up Station,TRX,Pull-up Station-2024,FF79505A,2020-11-25,2026-07-23,Active,FAC001,AR001,2025-10-12
+EQ0098,Pull-up Station 01,Strength,Pull-up Station,TRX,Pull-up Station-2020,340606CA,2023-06-24,2026-06-24,Active,FAC001,AR004,2025-10-12
+EQ0099,Pull-up Station 02,Strength,Pull-up Station,TRX,Pull-up Station-2022,7E77A0D8,2025-02-23,2026-07-08,Active,FAC001,AR004,2025-10-12
+EQ0100,Pull-up Station 01,Strength,Pull-up Station,TRX,Pull-up Station-2021,DF5CE54C,2021-04-21,2026-03-15,Active,FAC002,AR006,2025-10-12
+EQ0101,Pull-up Station 01,Strength,Pull-up Station,TRX,Pull-up Station-2023,73256D4B,2023-05-12,2026-08-31,Active,FAC002,AR008,2025-10-12
+EQ0102,Pull-up Station 02,Strength,Pull-up Station,TRX,Pull-up Station-2024,7DB6A8C7,2022-05-16,2025-11-26,Active,FAC002,AR008,2025-10-12
+EQ0103,Pull-up Station 01,Strength,Pull-up Station,TRX,Pull-up Station-2020,77A7DC66,2021-05-03,2026-11-06,Active,FAC003,AR011,2025-10-12
+EQ0104,Pull-up Station 01,Strength,Pull-up Station,TRX,Pull-up Station-2022,F673AA53,2025-01-10,2026-03-21,Active,FAC003,AR013,2025-10-12
