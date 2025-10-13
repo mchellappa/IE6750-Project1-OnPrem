@@ -63,7 +63,7 @@ class FitnessCenterDBLoader:
         try:
             self.connection = psycopg2.connect(**self.connection_params)
             self.cursor = self.connection.cursor()
-            print(f"✅ Connected to PostgreSQL database: {self.connection_params['database']}")
+            print(f"Connected to PostgreSQL database: {self.connection_params['database']}")
             return True
         except psycopg2.Error as e:
             print(f"Error connecting to database: {e}")
