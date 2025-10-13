@@ -411,3 +411,69 @@ SELECT
 FROM ods.class_enrollments
 GROUP BY attendance_status;
 ```
+
+**Database Loader Tool** (`db_loader.py`):
+```bash
+# Navigate to project directory
+
+# Create Python virtual environment
+python3 -m venv fitness_dw_env
+
+# Activate virtual environment (macOS/Linux)
+source fitness_dw_env/bin/activate
+
+# Install required packages
+pip install --upgrade pip
+pip install faker pandas psycopg2-binary sqlalchemy
+
+# pip install -r requirements.txt
+# Data Generator is configured to run and the files are loaded to ods_sample_data folder
+
+# Load directly from CSV files using PostgreSQL COPY (much faster)
+python db_loader.py --database fitness_center_ods --user postgres --clear
+```
+
+**Verification Queries** (same for both methods):
+```sql
+-- Verify data import
+SELECT 'facilities' as table_name, COUNT(*) as record_count FROM ods.facilities
+UNION ALL
+SELECT 'members', COUNT(*) FROM ods.members  
+UNION ALL
+SELECT 'equipment', COUNT(*) FROM ods.equipment
+UNION ALL 
+SELECT 'class_enrollments', COUNT(*) FROM ods.class_enrollments
+UNION ALL
+SELECT 'equipment_usage', COUNT(*) FROM ods.equipment_usage;
+```
+
+##### **Data Validation Queries**
+```sql
+-- Validate demographic distributions
+SELECT 
+    CASE 
+        WHEN EXTRACT(YEAR FROM AGE(date_of_birth)) BETWEEN 18 AND 25 THEN '18-25'
+        WHEN EXTRACT(YEAR FROM AGE(date_of_birth)) BETWEEN 26 AND 35 THEN '26-35'
+        WHEN EXTRACT(YEAR FROM AGE(date_of_birth)) BETWEEN 36 AND 50 THEN '36-50'
+        WHEN EXTRACT(YEAR FROM AGE(date_of_birth)) BETWEEN 51 AND 65 THEN '51-65'
+        ELSE '65+'
+    END as age_group,
+    gender,
+    COUNT(*) as member_count
+FROM ods.members 
+GROUP BY age_group, gender
+ORDER BY age_group, gender;
+
+-- Validate equipment category distribution  
+SELECT equipment_category, COUNT(*) as equipment_count
+FROM ods.equipment 
+GROUP BY equipment_category;
+
+-- Validate class attendance patterns
+SELECT 
+    attendance_status,
+    COUNT(*) as enrollment_count,
+    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER(), 2) as percentage
+FROM ods.class_enrollments
+GROUP BY attendance_status;
+```
