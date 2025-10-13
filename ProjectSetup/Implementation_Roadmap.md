@@ -316,7 +316,6 @@ CREATE INDEX idx_fact_class_enrollment_member ON dw.fact_class_enrollment(member
 #### **Step 5: Static Date and Time Dimensions**
 
 ```sql
--- Populate DIM_DATE (5-year range)
 INSERT INTO dw.dim_date (date_key, full_date, day_of_week, day_of_week_num, 
                         week_of_year, month_name, month_num, year, is_weekend)
 SELECT 
@@ -331,26 +330,28 @@ SELECT
     CASE WHEN EXTRACT(DOW FROM date_series) IN (0,6) THEN TRUE ELSE FALSE END as is_weekend
 FROM generate_series('2020-01-01'::date, '2030-12-31'::date, '1 day') as date_series;
 
+
 -- Populate DIM_TIME (30-minute intervals)
 INSERT INTO dw.dim_time (time_30min, hour_24, hour_12, am_pm, time_block, interval_of_day)
 SELECT 
-    time_series as time_30min,
-    EXTRACT(HOUR FROM time_series) as hour_24,
+    (INTERVAL '30 minutes' * series_num)::time as time_30min,
+    EXTRACT(HOUR FROM (INTERVAL '30 minutes' * series_num))::integer as hour_24,
     CASE 
-        WHEN EXTRACT(HOUR FROM time_series) = 0 THEN 12
-        WHEN EXTRACT(HOUR FROM time_series) > 12 THEN EXTRACT(HOUR FROM time_series) - 12
-        ELSE EXTRACT(HOUR FROM time_series)
+        WHEN EXTRACT(HOUR FROM (INTERVAL '30 minutes' * series_num)) = 0 THEN 12
+        WHEN EXTRACT(HOUR FROM (INTERVAL '30 minutes' * series_num)) > 12 
+        THEN EXTRACT(HOUR FROM (INTERVAL '30 minutes' * series_num))::integer - 12
+        ELSE EXTRACT(HOUR FROM (INTERVAL '30 minutes' * series_num))::integer
     END as hour_12,
-    CASE WHEN EXTRACT(HOUR FROM time_series) < 12 THEN 'AM' ELSE 'PM' END as am_pm,
+    CASE WHEN EXTRACT(HOUR FROM (INTERVAL '30 minutes' * series_num)) < 12 THEN 'AM' ELSE 'PM' END as am_pm,
     CASE 
-        WHEN EXTRACT(HOUR FROM time_series) BETWEEN 6 AND 11 THEN 'Morning'
-        WHEN EXTRACT(HOUR FROM time_series) BETWEEN 12 AND 17 THEN 'Afternoon'
-        WHEN EXTRACT(HOUR FROM time_series) BETWEEN 18 AND 22 THEN 'Evening'
+        WHEN EXTRACT(HOUR FROM (INTERVAL '30 minutes' * series_num)) BETWEEN 6 AND 11 THEN 'Morning'
+        WHEN EXTRACT(HOUR FROM (INTERVAL '30 minutes' * series_num)) BETWEEN 12 AND 17 THEN 'Afternoon'
+        WHEN EXTRACT(HOUR FROM (INTERVAL '30 minutes' * series_num)) BETWEEN 18 AND 22 THEN 'Evening'
         ELSE 'Off-Hours'
     END as time_block,
-    ((EXTRACT(HOUR FROM time_series) * 2) + 
-     CASE WHEN EXTRACT(MINUTE FROM time_series) >= 30 THEN 1 ELSE 0 END + 1) as interval_of_day
-FROM generate_series('00:00:00'::time, '23:30:00'::time, '30 minutes') as time_series;
+    (EXTRACT(HOUR FROM (INTERVAL '30 minutes' * series_num))::integer * 2) + 
+    CASE WHEN EXTRACT(MINUTE FROM (INTERVAL '30 minutes' * series_num)) >= 30 THEN 1 ELSE 0 END + 1 as interval_of_day
+FROM generate_series(0, 47) as series_num;  -- 48 intervals (0-47) for 24 hours
 ```
 
 ##### **PostgreSQL Data Import**
