@@ -355,62 +355,6 @@ FROM generate_series(0, 47) as series_num;  -- 48 intervals (0-47) for 24 hours
 ```
 
 ##### **PostgreSQL Data Import**
-```sql
--- Import data using generated SQL scripts
-\c fitness_center_ods;
-
--- Import in dependency order
-\i ods_sample_data/sql_scripts/insert_facilities.sql
-\i ods_sample_data/sql_scripts/insert_facility_areas.sql  
-\i ods_sample_data/sql_scripts/insert_members.sql
-\i ods_sample_data/sql_scripts/insert_staff.sql
-\i ods_sample_data/sql_scripts/insert_class_types.sql
-\i ods_sample_data/sql_scripts/insert_equipment.sql
-\i ods_sample_data/sql_scripts/insert_class_enrollments.sql
-\i ods_sample_data/sql_scripts/insert_equipment_usage.sql
-
--- Verify data import
-SELECT 'facilities' as table_name, COUNT(*) as record_count FROM ods.facilities
-UNION ALL
-SELECT 'members', COUNT(*) FROM ods.members  
-UNION ALL
-SELECT 'equipment', COUNT(*) FROM ods.equipment
-UNION ALL 
-SELECT 'class_enrollments', COUNT(*) FROM ods.class_enrollments
-UNION ALL
-SELECT 'equipment_usage', COUNT(*) FROM ods.equipment_usage;
-```
-
-##### **Data Validation Queries**
-```sql
--- Validate demographic distributions
-SELECT 
-    CASE 
-        WHEN EXTRACT(YEAR FROM AGE(date_of_birth)) BETWEEN 18 AND 25 THEN '18-25'
-        WHEN EXTRACT(YEAR FROM AGE(date_of_birth)) BETWEEN 26 AND 35 THEN '26-35'
-        WHEN EXTRACT(YEAR FROM AGE(date_of_birth)) BETWEEN 36 AND 50 THEN '36-50'
-        WHEN EXTRACT(YEAR FROM AGE(date_of_birth)) BETWEEN 51 AND 65 THEN '51-65'
-        ELSE '65+'
-    END as age_group,
-    gender,
-    COUNT(*) as member_count
-FROM ods.members 
-GROUP BY age_group, gender
-ORDER BY age_group, gender;
-
--- Validate equipment category distribution  
-SELECT equipment_category, COUNT(*) as equipment_count
-FROM ods.equipment 
-GROUP BY equipment_category;
-
--- Validate class attendance patterns
-SELECT 
-    attendance_status,
-    COUNT(*) as enrollment_count,
-    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER(), 2) as percentage
-FROM ods.class_enrollments
-GROUP BY attendance_status;
-```
 
 **Database Loader Tool** (`db_loader.py`):
 ```bash
