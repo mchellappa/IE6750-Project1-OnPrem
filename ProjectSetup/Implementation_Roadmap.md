@@ -421,3 +421,21 @@ SELECT
 FROM ods.class_enrollments
 GROUP BY attendance_status;
 ```
+
+##### **Next Steps**
+** ETL Talend setup
+Dimensions
+Load Geography
+Load Member
+Load Staff
+Load Facility
+Load Equipment
+Load Class
+
+Facts
+Load Class Enrollment
+Load Equipment Usage
+
+Master 
+Daily Job
+Weekly Job
