@@ -23,7 +23,7 @@ import argparse
 
 class FitnessCenterDBLoader:
     def __init__(self, host='localhost', port=5432, database='fitness_center_ods', 
-                 user='postgres', password='Brenau27'):
+                 user='postgres', password='nopassword'):
         self.connection_params = {
             'host': host,
             'port': port,
